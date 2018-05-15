@@ -74,7 +74,7 @@ fragen:
 <div class="container-fluid" id="logo-top">
   <div class="row">
     <div class="col-xs-12 col-sm-6 col-md-5">
-      <img src="/uploads/logos/logowhite-shadow.png" class="img-responsive">
+      <img src="/uploads/logos/logowhite-shadow.png" class="img-responsive" />
     </div>
   </div><!-- // logo-top -->
 </div>
@@ -119,7 +119,7 @@ fragen:
       <div class="text-box text-white">
         <h1 class="editable">Willkommen</h1>
         <p class="editable">Komm einfach vorbei und lerne uns kennen...</p>
-        <hr>
+        <hr />
         <div class="editable">
           <p>Mavuno Berlin ist eine generationsübergreifende, multikulturelle Kirche, in der du Gott begegnest, die dir hilft, dein Potential zu entfalten und in der du gute Freunde findest.</p>
           <p>Sei dabei und entdecke Gottes Ideen für dein Leben, für Berlin und die Welt!</p>
@@ -127,7 +127,7 @@ fragen:
       </div><!-- // text box -->
     </div><!-- // col 6 info -->
     <div class="col-sm-6 col-img hidden-xs col-img-pad">
-      <img src="/uploads/images/Kirche_04.jpg" class="img-responsive editable"/>
+      <img src="/uploads/images/Kirche_04.jpg" class="img-responsive editable" />
     </div><!-- // col 6 bild -->
   </div><!-- //row -->
 
@@ -179,17 +179,17 @@ fragen:
 <section id="gottesdienste" class="container-fluid section-light no-height">
   <div class="row">
     <div class="col-sm-6 col-img-pad">
-      <h3 class="visible-xs text-center editable">Gottesdienst</h4>
+      <h3 class="visible-xs text-center editable">Gottesdienst
       {% assign godi_image_string_size = page.gottesdienst_image | size %}
       {% assign last_predigtreihe = site.data.gottesdienstreihen | where: "aktiv", true | last %}
-      <img src="{% if godi_image_string_size > 1 %}{{ page.gottesdienst_image }}{% else %}{{ last_predigtreihe.image }}{% endif %}" class="img-responsive"/>
-    </div><!-- // col 6 bild -->
+      <img src="{% if godi_image_string_size > 1 %}{{ page.gottesdienst_image }}{% else %}{{ last_predigtreihe.image }}{% endif %}" class="img-responsive" />
+    </h3></div><!-- // col 6 bild -->
     <div class="col-sm-6">
       <div class="text-box text-center">
         <h4 class="hidden-xs">Gottesdienst</h4>
         <h1>
           <span class="editable">Jeden Sonntag um 11 Uhr</span>
-          <br>
+          <br />
           <small class="editable">mit Kinderprogramm</small>
         </h1>
 
@@ -197,14 +197,14 @@ fragen:
           <i class="fa fa-map-marker"></i>
           <span class="editable">Billy Wilder Promenade 4, 14167 Berlin</span>
         </a>
-        <hr>
+        <hr />
         <a href="/gottesdienste/was-dich-erwartet" class="btn-second btn-box editable">Was dich erwartet</a>
-        <br>
+        <br />
         <a href="/gottesdienste/predigten" class="btn-second btn-box editable">
           <i class="fa fa-download"></i>&nbsp;
           <span class="editable">Predigten hören</span>
         </a>
-        <br>
+        <br />
       </div><!-- // text box -->
     </div><!-- // col 6 info -->
   </div><!-- //row -->
@@ -212,11 +212,11 @@ fragen:
 
 
 <!-- Gemeinschaft -->
-<section id="gemeinschaft" class="container-fluid no-height" style="background-image:url('{{ page.background_image }}');" >
+<section id="gemeinschaft" class="container-fluid no-height" style="background-image:url('{{ page.background_image }}');">
 
   <div class="row">
     <div class="col-img-pad visible-xs">
-      <img src="{{ page.neuigkeiten_image }}" class="img-responsive editable"/>
+      <img src="{{ page.neuigkeiten_image }}" class="img-responsive editable" />
     </div>
 
     <div class="col-sm-6 ">
@@ -229,13 +229,13 @@ fragen:
         </div>
         <div class="text-center">
           <a href="http://eepurl.com/gVnMb" target="blank" class="btn btn-support btn-lg editable">Newsletter bestellen!</a>
-          <br>
+          <br />
         </div>
       </div><!-- // text box -->
     </div><!-- // col -->
 
     <div class="col-sm-6 col-img-pad hidden-xs">
-      <img src="{{ page.neuigkeiten_image }}" class="img-responsive"/>
+      <img src="{{ page.neuigkeiten_image }}" class="img-responsive" />
     </div>
   </div><!-- // row -->
 
@@ -296,11 +296,10 @@ fragen:
       <div class="text-box">
         <h1 class="editable">Wo du uns findest</h1>
         <div class="editable">
-          <strong>Mavuno Berlin<strong><br>
-          <i>Evangelisch-Freikirchliche Gemeinde Berlin-Lichterfelde</i><br>
-          <small>Körperschaft des öffentlichen Rechts</small><br><br>
-          Billy-Wilder-Promenade 4<br>
-          14167 Berlin<br>
+          <p>&nbsp;</p>
+          <p><strong>Mavuno Berlin<strong></strong></strong><br />Evangelisch-Freikirchliche Gemeinde Berlin-Lichterfelde<strong><strong><br /><small>K&ouml;rperschaft des &ouml;ffentlichen Rechts</small><br /><br />Billy-Wilder-Promenade 4<br />14167 Berlin</strong></strong>
+          </p>
+          <p>&nbsp;</p>
         </div>
         <iframe class="embed-responsive-item" width="100%" height="300" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ-yRf1a1bqEcRQVTmebRHMd8&key=AIzaSyBIGCH2NOvamE3sJxv8c_WtVyV-2Weu3kA" allowfullscreen></iframe>
       </div><!-- // text box -->
