@@ -1,0 +1,92 @@
+<!-- Kontakt Modal -->
+<div class="modal fade" id="contactModal" tabindex="-1" role="dialog" aria-labelledby="contactModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title editable" id="contactModalLabel">Nutze das Konaktformular</h4>
+        <p>
+          <span class="editable">Oder sende uns eine email an:</span>
+          &nbsp;
+          {% if page.title == "ROOTED" %}
+            rooted@mavuno.de
+          {% else %}
+            info@mavuno.de
+          {% endif %}
+        </p>
+      </div>
+      <div class="modal-body">
+        <form id="collapseContact" class="form-horizontal" name="kontakt" method="post" action="/danke" netlify-honeypot="bot-field" netlify>
+          <div class="form-group">
+            <label for="inputName" class="col-sm-2 control-label">Name</label>
+            <div class="col-sm-10">
+              <input type="text" class="form-control" id="inputName" placeholder="Name" name="name">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="inputEmail3" class="col-sm-2 control-label">Email</label>
+            <div class="col-sm-10">
+              <input type="email" class="form-control" id="inputEmail3" placeholder="Email" name="email">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="inputNachricht" class="col-sm-2 control-label">Nachricht</label>
+            <div class="col-sm-10">
+              <textarea class="form-control" rows="3" id="inputNachricht" placeholder="Deine Nachricht ..." name="nachricht"></textarea>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+              <input type="submit" class="btn btn-default" value="Abschicken">
+            </div>
+          </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <small class="editable">Alle Daten werden absolut vertraulich behandelt und niemals ohne ausdrückliche Erlaubnis an Dritte weitergegeben oder für Newsletter oder Werbezwecke verwendet!</small>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Spenden Modal -->
+<div class="modal fade" id="donateModal" tabindex="-1" role="dialog" aria-labelledby="donateModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="donateModalLabel">Vielen Dank, dass du Mavuno Berlin unterstützen möchtest!</h4>
+
+      </div>
+      <div class="modal-body">
+        <p class="editable">Mit diesen Links kannst du bei deinen Einkäufen Mavuno Berlin Unterstützen - ohne Zusatzkosten!</p>
+
+        <div class="row">
+    			<div class="col-sm-6">
+    				<a href="http://www.scm-shop.de/?pa=9901028" class="spenden-link-box editable" target="blank">Bücher kaufen</a>
+    			</div><!-- // col-->
+    			<div class="col-sm-6">
+    				<a href="https://www.wecanhelp.de/mavuno" class="spenden-link-box editable" target="blank">Online shopping</a>
+    			</div><!-- // col-->
+    		</div><!-- // row -->
+
+    		<p class="lead editable">Möchtest du etwas spenden?</p>
+    		<p class="editable">
+          Unsere Kirche finanziert sich ausschließlich aus Spenden.<br>
+          Wir verzichten bewusst auf Kirchensteuern, Mitglieds- oder Pflichtbeiträge. <br>
+          Alles, was wir tun, ist nur möglich, weil es Menschen gibt, denen Kirche unglaublich wichtig ist.<br>
+          Als Körperschaft des öffentlichen Rechts können wir Spendenbescheinigungen ausstellen,	die wir jeweils anfangs des Folgejahres verteilen.
+    		</p>
+
+        <h4 class="editable">Kontodaten:</h4>
+        <div class="editable">
+          <p>EFG Berlin-Lichterfelde<br>
+          Bank: Spar- und Kreditbank Bad Homburg<br>
+          IBAN: DE03 5009 2100 0000 1079 05<br>
+          BIC: GENODE51BH2 </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

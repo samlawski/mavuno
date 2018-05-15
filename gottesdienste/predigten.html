@@ -1,0 +1,53 @@
+---
+title: Predigten
+layout: page-gottesdienst
+---
+
+<div class="row">
+	<div id="predigt-page" class="col-sm-7 col-md-8">
+
+		<div class="text-box">
+			{% assign gottesdienstreihen = site.data.gottesdienstreihen | where: "aktiv", true %}
+			{% for gottesdienstreihe in gottesdienstreihen %}
+				<div class="row" style="margin-bottom: 20px;">
+					<div class="col-xs-12 col-md-5 col-lg-6">
+						<h2>{{ gottesdienstreihe.datum }}</h2>
+						<img src="{{ gottesdienstreihe.image }}" class="img-responsive"/>
+					</div> <!-- // col -->
+					<div class="col-xs-12 col-md-7 col-lg-6">
+						<ul class="predigt-list">
+							{% for gottesdienst in gottesdienstreihe.predigten %}
+								{% if gottesdienst.predigt %}
+									<li>
+										<h4>
+											{{gottesdienst.titel}}
+											&nbsp;
+											<small><a href="{{gottesdienst.predigt}}" target="_blank" download><i class="fa fa-download"></i></a></small>
+										</h4>
+										<audio controls="controls" preload="none">
+											<source src="{{gottesdienst.predigt}}" type="audio/mpeg" />
+											Bitte update deinen Web Browser, um die Predigt anhören zu können.
+										</audio><br>
+										<small>- {{gottesdienst.datum | date: "%d.%m.%y"}} {{gottesdienst.prediger}} </small>
+									</li>
+								{% endif %}
+							{% endfor %}
+						</ul>
+					</div> <!-- // col -->
+				</div><!-- // row -->
+			{% endfor %}
+
+		</div><!-- // text-box -->
+
+	</div><!-- // col -->
+
+
+	<div class="col-sm-5 col-md-4">
+		<div id="sticky-box" class="side-box-right text-center">
+			<!--h3>Nächste Schritte:</h3-->
+			<a href="#ich-will-kommen" class="a-scroll btn btn-lg btn-support">Komm zum Gottesdienst!</a><br>
+			<a href="/gemeinschaft/rooted" class="btn btn-link"><i class="fa fa-angle-right"></i> Mach bei Rooted mit!</a><br>
+			<a href="#contactModal" data-toggle="modal" data-target="#contactModal" class="btn btn-link"><i class="fa fa-angle-right"></i> Hast du Fragen?</a><br>
+		</div><!-- // side-box-righ -->
+	</div><!-- // col -->
+</div><!-- // row -->

@@ -1,0 +1,124 @@
+---
+title: Was dich erwartet
+layout: page-gottesdienst
+---
+
+<div class="container-fluid text-banner jumbotron">
+  <div class"row">
+    {% assign gottesdienst_reihe = site.data.gottesdienstreihen | where: "aktiv", true | last %}
+
+    <div class="col-sm-6 col-md-offset-1 col-md-5 col-lg-offset-2 col-lg-4">
+      <img src="{{ gottesdienst_reihe.image }}" class="img-responsive"/>
+    </div><!-- // col 6 -->
+    <div class="col-sm-6 col-md-5 col-lg-4">
+      <p class="editable">Der nächste Gottesdienst beginnt am Sonntag um 11 Uhr</p>
+      <p class="godi-beschreibung">{{gottesdienst_reihe.beschreibung}}</p>
+    </div><!-- // col 6 -->
+  </div><!-- // row -->
+</div>
+
+<div class="row text-box">
+  <div class="col-sm-6">
+    <div class="godi-beschreibung editable">
+      <p>Gottesdienste</p>
+      <p>sonntags, 11:00 Uhr - 12:15 Uhr</p>
+
+      <p>Schau einfach mal rein und erlebe die freundliche und aufgeschlossene Atmosphäre. Genieße die Musik und das ansprechende Rahmenprogramm und lass dich von lebensrelevanten Predigten herausfordern.</p>
+
+      <p>Hier hast du Gelegenheit, innezuhalten, Gott zu begegnen und zu erfahren, was er dir anbietet.</p>
+
+      <p>Komm einfach so, wie du bist, und schau dich bei uns um!</p>
+
+      <p>Ab 10:30 Uhr kannst du bei uns einen leckeren Kaffee genießen und neue Leute kennenlernen.</p>
+
+
+      <p>Besonderes Highlight:</p>
+      <p>Jeden 1. Sonntag im Monat bist du nach dem Gottesdienst zu einem bunten Mittagsbuffet eingeladen.</p>
+    </div>
+  </div><!-- // col 6 -->
+  <div class="col-sm-6">
+    <img src="/uploads/images/Gottesdienst_Aug_10.jpg" class="img-responsive editable">
+  </div><!-- // col 6 -->
+</div><!-- // row -->
+
+<div class="row text-box white-box">
+  <div class="col-xs-12">
+    <h3 class="editable">Parallel zum Gottesdienst gibt es auch für Kinder ein tolles Programm:</h3>
+  </div><!-- // col 6 -->
+  <div class="col-sm-6">
+    <div class="text-center"><img src="/uploads/images/MavunoMinis.png" class="kipro__logo img-responsive editable"></div>
+
+    <div class="row">
+      <div class="col-lg-6">
+        <h4 class="kipro__title editable">MavunoMinis (0-3 Jahre)</h4>
+
+        <img src="/uploads/images/Minis.jpg" class="kipro__img img-responsive editable" />
+
+        <div class="editable">
+          <p>In unserer Apsis befindet
+            sich die Babylounge. Hier bekommen unsere Jüngsten alles, was sie brauchen: eine
+            sichere Umgebung, die Nähe der Eltern, Essen, Wickelmöglichkeiten und einen kuscheligen
+            Platz zum Wohlfühlen und Erkunden... Gleichzeitig können die Eltern am Gottesdienst
+            teilnehmen.</p>
+            <p>Ganz in der Nähe der Babylounge gibt es in einem
+            separaten Raum ein tolles, altersgemäßes Programm der MavunoMinis - mit oder ohne
+            Eltern.</p>
+            <p>Kinder und Eltern sind eingeladen, während des Gottesdienstes
+            ganz nach Bedarf jederzeit zwischen Babylounge und MavunoMinis zu wechseln.</p>
+        </div>
+      </div><!-- // col -->
+      <div class="col-lg-6">
+        <h4 class="kipro__title editable">MavunoMaxis (3-6 Jahre)</h4>
+
+        <img src="/uploads/images/Maxis.jpg" class="kipro__img img-responsive editable" />
+
+        <div class="editable">
+          <p>Hier wird geknetet
+            und gebastelt, gesungen und getanzt, gegessen und getrunken, gespielt und gelacht
+            und es gibt spannende Geschichten, die helfen, die Welt zu verstehen und den großen
+            Gott, der alles gemacht hat, besser kennen zu lernen.</p>
+            <p>Ein engagiertes Mitarbeiterteam kümmert sich liebevoll um die Bedürfnisse unserer
+            Schützlinge. Die Mamas und Papas können gerne dabei sein.</p>
+        </div>
+      </div><!-- // col -->
+    </div><!-- // row -->
+  </div><!-- // col 6 -->
+  <hr class="visible-xs" />
+  <div class="col-sm-6">
+    <div class="text-center"><img src="/uploads/images/MavunoKids.png" class="kipro__logo img-responsive editable"></div>
+
+    <div class="row">
+      <div class="col-lg-6">
+        <h4 class="kipro__title editable">MavunoMädels (Mädchen, 6-12 Jahre)</h4>
+
+        <img src="/uploads/images/M_dels.jpg" class="kipro__img img-responsive editable" />
+
+        <div class="editable">
+          <p>Geheime Mädchensachen!</p>
+          <p>Hast du Lust auf verrückte Abenteuer, singen, tanzen, werkeln,
+            lustige Spiele und spannende Geschichten aus der Bibel?&nbsp;</p>
+          <p>Komm einfach vorbei!&nbsp;</p>
+          <p>Wir starten mit den Erwachsenen im Gottesdienst, und gehen
+          dann gemeinsam in unser MavunoMädels-Programm.&nbsp;</p>
+          <p>Wir freuen uns auf dich!</p>
+        </div>
+      </div><!-- // col -->
+      <div class="col-lg-6">
+        <h4 class="kipro__title editable">MavunoMusketiere (Jungs, 6-12 Jahre)</h4>
+
+        <img src="/uploads/images/Jungs.jpg" class="kipro__img img-responsive" />
+
+        <div class="editable">
+          <p>Nur für Jungs!</p>
+          <p>Endlich raus – Lagerfeuer, Hütten bauen, sich durchs Unterholz
+            schlagen und Geschichten aus der Bibel nacherleben...</p><p></p><p></p><p>Komm
+            einfach dazu und bring Kleidung für draußen und zum Wechseln mit! Es kann nass
+            und dreckig werden!&nbsp;</p><p>Nach einem gemeinsamen Start mit den Erwachsenen
+            im Gottesdienst, gehen wir mit den MavunoMusketieren bei Wind und Wetter raus
+            - in die Natur.&nbsp;</p><p>Wir freuen uns auf dich!</p>
+        </div>
+      </div><!-- // col -->
+    </div><!-- // row -->
+  </div><!-- // col 6 -->
+</div><!-- // row -->
+<br><br>

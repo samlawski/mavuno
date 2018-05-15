@@ -1,6 +1,9 @@
-title: Mavuno Berlin
+name: Mavuno Berlin
 email: info@mavuno.de
-description: Mavuno Berlin ist eine generationsübergreifende, multikulturelle Kirche, in der du Gott begegnest, die dir hilft, dein Potential zu entfalten und in der du gute Freunde findest.
+seo_title: Mavuno Berlin - EFG Lichterfelde K.d.ö.R.
+meta_keywords: "sonntag, church, kirche, efg, efg lichterfelde, lichterfelde, walter-linse-strasse, osteweg, mavuno, berlin, mavuno berlin, zehlendorf, billy wilder promenade, mcnair, goerzallee, monroe park, freikirche, evangelisch, freikirchlich, protestantisch, green lofts, süden, gemeinde, jesus, bibel, beten"
+meta_description: "Evangelisch Freikirchliche Gemeinde Lichterfelde Berlin K.d.ö.R."
+timezone: Berlin
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mavuno.de" # the base hostname & protocol for your site, e.g. http://example.com
 # paginate: 6

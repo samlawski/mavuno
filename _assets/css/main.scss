@@ -1,3 +1,730 @@
-body {
-  background-color: blue;
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+
+/* --- OPENING --------------------------- */
+
+/* // CLOSING  */
+
+/* Colors */
+$clr-primary: #244C5A;
+$clr-primary-dark: #1B3843;
+$clr-primary-alt: #1C485A;
+
+$clr-second: #7BACBC;
+$clr-second-light: #D5E6EB;
+$clr-second-alt: #6AA5BC;
+
+$clr-support: #BBDDE6;
+$clr-support-light: #E2F2F6;
+$clr-support-alt: #A9C6CF;
+
+
+
+/* ------------------------------------------------------ */
+/* --- GENERAL STYLING --------------------------- */
+/* ------------------------------------------------------ */
+html, body {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 16px;
+
+	background-color: black;
+	position: relative; /* Important for scroll spy */
+	min-height: 500px;
+	height: 100%;
+}
+
+a:link, a:visited {
+	color: #6AA5BC;
+}
+
+a:hover, a:focus {
+	color: #BBDDE6;
+	text-decoration: none;
+}
+
+/* Typography */
+.text-white {
+	color: #fff;
+}
+
+/* Boostrap editing */
+.jumbotron p {
+	font-size: inherit;
+}
+
+.btn {
+	border-radius: 0;
+}
+
+.btn-lg {
+	border-radius: 0;
+}
+
+.btn-primary, a.btn-primary {
+	background-color: $clr-primary;
+	border: 1px solid #1B3843;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active {
+  color: #ddd;
+  background-color: #1C485A;
+  border-color: #1B3843;
+}
+
+.btn-second, a.btn-second {
+	color: #fff;
+	background-color: #7BACBC;
+	border: 1px solid #D5E6EB;
+}
+.btn-second:hover,
+.btn-second:focus,
+.btn-second:active,
+.btn-second.active {
+  color: #fff;
+  background-color: #6AA5BC;
+  border-color: #D5E6EB;
+}
+
+.btn-support, a.btn-support {
+	color: #000;
+	background-color: #BBDDE6;
+	border: 1px solid #E2F2F6;
+}
+.btn-support:hover,
+.btn-support:focus,
+.btn-support:active,
+.btn-support.active {
+  color: #fff;
+  background-color: #A9C6CF;
+  border-color: #E2F2F6;
+}
+
+.form-control {
+	border-radius: 0;
+}
+
+.modal.fade:not(.in) .modal-dialog {
+    -webkit-transform: translate3d(0, 125%, 0);
+    transform: translate3d(0, 125%, 0);
+}
+
+/* // GENERAL STYLING  */
+
+/* --- SECTIONs--------------------------- 7BACBC*/
+section.container-fluid {
+	position: relative;
+	// min-height: 100%;
+	margin-bottom: 0;
+	background-size:  auto 100%;
+	background-attachment: fixed;
+}
+
+h1>i {
+	color: $clr-primary;
+}
+
+.text-banner {
+  border-radius: 0px !important;
+	background-color: #fff;
+	margin-top: 0;
+	padding: 30px;
+}
+
+.text-box {
+	margin: 20px 10px;
+	padding: 20px 40px;
+}
+
+.margin-box {
+	margin: 25px 10px;
+}
+
+.margin-height {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.padding-bottom {
+	padding-bottom: 50px;
+}
+
+header.text-box {
+	margin: 25px 10px 0 10px;
+	padding: 20px 40px 0 40px;
+}
+
+.white-box {
+	background-color: rgba(250, 250, 250, 0.8);
+}
+
+.black-box {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.col-img {
+	padding: 0;
+}
+
+.col-img-pad {
+	padding: 20px;
+}
+
+.btn-box {
+	display: block;
+
+	padding: 10px;
+	margin: 5px 30px;
+
+	text-align: center;
+	font-size: 1.2em;
+}
+
+section.no-height {
+	min-height: 0;
+}
+
+.section-dark {
+	background-color: #000;
+	color: #fff;
+}
+
+.section-light {
+	background-color: #eee;
+	color: #000;
+}
+/*
+section>footer {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+// SECTIONS  */
+
+/* --- FOOTER --------------------------- 	margin-top: 0; width: auto;	padding: 5px 20px;*/
+footer {
+	border-top: 1px solid #333;
+	color: #999;
+	font-size: 14px;
+}
+/* // FOOTER  */
+
+/* ------------------------------------------------------ */
+/* --- INDEX / FRONT PAGE --------------------------- */
+/* ------------------------------------------------------ */
+
+/* --- NAVIGATION TOP--------------------------- */
+.navbar {
+	background: none;
+
+	border: none;
+
+	font-size: 1.2em;
+	font-weight: 900;
+	li {
+		padding: 0;
+		margin: 5px;
+
+		background-color: rgba(0, 0, 0, 0.5);
+
+		a:link, a:visited {
+			color: #eee;
+		}
+		a:hover {
+			border-bottom: 2px solid #eee;
+		}
+	}
+	li.btn-primary {
+		background-color: $clr-primary;
+	}
+	li.active {
+		background-color: rgba(0, 0, 0, 0.4);
+	}
+}
+
+/* // NAVIGATION TOP  */
+
+/* --- MODALS --------------------------- */
+
+.modal-content {
+	border-radius: 0;
+}
+
+/* // MODALS  */
+
+/* --- HEADER LOGO --------------------------- */
+#logo-top {
+	position: absolute;
+	top: 50px;
+	left: 50px;
+	z-index: 22;
+}
+/* // HEADER LOGO  */
+
+/* --- CAROUSEL--------------------------- */
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-prev, .carousel-control .icon-next {
+	font-size: 4em;
+}
+
+.carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+		font-size: 14px;
+}
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.carousel-caption {
+	border-radius: 50%;
+	background-color: rgba(123, 167, 188, 0.8);
+	padding: 70px 10px 30px 10px;
+	width: 350px;
+	height: 350px;
+
+	left: 30px;
+	bottom: 37px;
+	h1 {
+		// margin-top: 0;
+		font-size: 2.4em;
+	}
+}
+
+@media (max-width: 767px) {
+	.carousel-caption {
+		h1 {
+			// margin-top: 14px;
+			font-size: 1.6em;
+		}
+		p {
+			font-size: 0.9em;
+		}
+	}
+}
+/* // CAROUSEL */
+
+/* --- NEUHIER --------------------------- */
+.neuhier-box {
+	margin: 10px 10px;
+	padding: 13px;
+
+	// min-height: 100px;
+
+	transition: min-height 0.5s, background-color 0.5s;
+	-webkit-transition: min-height 0.5s, background-color 0.5s;
+
+	a {
+		color: white;
+	}
+	footer {
+		border-color: #fff;
+	}
+	p {
+		margin-bottom: 0;
+	}
+}
+
+.neuhier-box:hover {
+	// min-height: 270px;
+	background-color: rgba(0, 0, 0, 0.7);
+}
+/* // NEUHIER  */
+
+/* --- GEMEINSCHAFT --------------------------- #7BACBC*/
+.gemeinschaft-links {
+	margin: 30px 0 50px;
+
+	.text-box {
+		margin: auto;
+		display: block;
+		text-align: center;
+	}
+}
+
+.gemeinschaft-box {
+	background: no-repeat center center ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+	height: 150px;
+	width: auto;
+	text-align: center;
+	margin: 20px 0;
+	img {
+		margin: auto;
+	}
+}
+
+.gemeinschaft-label {
+	position: absolute;
+	bottom: 20px;
+	left: 15px;
+	right: 15px;
+
+	min-height: 50px;
+
+	// background-color: rgba(0, 0, 0, 0.6);
+	color: #fff;
+	text-shadow: 0 0 13px #000;
+
+	padding: 7px 15px;
+
+	h3 {
+		transition: all 0.5s ease;
+		-webkit-transition: all 0.5s ease;
+		span {
+			padding: -1px 4px 0 4px;
+			background-color:rgba(0, 0, 0, 0.3);
+		}
+	}
+
+}
+
+.gemeinschaft-box:hover {
+	.gemeinschaft-label {
+		h3 {
+			font-size: 1.53em;
+		}
+	}
+}
+
+/*#u_0_0 {
+	width: 100% !important;
+}*/
+/* // GEMEINSCHAFT  */
+
+/* --- FAQ & CONTACT --------------------------- */
+.panel-group {
+	.panel {
+		border: none;
+		border-radius: 0;
+		background-color: #000;
+	}
+
+	.panel-heading {
+	color: #fff;
+	background-color: #000;
+	}
+}
+
+#sitemap {
+	margin-bottom: 30px;
+
+	li {
+		list-style: none;
+	}
+}
+
+#legal{
+	color: #888;
+}
+/* // FAQ & CONTACT  */
+
+
+/* ------------------------------------------------------ */
+/* --- PAGES ---------------------------------------- */
+/* ------------------------------------------------------ */
+
+/* only page navbars have a black-box*/
+.navbar>.black-box {
+	padding-left: 35px;
+	padding-right: 35px;
+}
+
+.navbar-brand {
+	padding: 10px;
+}
+
+section.page {
+	background-color: $clr-support;
+	.content {
+		margin-top: 62px;
+	}
+
+	a:link, a:visited {
+		color: #000;
+	}
+	a:hover, a:focus {
+		color: $clr-primary;
+	}
+}
+
+/* GESELLSCHAFT - Glaube und Vision */
+
+.glaube-banner1 {
+	background-color: #fff;
+	margin-top: 0;
+	padding: 30px;
+}
+
+.glaube-banner2 {
+	background-color: #fff;
+	margin-top: 0;
+	padding: 30px;
+}
+
+/* GESELLSCHAFT - GESCHICHTE */
+.geschichte-row {
+	overflow: hidden;
+
+	transition: background-color 0.7s;
+}
+
+.geschichte-row:hover {
+	background-color: $clr-support-light;
+}
+
+.geschichte-row>[class*="col-"] {
+	margin-bottom: -99999px;
+  padding-bottom: 99999px;
+}
+
+.timeline {
+	background-color: #000;
+	position: absolute;
+
+	height: 100%;
+	width: 2px;
+
+	margin-left: 30px;
+}
+
+.timeline-jahr {
+	font-size: 4em;
+	color: $clr-primary;
+}
+
+.timeline-beschreibung {
+	padding: 20px;
+}
+
+.timeline-beschreibung>img {
+	float: left;
+	margin: 0 10px 5px 0;
+	max-width: 230px;
+}
+
+/* GOTTESDIENST Was-dich-erwartet */
+.godi-themen {
+	color: $clr-primary;
+	// font-size: 1.2em;
+}
+
+.godi-beschreibung {
+	b {
+		font-size: 1.1em;
+		color: $clr-primary;
+	}
+}
+
+.kipro__logo {
+  max-height: 150px;
+  margin: auto;
+  margin-bottom: 40px;
+}
+
+.kipro__title {
+  border-bottom: 3px solid #333;
+  padding-bottom: 10px;
+}
+
+.kipro__img {
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+/* GOTTESDIENST Predigten */
+.side-box-right {
+	border-left: 1px solid $clr-support-light;
+
+	.btn {
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+}
+
+.predigt-list {
+	padding-left: 0;
+
+	li {
+		list-style: none;
+
+		border-bottom: 1px dotted #fff;
+
+		audio {
+			max-width: 100%;
+		}
+	}
+}
+
+/* GEMEINSCHAFT - ROOTED */
+.rooted-area {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.rooted-area2 {
+	background-color: #7ba7bc;
+	margin: 20px;
+}
+
+.rooted-box {
+	padding: 20px;
+	h1 {
+		margin-top: 0;
+	}
+}
+
+/* GEMEINSCHAFT - ANGEBOTE */
+.featured {
+	background-color: $clr-support;
+}
+.cropped-img {
+	max-width: 100%;
+	height: 300px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+@media (max-width: 767px) {
+	.cropped-img {
+		height: 200px;
+	}
+}
+
+
+/* GEMEINSCHAFT - UNTERSTUETZEN */
+.spenden-link-box {
+	// background-color: $clr-support;
+	border: 1px solid $clr-support;
+	border-radius: 1px;
+	width: 100%;
+	display: block;
+	margin: 10px 0;
+	padding: 50px 20px;
+	text-align: center;
+	font-size: 1.3em;
+}
+
+
+/* ------------------------------------------------------ */
+/* --- DIFFERENT SCREEN TYPES --------------------------- */
+/* ------------------------------------------------------ */
+/* small screens */
+@media (max-width: 767px) {
+	/* FRONT PAGE*/
+	.carousel-caption {
+	padding: 33px;
+	width: 270px;
+	height: 270px;
+
+	left: auto;
+	right: auto;
+	margin: auto;
+
+		.btn {
+			padding: 5px;
+			font-size: 1.2em;
+		}
+	}
+
+	.navbar {
+		background: none;
+		background-color: rgba(0, 0, 0, 0.4);
+	}
+
+	.navbar-brand {
+		padding: 6px;
+		max-width:230px;
+		overflow:hidden;
+		white-space: nowrap;
+		text-overflow: ellipsis;
+	}
+
+	.navbar-toggle {
+		margin-right: 1px;
+	}
+
+	#logo-top {
+		top: 60px;
+		left: auto;
+	}
+
+	h1, h2 {text-align: center;}
+
+	h1 {
+		font-size: 1.4em;
+	}
+
+	.btn-box {
+		margin: 5px;
+	}
+
+	.text-box {
+		padding: 10px;
+	}
+
+	.neuhier-box {
+		padding: 5px;
+		min-height: 0;
+
+		.fa {
+			font-size: 3em;
+		}
+		h3 {
+			padding: 0;
+		}
+	}
+	.neuhier-box:hover {
+		min-height: 0;
+	}
+	#sitemap {
+		padding-left: 10px;
+	}
+	/* FRONT PAGE Gemeinschaft */
+	.gemeinschaft-box img {
+		width: 100%;
+		height: auto;
+	}
+	.gemeinschaft-label {
+		bottom: 0;
+	}
+
+	/* --------- PAGES ---------- */
+
+	/* Geschichte */
+	.timeline {
+		margin-left: 1px;
+	}
+	.timeline-beschreibung img {
+		width: 100%;
+	}
+
+	/* Was-dich-erwartet */
+	.godi-themen {
+		// font-size: 1.1em;
+	}
+}
+
+/* normal screens */
+@media (min-width: 1210px) {
+	section.container-fluid {
+		background-size: 100% auto !important;
+		background-position: top left ;
+	}
 }

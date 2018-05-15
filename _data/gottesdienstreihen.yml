@@ -1,0 +1,83 @@
+- titel: Rooted 2
+  datum: Februar 2018
+  beschreibung: Weißt du was? Gott hat dich mit Absicht geschaffen. Er hat dich
+    mit Gaben und Begrenzungen ausgestattet. Er hat genau vor Augen, wie dein Leben
+    zum Segen für dich und andere werden kann. Nimm dir die Zeit herauszufinden,
+    was Gottes Plan für dein Leben ist!
+  image: "/uploads/images/Rooted2.jpg"
+  aktiv: true
+  predigten:
+    - titel: Geboren um zu wachsen
+      predigt: ""
+      datum: '2018-02-04'
+      prediger: Daniel Flechsig
+    - titel: Wie lebe ich nach Gottes Vorstellung?
+      predigt: ""
+      datum: '2018-02-11'
+      prediger: Sebastian Trommer
+    - titel: Wie erzähle ich meine Geschichte?
+      predigt: ""
+      datum: '2018-02-18'
+      prediger: Ole Glöckner
+    - titel: Wie mache ich das Beste aus meinem Leben?
+      predigt: ""
+      datum: '2018-02-25'
+      prediger: Daniel Flechsig
+    - titel: Wie mache ich das Beste aus meinem Geld?
+      predigt: "https://download.mavuno.de/20180304_Predigt_Boguslawski_RootedII_05.mp3"
+      datum: '2018-03-04'
+      prediger: Christian Boguslawski
+    - titel: Wie finde ich meine Berufung?
+      predigt: "https://download.mavuno.de/20180311_Predigt_Flechsig_RootedII_06.mp3"
+      datum: '2018-03-11'
+      prediger: Daniel Flechsig
+    - titel: Wie lebe ich meine Berufung?
+      predigt: "https://download.mavuno.de/20180318_Predigt_Flechsig_RootedII_07.mp3"
+      datum: '2018-03-18'
+      prediger: Daniel Flechsig
+    - titel: Geboren um zu fliegen
+      predigt: "https://download.mavuno.de/20180325_Predigt_Flechsig_RootedII_08.mp3"
+      datum: '2018-03-25'
+      prediger: Daniel Flechsig
+- titel: Der Kreiszieher
+  datum: April 2018
+  beschreibung: Darf ich mit Gott direkt reden? Was muss ich dabei beachten? Wie
+    darf ich dem großen Gott begegnen? In dieser Predigtreihe geht es um das Thema
+    Gebet. Lass dich von Gott überraschen!
+  image: "/uploads/images/IMG-20180303-WA0000.jpg"
+  aktiv: true
+  predigten:
+    - titel: Die Legende des Kreisziehers
+      predigt: "https://download.mavuno.de/20180408_Predigt_Gl_ckner_Kreiszieher_01.mp3"
+      datum: '2018-04-08'
+      prediger: Ole Glöckner
+    - titel: Risiko
+      predigt: "https://download.mavuno.de/20180415_Predigt_Boguslawski_Kreiszieher_02.mp3"
+      datum: '2018-04-15'
+      prediger: Christian Boguslawski
+    - titel: Groß träumen
+      predigt: "https://download.mavuno.de/20180422_Predigt_Flechsig_Kreiszieher_04_Gross_traeumen.mp3"
+      datum: '2018-04-22'
+      prediger: Daniel Flechsig
+    - titel: Gebet für die Stadt
+      predigt: "https://download.mavuno.de/20180429_Predigt_Nehlsen_Kreiszieher_04.mp3"
+      datum: '2018-04-29'
+      prediger: Axel Nehlsen
+    - titel: Dran bleiben
+      predigt: "https://download.mavuno.de/20180506_Predigt_Lamont_Kreiszieher_05.mp3"
+      datum: '2018-05-06'
+      prediger: Lamont Hartman
+    - titel: Wenn Gott Nein sagt
+      predigt: "https://download.mavuno.de/20180513_Predigt_Gloeckner_Kreiszieher_06.mp3"
+      datum: '2018-05-13'
+      prediger: Ole Glöckner
+    - titel: Langfristig denken
+      predigt: ''
+      datum: '2018-05-20'
+      prediger: Daniel Flechsig
+- titel: Testreihe
+  datum: blabla
+  beschreibung: Test
+  image: "/uploads/images/IMG-20180303-WA0000.jpg"
+  aktiv: false
+  predigten:

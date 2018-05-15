@@ -1,0 +1,64 @@
+---
+title: Mieten
+layout: page-gemeinschaft
+contract_file: /uploads/images/Vermietung_MavunoBerlin.pdf
+raeume:
+  -
+    beschreibung: "<p>charmante Südstaaten Kirche</p>"
+    image: /uploads/images/DSC_0211.JPG
+    titel: Kapelle
+  -
+    beschreibung: "<p>Hier können unsere Kleinsten sicher spielen und sind trotzdem mit dabei!</p>"
+    image: /uploads/images/DSC_0659.JPG
+    titel: Babylounge
+  -
+    beschreibung: "<p>Ein kleiner gemütlicher Raum zum Wohlfühlen mit Teppichboden.</p>"
+    image: /uploads/images/raum_der_stille.png
+    titel: "Raum der Stille"
+  -
+    beschreibung: "<p>Ein kindgerecht gestalteter Raum mit Fußbodenheizung.</p>"
+    image: /uploads/images/DSC_0001.JPG
+    titel: Mini-Raum
+  -
+    beschreibung: <p>Mehrzweckraum</p>
+    image: /uploads/images/IMG-20150915-WA0001.jpg
+    titel: "Kids-Raum im Nebengebäude"
+  -
+    beschreibung: "<p>Die großzügige Außenanlage bietet viele Möglichkeiten.</p>"
+    image: /uploads/images/Optimized-DSC_0624.JPG
+    titel: Gelände
+---
+
+<div class="text-center">
+  <h2 class="editable">Du möchtest unsere Räume für deine Veranstaltung mieten?</h2>
+  <!-- line breaks need to be removed otherwise they are displayed in the text area! -->
+  <a href="#" data-toggle="modal" data-target="#contactModal"
+  data-message='Ich interessiere mich für Ihr Objekt: ...'
+  class="btn btn-support btn-lg editable">
+  Jetzt unverbindlich anfragen
+  </a><br>
+  <p class="lead"></p>
+</div>
+
+{% for objekt in page.raeume %}
+  <div class="row text-box">
+  <div class="col-sm-4 col-md-3">
+  <div class="thumbnail">
+  <img src="{{objekt.image}}" class="img-responsive">
+  </div><!-- // thumbnail -->
+  </div><!-- // col -->
+  <div class="col-sm-8 col-md-9">
+  <div class="text-box white-box">
+  <h3>{{ objekt.titel }}</h3>
+  <p>
+  {{ objekt.beschreibung }}
+  </p>
+  </div><!-- // thumbnail -->
+  </div><!-- // col -->
+  </div><!-- // row -->
+{% endfor %}
+
+<div class="text-center padding-bottom">
+  <a href="{{page.contract_file}}" target="_blank" class="btn btn-support btn-lg">Vertrag Herunterladen</a><br>
+  <p class="lead"></p>
+</div>

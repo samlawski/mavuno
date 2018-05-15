@@ -1,15 +1,335 @@
 ---
-layout: page
-id: home
+layout: default
+header_titel: Willkommen zum Gottesdienst
+header_image: "/uploads/images/DSC_0241.JPG"
+header_zeit: sonntags 11 Uhr
+header_ort: Billy-Wilder-Promenade 4, 14167 Berlin
+header_button_text: Erfahre mehr...
+header_button_link: "#gottesdienste"
+background_image: /uploads/images/M1-1.jpg
+gottesdienst_image: ''
+neuigkeiten_image: /uploads/images/2018-_kumGoDi_Folie.png
+gesellschaft_rooted_image: /uploads/images/rootedweb-min.jpg
+gesellschaft_andere_image: /uploads/images/Kinderbetreuung_01-min.jpg
+gesellschaft_unterstuetzen_image: /uploads/images/unterstuetzen-min.jpg
+gesellschaft_vermietung_image: /uploads/images/IMG_0477-min.jpg
+fragen:
+  - id: was-heisst-mavuno
+    frage: Warum Mavuno?
+    antwort: Wozu existieren Kirchen überhaupt? Braucht die Welt noch Kirchen? Mit
+      diesen Fragen beschäftigte sich 1989 eine kleine Kirche in Nairobi, Kenia, als
+      sie kurz vor der Schließung stand. Inzwischen ist aus dieser Kirche ein weltweites
+      Netzwerk entstanden. MAVUNO KENIA (mavunochurch.org) unterstützt bestehende
+      Kirchen und gründet neue Kirchen. 'Mavuno' ist Swaheli und bedeutet 'Ernte'.
+      Jesus benutzt dieses Wort, als er sieht, wie sehr die Menschen leiden und Hilfe
+      brauchen. Er fordert seine Nachfolger auf, Gott um mehr Arbeiter in der "Ernte"
+      zu bitten. - Die Bibel, Matthäusevangelium 9,35 ff.
+  - id: was-ist-aus-efg-lichterfelde-geworden
+    frage: Was ist aus der EFG Lichterfelde geworden?
+    antwort: Es handelt sich bei Mavuno Berlin noch immer um die EFG Berlin-Lichterfelde.
+      Mavuno Berlin ist lediglich der neue Name, der den Neustart der Kirche ausdrückt.
+  - id: seid-evangelisch
+    frage: Seid ihr evangelisch?
+    antwort: Ja. Das Evangelium, die gute Nachricht von Jesus Christus, ist Zentrum
+      unseres Glaubens und Lebens.
+  - id: freikirchlich-ist-das-eine-sekte
+    frage: 'Warum freikirchlich?'
+    antwort: Freikirchen sind unabhängig vom Staat. Sie verzichten auf Kirchensteuern
+      und finanzieren sich aus freiwilligen Spenden. Auch die Mitgliedschaft ist freiwillig.
 ---
 
-<section class="post-list">
-  {% for post in site.posts %}
-    <div class="post">
-      <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-      </h2>
-      <small class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</small>
-    </div><!-- / .post -->
-  {% endfor %}
-</section><!-- / .post-list -->
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#CollapseNavbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <!--a class="navbar-brand" href="#">Mavuno Berlin</a-->
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="CollapseNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+          <a class="a-scroll editable" href="#neuhier">Neu hier?</a>
+        </li>
+        <li>
+          <a class="a-scroll editable" href="#gottesdienste">Gottesdienste</a>
+        </li>
+        <li>
+          <a class="a-scroll editable" href="#gemeinschaft">Einfach leben</a>
+        </li>
+        <li class="btn-primary">
+          <a href="#" data-toggle="modal" data-target="#donateModal" class="editable">Spenden</a>
+        </li>
+      </ul>
+    </div><!-- // navbar-collapse -->
+  </div><!-- // container -->
+</nav>
+
+<div class="container-fluid" id="logo-top">
+  <div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-5">
+      <img src="/uploads/logos/logowhite-shadow.png" class="img-responsive">
+    </div>
+  </div><!-- // logo-top -->
+</div>
+
+
+<!-- Header -->
+<header id="header" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <!-- Set the first background image using inline CSS below. -->
+      <div class="fill" style="background-image:url('{{ page.header_image }}');"></div>
+      <div class="container">
+        <div class="carousel-caption">
+          <h1>{{ page.header_titel }}</h1>
+          {% if page.header_zeit %}
+            <p>
+              <i class="fa fa-clock-o"></i>
+              {{ page.header_zeit }}
+            </p>
+          {% endif %}
+          {% if page.header_ort %}
+            <p>
+              <i class="fa fa-map-marker"></i>
+              {{ page.header_ort }}
+            </p>
+          {% endif %}
+          {% if page.header_text %}
+            <p>{{ page.header_text }}</p>
+          {% endif %}
+          <p><a class="btn btn-lg btn-second btn-carousel" href="{{ page.header_button_link }}" role="button">{{ page.header_button_text }}</a></p>
+        </div><!-- // carousel caption -->
+      </div><!-- // container -->
+    </div><!-- // item -->
+  </div><!-- // carousel inner -->
+</header>
+
+
+<!-- Gesellschaft -->
+<section class="container-fluid no-height padding-bottom" id="neuhier" style="background-image:url('{{ page.background_image }}');">
+  <div class="row">
+    <div class="col-sm-6">
+      <div class="text-box text-white">
+        <h1 class="editable">Willkommen</h1>
+        <p class="editable">Komm einfach vorbei und lerne uns kennen...</p>
+        <hr>
+        <div class="editable">
+          <p>Mavuno Berlin ist eine generationsübergreifende, multikulturelle Kirche, in der du Gott begegnest, die dir hilft, dein Potential zu entfalten und in der du gute Freunde findest.</p>
+          <p>Sei dabei und entdecke Gottes Ideen für dein Leben, für Berlin und die Welt!</p>
+        </div>
+      </div><!-- // text box -->
+    </div><!-- // col 6 info -->
+    <div class="col-sm-6 col-img hidden-xs col-img-pad">
+      <img src="/uploads/images/Kirche_04.jpg" class="img-responsive editable"/>
+    </div><!-- // col 6 bild -->
+  </div><!-- //row -->
+
+  <div class="row same-height-container">
+    <div class="col-sm-4">
+      <div class="black-box neuhier-box row text-center same-height">
+        <a href="/neuhier/wer-wir-sind">
+          <span class="row text-center">
+            <p class="col-xs-2 col-sm-3 col-lg-2"><i class="fa fa-users fa-4x"></i></p>
+            <span class="col-xs-10 col-sm-9 col-lg-10">
+              <h3 class="editable">Wer wir sind</h3>
+              <div class="hidden-xs editable">Wir stellen uns vor</div>
+            </span><!-- col -->
+          </span>
+        </a>
+      </div><!-- // neuhier-box -->
+    </div><!-- // col for btn-box -->
+    <div class="col-sm-4">
+      <div class="black-box neuhier-box same-height">
+        <a href="/neuhier/was-uns-motiviert">
+          <span class="row text-center">
+            <p class="col-xs-2 col-sm-3 col-lg-2"><i class="fa fa-child fa-4x"></i></p>
+            <span class="col-xs-10 col-sm-9 col-lg-10">
+              <h3 class="editable">Was uns motiviert</h3>
+              <div class="hidden-xs editable">Ein liebender Gott</div>
+            </span><!-- col -->
+          </span><!-- // row text-center -->
+        </a>
+      </div><!-- // neuhier-box -->
+    </div><!-- // col for btn-box -->
+    <div class="col-sm-4">
+      <div class="black-box neuhier-box same-height">
+        <a href="/neuhier/was-uns-praegt">
+          <span class="row text-center">
+            <p class="col-xs-2 col-sm-3 col-lg-2"><i class="fa fa-book fa-4x"></i></p>
+            <span class="col-xs-10 col-sm-9 col-lg-10">
+              <h3 class="editable">Was uns prägt</h3>
+              <div class="hidden-xs editable">Eine Kirche mit mehr als 100 Jahren Geschichte...</div>
+            </span><!-- col -->
+          </span>
+        </a>
+      </div>
+    </div><!-- // col for btn-box -->
+  </div><!-- //row -->
+</section><!-- //container -->
+
+
+<!-- Gottesdienste -->
+<section id="gottesdienste" class="container-fluid section-light no-height">
+  <div class="row">
+    <div class="col-sm-6 col-img-pad">
+      <h3 class="visible-xs text-center editable">Gottesdienst</h4>
+      {% assign godi_image_string_size = page.gottesdienst_image | size %}
+      {% assign last_predigtreihe = site.data.gottesdienstreihen | where: "aktiv", true | last %}
+      <img src="{% if godi_image_string_size > 1 %}{{ page.gottesdienst_image }}{% else %}{{ last_predigtreihe.image }}{% endif %}" class="img-responsive"/>
+    </div><!-- // col 6 bild -->
+    <div class="col-sm-6">
+      <div class="text-box text-center">
+        <h4 class="hidden-xs">Gottesdienst</h4>
+        <h1>
+          <span class="editable">Jeden Sonntag um 11 Uhr</span>
+          <br>
+          <small class="editable">mit Kinderprogramm</small>
+        </h1>
+
+        <a href="#nochfragen">
+          <i class="fa fa-map-marker"></i>
+          <span class="editable">Billy Wilder Promenade 4, 14167 Berlin</span>
+        </a>
+        <hr>
+        <a href="/gottesdienste/was-dich-erwartet" class="btn-second btn-box editable">Was dich erwartet</a>
+        <br>
+        <a href="/gottesdienste/predigten" class="btn-second btn-box editable">
+          <i class="fa fa-download"></i>&nbsp;
+          <span class="editable">Predigten hören</span>
+        </a>
+        <br>
+      </div><!-- // text box -->
+    </div><!-- // col 6 info -->
+  </div><!-- //row -->
+</section><!-- //container -->
+
+
+<!-- Gemeinschaft -->
+<section id="gemeinschaft" class="container-fluid no-height" style="background-image:url('{{ page.background_image }}');" >
+
+  <div class="row">
+    <div class="col-img-pad visible-xs">
+      <img src="{{ page.neuigkeiten_image }}" class="img-responsive editable"/>
+    </div>
+
+    <div class="col-sm-6 ">
+      <!-- col-xs-12 -->
+      <div class="text-box text-center text-white">
+        <h1 class="editable">Was geht?</h1>
+        <div class="text-center editable">
+          <p>Mit unserem Newsletter bleibst du auf dem Laufenden.</p>
+          <p>kostenlos und unverbindlich</p>
+        </div>
+        <div class="text-center">
+          <a href="http://eepurl.com/gVnMb" target="blank" class="btn btn-support btn-lg editable">Newsletter bestellen!</a>
+          <br>
+        </div>
+      </div><!-- // text box -->
+    </div><!-- // col -->
+
+    <div class="col-sm-6 col-img-pad hidden-xs">
+      <img src="{{ page.neuigkeiten_image }}" class="img-responsive"/>
+    </div>
+  </div><!-- // row -->
+
+
+  <div class="gemeinschaft-links row">
+    <div class="col-sm-6 col-md-3">
+      <a href="/gemeinschaft/rooted">
+        <div class="gemeinschaft-box" style="background-image:url('{{ page.gesellschaft_rooted_image }}');">
+          <div class="gemeinschaft-label">
+            <h3 class="text-right">
+              <span class="editable">ROOTED</span>
+            </h3>
+          </div><!-- //gemeinschaft-label -->
+        </div>
+      </a>
+    </div><!-- // col for btn-box -->
+    <div class="col-sm-6 col-md-3">
+      <a href="/gemeinschaft/angebote">
+        <div class="gemeinschaft-box" style="background-image:url('{{ page.gesellschaft_andere_image }}');">
+          <div class="gemeinschaft-label">
+            <h3 class="text-right">
+              <span class="editable">Weitere Angebote</span>
+            </h3>
+          </div><!-- //gemeinschaft-label -->
+        </div><!-- //gemeinschaft-box -->
+      </a>
+    </div><!-- // col for btn-box -->
+    <div class="col-sm-6 col-md-3">
+      <a href="#gemeinschaft" data-toggle="modal" data-target="#donateModal">
+        <div class="gemeinschaft-box" style="background-image:url('{{ page.gesellschaft_unterstuetzen_image }}');">
+          <div class="gemeinschaft-label">
+            <h3 class="text-right">
+              <span class="editable">Unterstützen</span>
+            </h3>
+          </div><!-- //gemeinschaft-label -->
+        </div><!-- //gemeinschaft-box -->
+      </a>
+    </div><!-- // col for btn-box -->
+    <div class="col-sm-6 col-md-3">
+      <a href="/gemeinschaft/mieten">
+        <div class="gemeinschaft-box" style="background-image:url('{{ page.gesellschaft_vermietung_image }}');">
+          <div class="gemeinschaft-label">
+            <h3 class="text-right">
+              <span class="editable">Mieten</span>
+            </h3>
+          </div><!-- //gemeinschaft-label -->
+        </div><!-- //gemeinschaft-box -->
+      </a>
+    </div><!-- // col for btn-box -->
+  </div><!-- // row -->
+</section><!-- //container -->
+
+
+<!-- Noch Fragen -->
+<section id="nochfragen" class="container-fluid section-dark no-height">
+  <div class="row">
+    <div class="col-sm-6">
+      <div class="text-box">
+        <h1 class="editable">Wo du uns findest</h1>
+        <div class="editable">
+          <strong>Mavuno Berlin<strong><br>
+          <i>Evangelisch-Freikirchliche Gemeinde Berlin-Lichterfelde</i><br>
+          <small>Körperschaft des öffentlichen Rechts</small><br><br>
+          Billy-Wilder-Promenade 4<br>
+          14167 Berlin<br>
+        </div>
+        <iframe class="embed-responsive-item" width="100%" height="300" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ-yRf1a1bqEcRQVTmebRHMd8&key=AIzaSyBIGCH2NOvamE3sJxv8c_WtVyV-2Weu3kA" allowfullscreen></iframe>
+      </div><!-- // text box -->
+    </div><!-- // col 6 info -->
+
+    <div class="col-sm-6">
+      <div class="text-box">
+        <h1 class="editable">Noch Fragen?</h1>
+
+        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="false">
+          {% for frage in page.fragen %}
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab" id="heading-{{ frage.id }}">
+                <h4 class="panel-title">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ frage.id }}" aria-expanded="false" aria-controls="collapse-{{ frage.id }}">
+                    <i class="fa fa-question-circle"></i>
+                    {{ frage.frage | escape }}
+                  </a>
+                </h4>
+              </div>
+              <div id="collapse-{{ frage.id }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading-{{ frage.id }}">
+                <div class="panel-body">
+                  {{ frage.antwort | escape }}
+                </div><!-- //panel body -->
+              </div><!-- //collapse-->
+            </div><!-- //panel -->
+          {% endfor %}
+        </div><!-- //panel group -->
+      </div><!-- // text box -->
+    </div><!-- // col 6 faq -->
+  </div><!-- //row -->
+</section><!-- //container -->

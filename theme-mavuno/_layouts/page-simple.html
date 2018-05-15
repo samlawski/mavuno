@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  <div class="black-box container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/">
+      	<span><img src="/uploads/logos/logosmall.png" height="40" /></span>
+      	Mavuno Berlin
+      </a>
+    </div>
+  </div><!-- // container -->
+</nav>
+
+<section class="page container-fluid" style="background-color: {% if page.background_color %}{{ page.background_color }}{% else %}#7BACBC{% endif %};" >
+	<div class="white-box content">
+		<header class="text-box">
+			<h1>{{ page.title }}</h1>
+			<hr>
+		</header>
+		{{content}}
+	</div><!-- //content data-stellar-background-ratio="0"-->
+</section>

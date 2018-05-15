@@ -1,13 +1,44 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
 
-  <title>{% if page.meta_title %}{{ page.meta_title | escape }}{% elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{% if page.meta_description %}{{ page.meta_description | strip_html | strip_newlines | truncate: 160 }}{% elsif page.description %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <title>{% if page.seo_title %}{{ page.seo_title | escape }}{% elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="keywords" content="{{ site.meta_keywords | escape }} {{ page.meta_keywords | escape }}">
+  {% if page.meta_description %}
+    <meta name="description" content="{{ page.meta_description | escape }}">
+  {% else %}
+    <meta name="description" content="{{ site.meta_description | escape }}">
+  {% endif %}
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ 'uploads/favicon/apple-touch-icon-57x57.png' | prepend: site.baseurl }}" />
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{'uploads/favicon/apple-touch-icon-114x114.png' | prepend: site.baseurl}}" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{'uploads/favicon/apple-touch-icon-72x72.png' | prepend: site.baseurl}}" />
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{'uploads/favicon/apple-touch-icon-144x144.png' | prepend: site.baseurl}}" />
+  <link rel="apple-touch-icon-precomposed" sizes="60x60" href="{{'uploads/favicon/apple-touch-icon-60x60.png' | prepend: site.baseurl}}" />
+  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="{{'uploads/favicon/apple-touch-icon-120x120.png' | prepend: site.baseurl}}" />
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="{{'uploads/favicon/apple-touch-icon-76x76.png' | prepend: site.baseurl}}" />
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{'uploads/favicon/apple-touch-icon-152x152.png' | prepend: site.baseurl}}" />
+  <link rel="icon" type="image/png" href="{{'uploads/favicon/favicon-196x196.png' | prepend: site.baseurl}}" sizes="196x196" />
+  <link rel="icon" type="image/png" href="{{'uploads/favicon/favicon-96x96.png' | prepend: site.baseurl}}" sizes="96x96" />
+  <link rel="icon" type="image/png" href="{{'uploads/favicon/favicon-32x32.png' | prepend: site.baseurl}}" sizes="32x32" />
+  <link rel="icon" type="image/png" href="{{'uploads/favicon/favicon-16x16.png' | prepend: site.baseurl}}" sizes="16x16" />
+  <link rel="icon" type="image/png" href="{{'uploads/favicon/favicon-128.png' | prepend: site.baseurl}}" sizes="128x128" />
+  <meta name="application-name" content="{{ site.name }}"/>
+  <meta name="msapplication-TileColor" content="#FFFFFF" />
+  <meta name="msapplication-TileImage" content="{{'uploads/favicon/mstile-144x144.png' | prepend: site.baseurl}}" />
+  <meta name="msapplication-square70x70logo" content="{{'uploads/favicon/mstile-70x70.png' | prepend: site.baseurl}}" />
+  <meta name="msapplication-square150x150logo" content="{{'uploads/favicon/mstile-150x150.png' | prepend: site.baseurl}}" />
+  <meta name="msapplication-wide310x150logo" content="{{'uploads/favicon/mstile-310x150.png' | prepend: site.baseurl}}" />
+  <meta name="msapplication-square310x310logo" content="{{'uploads/favicon/mstile-310x310.png' | prepend: site.baseurl}}" />
+
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   {% asset main.scss %}
-  {% asset main.js %}
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
 </head>
