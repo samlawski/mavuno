@@ -29,6 +29,5 @@ exclude:
   - Gemfile.lock
 plugins:
   - jekyll-assets
-  - jemoji
   - jekyll-paginate
   - jekyll-sitemap
