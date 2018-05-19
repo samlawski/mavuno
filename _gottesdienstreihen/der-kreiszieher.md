@@ -26,7 +26,7 @@ predigten:
     datum: '2018-05-06'
     prediger: Lamont Hartman
   - titel: Wenn Gott Nein sagt
-    predigt: ""
+    predigt: "https://res.cloudinary.com/mavuno/video/upload/v1526753766/20180513_Predigt_Gloeckner_Kreiszieher_06.mp3"
     datum: '2018-05-13'
     prediger: Ole Glöckner
   - titel: Langfristig denken

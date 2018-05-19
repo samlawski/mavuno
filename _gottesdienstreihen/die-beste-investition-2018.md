@@ -10,7 +10,7 @@ predigten:
     datum: '2018-01-07'
     prediger: Daniel Flechsig
   - titel: Alles meins!?
-    predigt: ""
+    predigt: "https://res.cloudinary.com/mavuno/video/upload/v1526753595/20180114_Predigt_Boguslawski_Die_Beste_Investition_02.mp3"
     datum: '2018-01-14'
     prediger: Christian Boguslawski
   - titel: Die Ernte vermehren

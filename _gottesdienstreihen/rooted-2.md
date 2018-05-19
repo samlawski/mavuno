@@ -30,7 +30,7 @@ predigten:
     datum: '2018-03-11'
     prediger: Daniel Flechsig
   - titel: Wie lebe ich meine Berufung?
-    predigt: ""
+    predigt: "https://res.cloudinary.com/mavuno/video/upload/v1526753556/20180318_Predigt_Flechsig_RootedII_07.mp3"
     datum: '2018-03-18'
     prediger: Daniel Flechsig
   - titel: Geboren um zu fliegen
