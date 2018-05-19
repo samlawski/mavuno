@@ -18,7 +18,7 @@ predigten:
     datum: '2018-04-22'
     prediger: Daniel Flechsig
   - titel: Gebet für die Stadt
-    predigt: ""
+    predigt: "https://res.cloudinary.com/mavuno/video/upload/v1526731197/predigten/20180429_Predigt_Nehlsen_Kreiszieher_04.mp3"
     datum: '2018-04-29'
     prediger: Axel Nehlsen
   - titel: Dran bleiben

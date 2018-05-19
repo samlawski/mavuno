@@ -6,7 +6,7 @@ image: "/uploads/images/Flyer_Jan18_VSFINAL.jpg"
 aktiv: true
 predigten:
   - titel: "1a Sattgut"
-    predigt: ""
+    predigt: "https://res.cloudinary.com/mavuno/video/upload/v1526730482/predigten/20180107_Predigt_Flechsig_Die_Beste_Investition_01.mp3"
     datum: '2018-01-07'
     prediger: Daniel Flechsig
   - titel: Alles meins!?
@@ -14,11 +14,11 @@ predigten:
     datum: '2018-01-14'
     prediger: Christian Boguslawski
   - titel: Die Ernte vermehren
-    predigt: ""
+    predigt: "https://res.cloudinary.com/mavuno/video/upload/v1526730129/predigten/20180121_Predigt_Gloeckner_Die_Beste_Investition_03.mp3"
     datum: '2018-01-21'
     prediger: Ole Glöckner
   - titel: Investieren (fast) ohne Startkapital
-    predigt: ""
+    predigt: "https://res.cloudinary.com/mavuno/video/upload/v1526728674/predigten/20180128_Predigt_Domes_Die_beste_Investition_04.mp3"
     datum: '2018-01-28'
     prediger: Christophe Domes
 ---
