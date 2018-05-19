@@ -12,6 +12,8 @@ url: "https://mavuno.de" # the base hostname & protocol for your site, e.g. http
 include:
   - _redirects
 
+collections:
+  - gottesdienstreihen
 # collections:
 #   some_collection:
 #     output: true

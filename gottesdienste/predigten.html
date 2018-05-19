@@ -7,11 +7,11 @@ layout: page-gottesdienst
 	<div id="predigt-page" class="col-sm-7 col-md-8">
 
 		<div class="text-box">
-			{% assign gottesdienstreihen = site.data.gottesdienstreihen | where: "aktiv", true %}
-			{% for gottesdienstreihe in gottesdienstreihen %}
+			{% assign gottesdienstreihen = site.gottesdienstreihen | where: "aktiv", true | sort: 'start_date' %}
+			{% for gottesdienstreihe in gottesdienstreihen reversed %}
 				<div class="row" style="margin-bottom: 20px;">
 					<div class="col-xs-12 col-md-5 col-lg-6">
-						<h2>{{ gottesdienstreihe.datum }}</h2>
+						<h2>{{ gottesdienstreihe.predigten_titel }}</h2>
 						<img src="{{ gottesdienstreihe.image }}" class="img-responsive"/>
 					</div> <!-- // col -->
 					<div class="col-xs-12 col-md-7 col-lg-6">

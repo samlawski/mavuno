@@ -163,11 +163,11 @@ fragen:
 <section id="gottesdienste" class="container-fluid section-light no-height">
   <div class="row">
     <div class="col-sm-6 col-img-pad">
-      <h3 class="visible-xs text-center editable">Gottesdienst
+      <h3 class="visible-xs text-center editable">Gottesdienst</h3>
       {% assign godi_image_string_size = page.gottesdienst_image | size %}
-      {% assign last_predigtreihe = site.data.gottesdienstreihen | where: "aktiv", true | last %}
+      {% assign last_predigtreihe = site.gottesdienstreihen | where: "aktiv", true | sort: 'start_date' | last %}
       <img src="{% if godi_image_string_size > 1 %}{{ page.gottesdienst_image }}{% else %}{{ last_predigtreihe.image }}{% endif %}" class="img-responsive" />
-    </h3></div><!-- // col 6 bild -->
+    </div><!-- // col 6 bild -->
     <div class="col-sm-6">
       <div class="text-box text-center">
         <h4 class="hidden-xs">Gottesdienst</h4>
