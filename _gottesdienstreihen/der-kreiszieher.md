@@ -6,31 +6,31 @@ image: "/uploads/images/IMG-20180303-WA0000.jpg"
 aktiv: true
 predigten:
   - titel: Die Legende des Kreisziehers
-    predigt: "https://download.mavuno.de/20180408_Predigt_Gl_ckner_Kreiszieher_01.mp3"
+    predigt: "https://res.cloudinary.com/mavuno/video/upload/v1526727718/predigten/20180408_Predigt_Glo%CC%88ckner_Kreiszieher_01.mp3"
     datum: '2018-04-08'
     prediger: Ole Glöckner
   - titel: Risiko
-    predigt: "https://download.mavuno.de/20180415_Predigt_Boguslawski_Kreiszieher_02.mp3"
+    predigt: "http://res.cloudinary.com/mavuno/video/upload/v1526724489/predigten/20180415_Predigt_Boguslawski_Kreiszieher_02.mp3"
     datum: '2018-04-15'
     prediger: Christian Boguslawski
   - titel: Groß träumen
-    predigt: "https://download.mavuno.de/20180422_Predigt_Flechsig_Kreiszieher_04_Gross_traeumen.mp3"
+    predigt: "https://res.cloudinary.com/mavuno/video/upload/v1526727058/predigten/20180422_Predigt_Flechsig_Kreiszieher_04_Gross_traeumen.mp3"
     datum: '2018-04-22'
     prediger: Daniel Flechsig
   - titel: Gebet für die Stadt
-    predigt: "https://download.mavuno.de/20180429_Predigt_Nehlsen_Kreiszieher_04.mp3"
+    predigt: ""
     datum: '2018-04-29'
     prediger: Axel Nehlsen
   - titel: Dran bleiben
-    predigt: "http://res.cloudinary.com/mavuno/video/upload/v1526721858/predigten/20180506_Predigt_Lamont_Kreiszieher_05.mp3"
+    predigt: "https://res.cloudinary.com/mavuno/video/upload/v1526721858/predigten/20180506_Predigt_Lamont_Kreiszieher_05.mp3"
     datum: '2018-05-06'
     prediger: Lamont Hartman
   - titel: Wenn Gott Nein sagt
-    predigt: "https://download.mavuno.de/20180513_Predigt_Gloeckner_Kreiszieher_06.mp3"
+    predigt: ""
     datum: '2018-05-13'
     prediger: Ole Glöckner
   - titel: Langfristig denken
-    predigt: ''
+    predigt: ""
     datum: '2018-05-20'
     prediger: Daniel Flechsig
 ---

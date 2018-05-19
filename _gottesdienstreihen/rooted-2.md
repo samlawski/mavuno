@@ -22,19 +22,19 @@ predigten:
     datum: '2018-02-25'
     prediger: Daniel Flechsig
   - titel: Wie mache ich das Beste aus meinem Geld?
-    predigt: "https://download.mavuno.de/20180304_Predigt_Boguslawski_RootedII_05.mp3"
+    predigt: "/20180304_Predigt_Boguslawski_RootedII_05.mp3"
     datum: '2018-03-04'
     prediger: Christian Boguslawski
   - titel: Wie finde ich meine Berufung?
-    predigt: "https://download.mavuno.de/20180311_Predigt_Flechsig_RootedII_06.mp3"
+    predigt: "/20180311_Predigt_Flechsig_RootedII_06.mp3"
     datum: '2018-03-11'
     prediger: Daniel Flechsig
   - titel: Wie lebe ich meine Berufung?
-    predigt: "https://download.mavuno.de/20180318_Predigt_Flechsig_RootedII_07.mp3"
+    predigt: "/20180318_Predigt_Flechsig_RootedII_07.mp3"
     datum: '2018-03-18'
     prediger: Daniel Flechsig
   - titel: Geboren um zu fliegen
-    predigt: "https://download.mavuno.de/20180325_Predigt_Flechsig_RootedII_08.mp3"
+    predigt: "/20180325_Predigt_Flechsig_RootedII_08.mp3"
     datum: '2018-03-25'
     prediger: Daniel Flechsig
 ---

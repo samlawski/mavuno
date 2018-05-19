@@ -7,8 +7,8 @@ layout: page-gottesdienst
 	<div id="predigt-page" class="col-sm-7 col-md-8">
 
 		<div class="text-box">
-			{% assign gottesdienstreihen = site.gottesdienstreihen | where: "aktiv", true | sort: 'start_date' %}
-			{% for gottesdienstreihe in gottesdienstreihen reversed %}
+			{% assign gottesdienstreihen = site.gottesdienstreihen | where: "aktiv", true | sort: 'start_date' | reverse %}
+			{% for gottesdienstreihe in gottesdienstreihen limit: 6 %}
 				<div class="row" style="margin-bottom: 20px;">
 					<div class="col-xs-12 col-md-5 col-lg-6">
 						<h2>{{ gottesdienstreihe.predigten_titel }}</h2>
@@ -16,8 +16,10 @@ layout: page-gottesdienst
 					</div> <!-- // col -->
 					<div class="col-xs-12 col-md-7 col-lg-6">
 						<ul class="predigt-list">
-							{% for gottesdienst in gottesdienstreihe.predigten %}
-								{% if gottesdienst.predigt %}
+							{% assign predigten = gottesdienstreihe.predigten | sort: 'datum' | reverse %}
+							{% for gottesdienst in predigten %}
+								{% assign predigt_url_size = gottesdienst.predigt | size %}
+								{% if predigt_url_size > 1 %}
 									<li>
 										<h4>
 											{{gottesdienst.titel}}
