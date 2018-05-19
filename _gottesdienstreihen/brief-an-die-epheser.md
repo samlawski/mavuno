@@ -35,6 +35,4 @@ predigten:
     prediger: Daniel Flechsig
 ---
 
-Paulus. Er saß im Gefängnis - zum wiederholten Mal! Warum?
-Und was hat er den Christen in Ephesus geschrieben?
-Haben diese Worte für uns eine Bedeutung?
+Paulus. Er sa&szlig; im Gef&auml;ngnis - zum wiederholten Mal! Warum? Und was hat er in dieser Situation den Christen in Ephesus geschrieben? Haben diese Worte f&uuml;r uns eine Bedeutung?
