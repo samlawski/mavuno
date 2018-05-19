@@ -11,5 +11,5 @@ group :jekyll_plugins do
   # gem "jekyll-github-metadata", "~> 1.0"
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
-  gem "jekyll-assets"
+  gem "jekyll-assets", "~> 2.2.8"
 end
