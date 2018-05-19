@@ -116,7 +116,7 @@ section.container-fluid {
 	position: relative;
 	// min-height: 100%;
 	margin-bottom: 0;
-	background-size:  auto 100%;
+	background-size: cover;
 	background-attachment: fixed;
 }
 
@@ -319,7 +319,7 @@ footer {
 /* --- NEUHIER --------------------------- */
 .neuhier-box {
 	margin: 10px 10px;
-	padding: 13px;
+	padding: 25px 25px 35px;
 
 	// min-height: 100px;
 
@@ -341,6 +341,39 @@ footer {
 	// min-height: 270px;
 	background-color: rgba(0, 0, 0, 0.7);
 }
+
+.neuhier__flexcontainer {
+	display: flex;
+
+	.neuhier-box {
+		flex: 1 0;
+
+		display: flex;
+		align-items: center;
+		justify-content: stretch;
+
+		color: white;
+
+		&>i {
+			margin-right: 20px;
+		}
+		&>div {
+			flex: 1 0;
+			text-align: center;
+		}
+	}
+
+	@media (max-width: 767px) {
+		display: block;
+
+		.neuhier-box {
+			&>i {
+				margin: 20px;
+			}
+		}
+	}
+}
+
 /* // NEUHIER  */
 
 /* --- GEMEINSCHAFT --------------------------- #7BACBC*/
@@ -728,7 +761,7 @@ section.page {
 /* normal screens */
 @media (min-width: 1210px) {
 	section.container-fluid {
-		background-size: 100% auto !important;
+		background-size: cover;
 		background-position: top left ;
 	}
 }
