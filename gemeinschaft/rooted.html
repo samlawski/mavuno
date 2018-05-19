@@ -1,6 +1,7 @@
 ---
 title: ROOTED
 layout: page-gemeinschaft
+rooted_termine_zeigen: false
 rooted_termine:
   - titel: Startevent
     datum: '2018-02-07'
@@ -57,24 +58,26 @@ rooted_termine:
     </div><!-- // rooted-area -->
   </div><!-- // col-6 -->
 
-  <div class="col-sm-6 col-md-5 col-md-offset-1 col-lg-4 col-lg-offset-2">
-    <div class="rooted-area">
-      <div class="rooted-box rooted-area2">
-        <h3 class="editable">
-          Die aktuellen Termine
-        </h3>
-        <div class="row">
-          {% for termin in page.rooted_termine %}
-            <div class="col-xs-3">
-              {{ termin.datum | date: "%d.%m."}}
-            </div><!-- // col -->
-            <div class="col-xs-8">
-              {{ termin.titel }}
-            </div><!-- // col -->
-          {% endfor %}
-        </div><!-- // row -->
-      </div><!-- // rooted-box -->
-    </div><!-- // rooted-area2 -->
-  </div><!-- // col-6 -->
+  {% if page.rooted_termine_zeigen %}
+    <div class="col-sm-6 col-md-5 col-md-offset-1 col-lg-4 col-lg-offset-2">
+      <div class="rooted-area">
+        <div class="rooted-box rooted-area2">
+          <h3 class="editable">
+            Die aktuellen Termine
+          </h3>
+          <div class="row">
+            {% for termin in page.rooted_termine %}
+              <div class="col-xs-3">
+                {{ termin.datum | date: "%d.%m."}}
+              </div><!-- // col -->
+              <div class="col-xs-8">
+                {{ termin.titel }}
+              </div><!-- // col -->
+            {% endfor %}
+          </div><!-- // row -->
+        </div><!-- // rooted-box -->
+      </div><!-- // rooted-area2 -->
+    </div><!-- // col-6 -->
+  {% endif %}
 
 </div><!-- //row -->
