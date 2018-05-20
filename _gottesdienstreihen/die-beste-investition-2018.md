@@ -3,7 +3,7 @@ titel: Die beste Investition 2018
 start_date: 2018-01-07 00:00:00
 predigten_titel: Januar 2018
 image: /uploads/images/Flyer_Jan18_VSFINAL.jpg
-aktiv: false
+aktiv: true
 predigten:
   - titel: 1a Sattgut
     predigt: >-
