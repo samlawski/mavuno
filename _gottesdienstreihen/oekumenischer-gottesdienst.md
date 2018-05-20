@@ -1,6 +1,6 @@
 ---
 titel: Ökumenischer Gottesdienst
-start_date: '2018-03-06'
+start_date: 2018-03-06 00:00:00
 predigten_titel: März 2018
 image: "/uploads/images/2018-_kumGoDi_Folie.png"
 aktiv: false
