@@ -9,34 +9,37 @@ layout: page-gottesdienst
 		<div class="text-box">
 			{% assign gottesdienstreihen = site.gottesdienstreihen | where: "aktiv", true | sort: 'start_date' | reverse %}
 			{% for gottesdienstreihe in gottesdienstreihen limit: 6 %}
-				<div class="row" style="margin-bottom: 20px;">
-					<div class="col-xs-12 col-md-5 col-lg-6">
-						<h2>{{ gottesdienstreihe.predigten_titel }}</h2>
-						<img src="{{ gottesdienstreihe.image }}" class="img-responsive"/>
-					</div> <!-- // col -->
-					<div class="col-xs-12 col-md-7 col-lg-6">
-						<ul class="predigt-list">
-							{% assign predigten = gottesdienstreihe.predigten | sort: 'datum' | reverse %}
-							{% for gottesdienst in predigten %}
-								{% assign predigt_url_size = gottesdienst.predigt | size %}
-								{% if predigt_url_size > 1 %}
-									<li>
-										<h4>
-											{{gottesdienst.titel}}
-											&nbsp;
-											<small><a href="{{gottesdienst.predigt}}" target="_blank" download><i class="fa fa-download"></i></a></small>
-										</h4>
-										<audio controls="controls" preload="none">
-											<source src="{{gottesdienst.predigt}}" type="audio/mpeg" />
-											Bitte update deinen Web Browser, um die Predigt anhören zu können.
-										</audio><br>
-										<small>- {{gottesdienst.datum | date: "%d.%m.%y"}} {{gottesdienst.prediger}} </small>
-									</li>
-								{% endif %}
-							{% endfor %}
-						</ul>
-					</div> <!-- // col -->
-				</div><!-- // row -->
+				{% assign predigten = gottesdienstreihe.predigten | sort: 'datum' | reverse %}
+				{% assign predigten_amount_with_sermon = predigten | where_exp: "predigt", "predigt.predigt contains 'http'" | size %}
+				{% if predigten_amount_with_sermon > 0 %}
+					<div class="row" style="margin-bottom: 20px;">
+						<div class="col-xs-12 col-md-5 col-lg-6">
+							<h2>{{ gottesdienstreihe.predigten_titel }}</h2>
+							<img src="{{ gottesdienstreihe.image }}" class="img-responsive"/>
+						</div> <!-- // col -->
+						<div class="col-xs-12 col-md-7 col-lg-6">
+							<ul class="predigt-list">
+								{% for gottesdienst in predigten %}
+									{% assign predigt_url_size = gottesdienst.predigt | size %}
+									{% if predigt_url_size > 1 %}
+										<li>
+											<h4>
+												{{gottesdienst.titel}}
+												&nbsp;
+												<small><a href="{{gottesdienst.predigt}}" target="_blank" download><i class="fa fa-download"></i></a></small>
+											</h4>
+											<audio controls="controls" preload="none">
+												<source src="{{gottesdienst.predigt}}" type="audio/mpeg" />
+												Bitte update deinen Web Browser, um die Predigt anhören zu können.
+											</audio><br>
+											<small>- {{gottesdienst.datum | date: "%d.%m.%y"}} {{gottesdienst.prediger}} </small>
+										</li>
+									{% endif %}
+								{% endfor %}
+							</ul>
+						</div> <!-- // col -->
+					</div><!-- // row -->
+				{% endif %}
 			{% endfor %}
 
 		</div><!-- // text-box -->
