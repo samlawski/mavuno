@@ -1,6 +1,6 @@
 ---
 titel: Rooted 2
-start_date: '2018-02-01'
+start_date: 2018-02-01 00:00:00
 predigten_titel: Februar 2018
 image: "/uploads/images/Rooted2.jpg"
 aktiv: true
