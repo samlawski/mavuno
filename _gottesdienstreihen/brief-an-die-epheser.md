@@ -3,7 +3,7 @@ titel: Brief an die Epheser
 start_date: 2018-05-27 00:00:00
 predigten_titel: Mai 2018
 image: /uploads/images/front_mai2018_final-min.png
-aktiv: true
+aktiv: false
 predigten:
   - titel: Epheser 1 - Jesus der verborgene Schatz
     predigt: >-
