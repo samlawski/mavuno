@@ -6,7 +6,8 @@ image: /uploads/images/front_mai2018_final-min.png
 aktiv: true
 predigten:
   - titel: Epheser 1
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1527418129/predigten/Epheserbrief/20180527_Predigt_Trommer_Epheser_01.mp3
     datum: '2018-05-27'
     prediger: Sebastian Trommer
   - titel: Epheser 2
