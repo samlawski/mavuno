@@ -11,7 +11,8 @@ predigten:
     datum: '2018-05-27'
     prediger: Sebastian Trommer
   - titel: Epheser 2
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1528627688/predigten/Epheserbrief/20180610_Predigt_Toussaint_Epheser_02.mp3
     datum: '2018-06-10'
     prediger: Daniel Flechsig
   - titel: Epheser 3
