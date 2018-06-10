@@ -10,11 +10,11 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1527418129/predigten/Epheserbrief/20180527_Predigt_Trommer_Epheser_01.mp3
     datum: '2018-05-27'
     prediger: Sebastian Trommer
-  - titel: Epheser 2
+  - titel: 'Epheser 2, 1 - 22'
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1528627688/predigten/Epheserbrief/20180610_Predigt_Toussaint_Epheser_02.mp3
     datum: '2018-06-10'
-    prediger: Daniel Flechsig
+    prediger: Cornelia Toussaint
   - titel: Epheser 3
     predigt:
     datum: '2018-06-17'
