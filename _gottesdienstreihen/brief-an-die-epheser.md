@@ -16,7 +16,8 @@ predigten:
     datum: '2018-06-10'
     prediger: Cornelia Toussaint
   - titel: Epheser 3
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1529232786/predigten/Epheserbrief/20180617_Predigt_Flechsig_Epheser_03.mp3
     datum: '2018-06-17'
     prediger: Daniel Flechsig
   - titel: Epheser 4
