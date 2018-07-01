@@ -26,7 +26,8 @@ predigten:
     datum: '2018-06-24'
     prediger: Ole Glöckner
   - titel: Epheser 5
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1530467198/predigten/Epheserbrief/20180701_Predigt_Flechsig_Epheser_05.mp3
     datum: '2018-07-01'
     prediger: Daniel Flechsig
   - titel: 'Epheser 6,1-9'
