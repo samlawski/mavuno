@@ -30,7 +30,7 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1530467198/predigten/Epheserbrief/20180701_Predigt_Flechsig_Epheser_05.mp3
     datum: '2018-07-01'
     prediger: Daniel Flechsig
-  - titel: 'Epheser 6,1-9'
+  - titel: 'Epheser 6,10-20'
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1531046670/predigten/Epheserbrief/20180708_Predigt_Warrington_Epheser_06.mp3
     datum: '2018-07-08'
