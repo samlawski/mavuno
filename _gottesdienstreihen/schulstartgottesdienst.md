@@ -11,7 +11,7 @@ predigten:
     prediger:
 ---
 
-Momentan machen wir eine Sommerpause. In dieser Zeit finden in unseren R&auml;umen keine Gottesdienste statt.
+Aktuell ist bei Mavuno Berlin Sommerpause. In dieser Zeit finden in unseren R&auml;umen keine Gottesdienste statt.
 
 Herzliche Einladung zum Familiengottesdienst am 19.August 2018.
 
