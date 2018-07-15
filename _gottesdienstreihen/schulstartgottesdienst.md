@@ -2,7 +2,7 @@
 titel:
 start_date:
 predigten_titel:
-image:
+image: /uploads/schulstartgottesdienst/schulstart-infos.jpg
 aktiv: false
 predigten:
   - titel:
@@ -10,3 +10,4 @@ predigten:
     datum:
     prediger:
 ---
+
