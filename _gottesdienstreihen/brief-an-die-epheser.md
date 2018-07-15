@@ -35,8 +35,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1531046670/predigten/Epheserbrief/20180708_Predigt_Warrington_Epheser_06.mp3
     datum: '2018-07-08'
     prediger: Keith Warrington
-  - titel: 'Epheser 6,10-24'
-    predigt:
+  - titel: Jahresabschluss
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1531649895/predigten/Epheserbrief/20180715_Predigt_Flechsig_Jahresabschluss.mp3
     datum: '2018-07-15'
     prediger: Daniel Flechsig
 ---
