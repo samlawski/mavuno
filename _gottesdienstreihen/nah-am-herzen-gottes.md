@@ -21,5 +21,13 @@ predigten:
     predigt:
     datum: 16.09.2018
     prediger: Daniel Flechsig
+  - titel: Gottes Herz für Verlorenes
+    predigt:
+    datum: 23.09.2018
+    prediger: Amadeus Vadonis
+  - titel: Frucht des Geistes
+    predigt:
+    datum: 30.09.2018
+    prediger: Pierre Egger
 ---
 
