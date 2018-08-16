@@ -17,5 +17,9 @@ predigten:
     predigt:
     datum: 09.09.2018
     prediger: Sebastian Trommer
+  - titel: Wer bin ich?
+    predigt:
+    datum: 16.09.2018
+    prediger: Daniel Flechsig
 ---
 
