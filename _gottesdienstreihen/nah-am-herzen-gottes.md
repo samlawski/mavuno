@@ -31,3 +31,6 @@ predigten:
     prediger: Pierre Egger
 ---
 
+Entdecke mit uns, dass der Gott der Bibel kein ferner und unnahbarer Gott ist, sondern, dass er sich die N&auml;he zu uns Menschen w&uuml;nscht.
+
+Gott l&auml;sst dich in sein Herz schauen!
