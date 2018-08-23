@@ -3,7 +3,7 @@ titel: Nah am Herzen Gottes
 start_date: 2018-08-26 00:00:00
 predigten_titel: August/September 2018
 image: /uploads/2018-08-flyer.jpg
-aktiv: false
+aktiv: true
 predigten:
   - titel: Gott teilt sich mit
     predigt:
@@ -31,6 +31,6 @@ predigten:
     prediger: Pierre Egger
 ---
 
-Entdecke mit uns, dass der Gott der Bibel kein ferner und unnahbarer Gott ist, sondern, dass er sich die N&auml;he zu uns Menschen w&uuml;nscht.
+Entdecke mit uns, dass der Gott der Bibel kein ferner und unnahbarer Gott ist, sondern, dass er sich die Nähe zu uns Menschen wünscht.
 
-Gott l&auml;sst dich in sein Herz schauen!
+Gott lässt dich in sein Herz schauen!
