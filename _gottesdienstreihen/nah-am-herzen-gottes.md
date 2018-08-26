@@ -6,8 +6,9 @@ image: /uploads/2018-08-flyer.jpg
 aktiv: true
 predigten:
   - titel: Gott teilt sich mit
-    predigt:
-    datum: 29.08.2018
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1535280178/predigten/%20Nah%20an%20Gottes%20Herz/20180826_Predigt_Gloeckner_Nah_an_Gottes_Herz_01.mp3
+    datum: 26.08.2018
     prediger: Ole Glöckner
   - titel: Gottes Kind
     predigt:
