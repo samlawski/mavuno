@@ -11,7 +11,8 @@ predigten:
     datum: 26.08.2018
     prediger: Ole Glöckner
   - titel: Gottes Kind
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1535884492/predigten/%20Nah%20an%20Gottes%20Herz/20180902_Predigt_Flechsig_Nah_an_Gottes_Herz_02.mp3
     datum: 02.09.2018
     prediger: Daniel Flechsig
   - titel: Gottes Stimme
