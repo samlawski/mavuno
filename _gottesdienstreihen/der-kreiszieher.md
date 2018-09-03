@@ -12,7 +12,7 @@ predigten:
     prediger: Ole Glöckner
   - titel: Risiko
     predigt: >-
-      http://res.cloudinary.com/mavuno/video/upload/v1526724489/predigten/20180415_Predigt_Boguslawski_Kreiszieher_02.mp3
+      https://res.cloudinary.com/mavuno/video/upload/v1526724489/predigten/20180415_Predigt_Boguslawski_Kreiszieher_02.mp3
     datum: '2018-04-15'
     prediger: Christian Boguslawski
   - titel: Groß träumen
