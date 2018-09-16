@@ -21,7 +21,8 @@ predigten:
     datum: 09.09.2018
     prediger: Sebastian Trommer
   - titel: Wer bin ich?
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1537094021/predigten/%20Nah%20an%20Gottes%20Herz/20180916_Predigt_Flechsig_Nah_an_Gottes_Herz_04.mp3
     datum: 16.09.2018
     prediger: Daniel Flechsig
   - titel: Gottes Herz für Verlorenes
