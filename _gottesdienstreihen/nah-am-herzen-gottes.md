@@ -25,8 +25,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1537094021/predigten/%20Nah%20an%20Gottes%20Herz/20180916_Predigt_Flechsig_Nah_an_Gottes_Herz_04.mp3
     datum: 16.09.2018
     prediger: Daniel Flechsig
-  - titel: Gottes Herz für Verlorenes
-    predigt:
+  - titel: Gottes Herz für Verlorene
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1537699462/predigten/%20Nah%20an%20Gottes%20Herz/20180923_Predigt_Vadonis_Nah_an_Gottes_Herz_05.mp3
     datum: 23.09.2018
     prediger: Amadeus Vadonis
   - titel: Frucht des Geistes
