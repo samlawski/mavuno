@@ -9,7 +9,7 @@ layout: page-gottesdienst
 		<div class="text-box">
 			{% assign gottesdienstreihen = site.gottesdienstreihen | where: "aktiv", true | sort: 'start_date' | reverse %}
 			{% for gottesdienstreihe in gottesdienstreihen limit: 6 %}
-				{% assign predigten = gottesdienstreihe.predigten | sort: 'datum' | reverse %}
+				{% assign predigten = gottesdienstreihe.predigten | sort: 'date' | reverse %}
 				{% assign predigten_amount_with_sermon = predigten | where_exp: "predigt", "predigt.predigt contains 'http'" | size %}
 				{% if predigten_amount_with_sermon > 0 %}
 					<div class="row" style="margin-bottom: 20px;">
@@ -32,7 +32,7 @@ layout: page-gottesdienst
 												<source src="{{gottesdienst.predigt}}" type="audio/mpeg" />
 												Bitte update deinen Web Browser, um die Predigt anhören zu können.
 											</audio><br>
-											<small>- {{gottesdienst.datum | date: "%d.%m.%y"}} {{gottesdienst.prediger}} </small>
+											<small>- {{gottesdienst.date | date: "%d.%m.%y"}} {{gottesdienst.prediger}} </small>
 										</li>
 									{% endif %}
 								{% endfor %}

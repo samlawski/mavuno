@@ -8,7 +8,7 @@ predigten:
   - titel: Schulstartgottesdienst
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1534682706/predigten/%20Nah%20an%20Gottes%20Herz/20180819_Predigt_Flechsig_Schulsart_cut.mp3
-    datum: '2018-08-19'
+    date: '2018-08-19'
     prediger: Daniel Flechsig
 ---
 

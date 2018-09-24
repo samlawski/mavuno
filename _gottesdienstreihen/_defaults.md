@@ -1,12 +1,12 @@
 ---
 titel:
 start_date:
-predigten_titel: 
+predigten_titel:
 image:
 aktiv: false
 predigten:
   - titel:
     predigt:
-    datum:
+    date:
     prediger:
 ---

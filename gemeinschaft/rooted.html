@@ -4,23 +4,23 @@ layout: page-gemeinschaft
 rooted_termine_zeigen: false
 rooted_termine:
   - titel: Startevent
-    datum: '2018-02-07'
+    date: '2018-02-07'
   - titel: 1. Woche
-    datum: '2018-02-14'
+    date: '2018-02-14'
   - titel: 2. Woche
-    datum: '2018-02-21'
+    date: '2018-02-21'
   - titel: Erlebnistag Gebet
-    datum: '2018-02-24'
+    date: '2018-02-24'
   - titel: 3. Woche
-    datum: '2018-02-28'
+    date: '2018-02-28'
   - titel: 4. Woche
-    datum: '2018-03-07'
+    date: '2018-03-07'
   - titel: 5. Woche
-    datum: '2018-03-14'
+    date: '2018-03-14'
   - titel: 6. Woche
-    datum: '2018-03-21'
+    date: '2018-03-21'
   - titel: Celebration
-    datum: '2018-03-25'
+    date: '2018-03-25'
 ---
 
 <div class="row text-box">
@@ -68,7 +68,7 @@ rooted_termine:
           <div class="row">
             {% for termin in page.rooted_termine %}
               <div class="col-xs-3">
-                {{ termin.datum | date: "%d.%m."}}
+                {{ termin.date | date: "%d.%m."}}
               </div><!-- // col -->
               <div class="col-xs-8">
                 {{ termin.titel }}
