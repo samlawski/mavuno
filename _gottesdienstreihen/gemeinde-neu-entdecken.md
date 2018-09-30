@@ -23,3 +23,4 @@ predigten:
     prediger: Sebastian Trommer
 ---
 
+Sie ist wundersch&ouml;n, sie ist begehrt, sie ist umworben... Entdecke die Sch&ouml;nheit der Gemeinde - der Braut Jesu!
