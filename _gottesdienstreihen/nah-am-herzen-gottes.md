@@ -32,7 +32,7 @@ predigten:
     prediger: Amadeus Vadonis
   - titel: Frucht des Geistes
     predigt: >-
-      https://res.cloudinary.com/mavuno/video/upload/v1534682706/predigten/%20Nah%20an%20Gottes%20Herz/20180819_Predigt_Flechsig_Schulsart_cut.mp3
+      https://res.cloudinary.com/mavuno/video/upload/v1538304028/predigten/%20Nah%20an%20Gottes%20Herz/20180930_Predigt_Egger_Nah_an_Gottes_Herz_06.mp3
     date: 2018-09-30 00:00:00
     prediger: Pierre Egger & Ole Glöckner
   - titel:
