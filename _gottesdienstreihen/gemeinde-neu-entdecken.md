@@ -1,6 +1,6 @@
 ---
 titel: Gemeinde neu entdecken
-start_date: 2018-10-01 00:00:00
+start_date: 2018-09-30 00:00:00
 predigten_titel: Oktober 2018
 image: /uploads/flyer-okt18-vs.jpg
 aktiv: true
@@ -23,4 +23,4 @@ predigten:
     prediger: Sebastian Trommer
 ---
 
-Sie ist wundersch&ouml;n, sie ist begehrt, sie ist umworben... Entdecke die Sch&ouml;nheit der Gemeinde - der Braut Jesu!
+Sie ist wunderschön, sie ist begehrt, sie ist umworben… Entdecke die Schönheit der Gemeinde - der Braut Jesu!
