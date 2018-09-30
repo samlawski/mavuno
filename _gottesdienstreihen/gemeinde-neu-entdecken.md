@@ -1,8 +1,8 @@
 ---
 titel:
-start_date:
+start_date: 2018-10-01 00:00:00
 predigten_titel:
-image:
+image: /uploads/flyer-okt18-vs.jpg
 aktiv: false
 predigten:
   - titel:
@@ -10,3 +10,4 @@ predigten:
     date:
     prediger:
 ---
+
