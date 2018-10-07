@@ -6,7 +6,8 @@ image: /uploads/flyer-okt18-vs.jpg
 aktiv: true
 predigten:
   - titel: Wunderschön
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1538908215/predigten/Gemeinde%20neu%20entdecken/20181007_Predigt_Flechsig_Gemeinde_neu_entdecken_01.mp3
     date: 2018-10-07 00:00:00
     prediger: Daniel Flechsig
   - titel: Umworben
