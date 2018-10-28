@@ -21,7 +21,8 @@ predigten:
     date: 2018-10-21 00:00:00
     prediger: Daniel Flechsig
   - titel: Erwartungsvoll
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1540728014/predigten/Gemeinde%20neu%20entdecken/20181028_Predigt_Trommer_Gemeinde_neu_entdecken_04.mp3
     date: 2018-10-28 00:00:00
     prediger: Sebastian Trommer
 ---
