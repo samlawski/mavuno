@@ -23,7 +23,7 @@ predigten:
     prediger: Sebastian Trommer
 ---
 
-Ein Gott, der eine Antwort hat, auf meine Fragen? Der meine Sehnsucht kennt - die ich selbst vielleicht noch gar nicht kenne? Ein Gott, dessen Herz daf&uuml;r brennt, mein Herz zu erreichen?&nbsp;
+Ein Gott, der eine Antwort hat, auf meine Fragen? Der meine Sehnsucht kennt - von der ich selbst vielleicht noch gar nichts wei&szlig;? Ein Gott, dessen Herz daf&uuml;r brennt, mein Herz zu erreichen?&nbsp;
 
 Eine Gottesdienstreihe zum Matth&auml;usevangelium, Kapitel 20 und 21.
 
