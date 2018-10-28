@@ -1,8 +1,8 @@
 ---
-titel:
+titel: Mitten ins Herz
 start_date:
 predigten_titel:
-image:
+image: /uploads/flyer-front.jpg
 aktiv: false
 predigten:
   - titel:
@@ -10,3 +10,4 @@ predigten:
     date:
     prediger:
 ---
+
