@@ -6,7 +6,8 @@ image: /uploads/flyer-front.jpg
 aktiv: true
 predigten:
   - titel: Sehnsucht nach Wertvollem
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1541332389/predigten/MItten%20ins%20Herz/20181104_Predigt_Nagel_Mitten_ins_Herz_01.mp3
     date: 2018-11-04 00:00:00
     prediger: Roland Nagel
   - titel: Sehnsucht nach Heilung
@@ -23,8 +24,6 @@ predigten:
     prediger: Sebastian Trommer
 ---
 
-Ein Gott, der eine Antwort hat, auf meine Fragen? Der meine Sehnsucht kennt - von der ich selbst vielleicht noch gar nichts wei&szlig;? Ein Gott, dessen Herz daf&uuml;r brennt, mein Herz zu erreichen?&nbsp;
+Ein Gott, der eine Antwort hat, auf meine Fragen? Der meine Sehnsucht kennt - von der ich selbst vielleicht noch gar nichts weiß? Ein Gott, dessen Herz dafür brennt, mein Herz zu erreichen? 
 
-Eine Gottesdienstreihe zum Matth&auml;usevangelium, Kapitel 20 und 21.
-
-&nbsp;
+Eine Gottesdienstreihe zum Matthäusevangelium, Kapitel 20 und 21.
