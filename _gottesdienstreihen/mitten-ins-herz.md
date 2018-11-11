@@ -11,7 +11,8 @@ predigten:
     date: 2018-11-04 00:00:00
     prediger: Roland Nagel
   - titel: Sehnsucht nach Heilung
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1541936282/predigten/MItten%20ins%20Herz/20181111_Predigt_Gloeckner_Mitten_ins_Herz_02.mp3
     date: 2018-11-11 00:00:00
     prediger: Ole Glöckner
   - titel: Sehnsucht nach Oientierung
