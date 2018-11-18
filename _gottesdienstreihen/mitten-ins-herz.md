@@ -16,7 +16,8 @@ predigten:
     date: 2018-11-11 00:00:00
     prediger: Ole Glöckner
   - titel: Sehnsucht nach Oientierung
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1542543922/predigten/MItten%20ins%20Herz/20181118_Predigt_Flechsig_Mitten_ins_Herz_03.mp3
     date: 2018-11-18 00:00:00
     prediger: Daniel Flechsig
   - titel: Sehnsucht nach Gott
