@@ -21,7 +21,8 @@ predigten:
     date: 2018-11-18 00:00:00
     prediger: Daniel Flechsig
   - titel: Sehnsucht nach Gott
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1543145833/predigten/MItten%20ins%20Herz/20181125_Predigt_Trommer_Mitten_ins_Herz_04.mp3
     date: 2018-11-25 00:00:00
     prediger: Sebastian Trommer
 ---
