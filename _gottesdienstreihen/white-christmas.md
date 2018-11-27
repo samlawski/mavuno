@@ -5,10 +5,22 @@ predigten_titel: Dezember 2018
 image: /uploads/flyer-dez18-vs.jpg
 aktiv: true
 predigten:
-  - titel:
+  - titel: Angeklagt
     predigt:
-    date:
-    prediger:
+    date: 2018-12-02 00:00:00
+    prediger: Daniel Flechsig
+  - titel: Der Blick in den Spiegel
+    predigt:
+    date: 2018-12-09 00:00:00
+    prediger: Sebastian Trommer
+  - titel: Alles neu!?
+    predigt:
+    date: 2018-12-16 00:00:00
+    prediger: Daniel Flechsig
+  - titel: Vergebung steckt an
+    predigt:
+    date: 2018-12-23 00:00:00
+    prediger: Ole Glöckner
 ---
 
 &nbsp;
