@@ -1,8 +1,8 @@
 ---
-titel:
-start_date:
+titel: White Christmas
+start_date: 2018-11-26 00:00:00
 predigten_titel:
-image:
+image: /uploads/flyer-dez18-vs.jpg
 aktiv: false
 predigten:
   - titel:
@@ -10,3 +10,4 @@ predigten:
     date:
     prediger:
 ---
+
