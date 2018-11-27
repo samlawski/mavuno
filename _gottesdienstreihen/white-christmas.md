@@ -15,4 +15,4 @@ predigten:
 
 Herzliche Einladung zu unseren Adventsgottesdiensten.
 
-Lass dich von Gott beschenken und erlebe die Kraft der Vergebung wieder neu!
+Lass dich von Gott selbst beschenken und erlebe die Kraft der Vergebung wieder neu!
