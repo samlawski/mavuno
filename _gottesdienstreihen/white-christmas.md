@@ -11,3 +11,8 @@ predigten:
     prediger:
 ---
 
+&nbsp;
+
+Herzliche Einladung zu unseren Adventsgottesdiensten.
+
+Lass dich von Gott beschenken und erlebe die Kraft der Vergebung wieder neu!
