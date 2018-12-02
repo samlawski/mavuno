@@ -6,7 +6,8 @@ image: /uploads/flyer-dez18-vs.jpg
 aktiv: true
 predigten:
   - titel: Angeklagt
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1543752211/predigten/White%20Christmas/2018120_Predigt_Flechsig_White_Christmas_01.mp3
     date: 2018-12-02 00:00:00
     prediger: Daniel Flechsig
   - titel: Der Blick in den Spiegel
@@ -26,8 +27,6 @@ predigten:
     date: 2018-12-24 00:00:00
     prediger: Daniel Flechsig
 ---
-
-&nbsp;
 
 Herzliche Einladung zu unseren Adventsgottesdiensten.
 
