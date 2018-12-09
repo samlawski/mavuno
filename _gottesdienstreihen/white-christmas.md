@@ -11,7 +11,8 @@ predigten:
     date: 2018-12-02 00:00:00
     prediger: Daniel Flechsig
   - titel: Der Blick in den Spiegel
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1544356094/predigten/White%20Christmas/20181209_Predigt_Trommer_White_Christmas_02.mp3
     date: 2018-12-09 00:00:00
     prediger: Sebastian Trommer
   - titel: Alles neu!?
