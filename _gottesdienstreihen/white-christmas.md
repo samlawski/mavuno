@@ -16,7 +16,8 @@ predigten:
     date: 2018-12-09 00:00:00
     prediger: Sebastian Trommer
   - titel: Alles neu!?
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1544960074/predigten/White%20Christmas/20181216_Predigt_Flechsig_White_Christmas_03.mp3
     date: 2018-12-16 00:00:00
     prediger: Daniel Flechsig
   - titel: Vergebung steckt an
