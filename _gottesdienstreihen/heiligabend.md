@@ -2,7 +2,7 @@
 titel: Heiligabendgottesdienst
 start_date: 2018-12-23 00:00:00
 predigten_titel:
-image: /uploads/2017-heiligabend-flyer-a6-vs2.png
+image: /uploads/heiligabendgodi-1.jpg
 aktiv: true
 predigten:
   - titel:
