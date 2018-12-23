@@ -1,7 +1,7 @@
 ---
 titel: Einfach Himmlisch
-start_date: 2018-12-23 17:26:27
-predigten_titel:
+start_date: 2018-12-24 00:00:00
+predigten_titel: Januar 2019
 image: /uploads/flyer-jan19-vs.png
 aktiv: false
 predigten:
