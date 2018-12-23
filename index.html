@@ -2,7 +2,7 @@
 layout: default
 header_titel: Willkommen zum Gottesdienst
 header_image: /uploads/images/DSC_0241.JPG
-header_zeit: sonntags 11 Uhr
+header_zeit: ab 6.1. sonntags 11 Uhr
 header_ort: Billy-Wilder-Promenade 4
 header_button_text: Erfahre mehr...
 header_button_link: '#gottesdienste'
@@ -124,17 +124,17 @@ fragen:
   <div class="row">
     <div class="col-sm-6">
       <div class="text-box text-white">
-        <h1 class="editable">Willkommen</h1>
-        <p class="editable">Komm einfach vorbei und lerne uns kennen...</p>
+        <h1 class="editable" href="#">Willkommen</h1>
+        <p class="editable" href="#">Komm einfach vorbei und lerne uns kennen...</p>
         <hr />
-        <div class="editable">
+        <div class="editable" href="#">
           <p>Mavuno Berlin ist eine generationsübergreifende, multikulturelle Kirche, in der du Gott begegnest, die dir hilft, dein Potential zu entfalten und in der du gute Freunde findest.</p>
           <p>Sei dabei und entdecke Gottes Ideen für dein Leben, für Berlin und die Welt!</p>
         </div>
       </div><!-- // text box -->
     </div><!-- // col 6 info -->
     <div class="col-sm-6 col-img hidden-xs col-img-pad">
-      <img src="/uploads/images/Kirche_04.jpg" class="img-responsive gesellschaft__image editable" />
+      <img src="/uploads/images/Kirche_04.jpg" class="img-responsive gesellschaft__image editable" href="#" />
     </div><!-- // col 6 bild -->
   </div><!-- //row -->
 
@@ -142,24 +142,24 @@ fragen:
     <a class="black-box neuhier-box" href="/neuhier/wer-wir-sind">
       <i class="fa fa-users fa-4x"></i>
       <div>
-        <h3 class="editable">Wer wir sind</h3>
-        <div class="hidden-xs editable">Wir stellen uns vor</div>
+        <h3 class="editable" href="#">Wer wir sind</h3>
+        <div class="hidden-xs editable" href="#">Wir stellen uns vor</div>
       </div>
     </a>
 
     <a class="black-box neuhier-box" href="/neuhier/was-uns-motiviert">
       <i class="fa fa-child fa-4x"></i>
       <div>
-        <h3 class="editable">Was uns motiviert</h3>
-        <div class="hidden-xs editable">Ein liebender Gott</div>
+        <h3 class="editable" href="#">Was uns motiviert</h3>
+        <div class="hidden-xs editable" href="#">Ein liebender Gott</div>
       </div>
     </a>
 
     <a class="black-box neuhier-box" href="/neuhier/was-uns-praegt">
       <i class="fa fa-book fa-4x"></i>
       <div>
-        <h3 class="editable">Was uns prägt</h3>
-        <div class="hidden-xs editable">Eine Kirche mit mehr als 100 Jahren Geschichte...</div>
+        <h3 class="editable" href="#">Was uns prägt</h3>
+        <div class="hidden-xs editable" href="#">Eine Kirche mit mehr als 100 Jahren Geschichte...</div>
       </div>
     </a>
   </div><!-- //row -->
@@ -170,7 +170,7 @@ fragen:
 <section id="gottesdienste" class="container-fluid section-light no-height">
   <div class="row">
     <div class="col-sm-6 col-img-pad">
-      <h3 class="visible-xs text-center editable">Gottesdienst</h3>
+      <h3 class="visible-xs text-center editable" href="#">Gottesdienst</h3>
       {% assign godi_image_string_size = page.gottesdienst_image | size %}
       {% assign last_predigtreihe = site.gottesdienstreihen | where: "aktiv", true | sort: 'start_date' | last %}
       <img src="{% if godi_image_string_size > 1 %}{{ page.gottesdienst_image }}{% else %}{{ last_predigtreihe.image }}{% endif %}" class="img-responsive" />
@@ -179,14 +179,14 @@ fragen:
       <div class="text-box text-center">
         <h4 class="hidden-xs">Gottesdienst</h4>
         <h1>
-          <span class="editable">sonntags um 11 Uhr</span>
+          <span class="editable" href="#">sonntags um 11 Uhr</span>
           <br />
-          <small class="editable">mit parallelem Kinderprogramm</small>
+          <small class="editable" href="#">mit parallelem Kinderprogramm</small>
         </h1>
 
         <a href="#nochfragen">
           <i class="fa fa-map-marker"></i>
-          <span class="editable">Billy-Wilder-Promenade 4, 14167 Berlin</span>
+          <span class="editable" href="#">Billy-Wilder-Promenade 4, 14167 Berlin</span>
         </a>
         <hr />
         <a href="/gottesdienste/was-dich-erwartet" class="btn-second btn-box editable">Was dich erwartet</a>
@@ -207,14 +207,14 @@ fragen:
 
   <div class="row">
     <div class="col-img-pad visible-xs">
-      <img src="/uploads/baby-ecke-01-1.jpg" class="img-responsive editable" />
+      <img src="/uploads/baby-ecke-01-1.jpg" class="img-responsive editable" href="/gottesdienste/predigten" />
     </div>
 
     <div class="col-sm-6 ">
       <!-- col-xs-12 -->
       <div class="text-box text-center text-white">
-        <h1 class="editable">Was geht?</h1>
-        <div class="text-center editable">
+        <h1 class="editable" href="/gottesdienste/predigten">Was geht?</h1>
+        <div class="text-center editable" href="/gottesdienste/predigten">
           <p>Mit unserem Newsletter bleibst du auf dem Laufenden.</p>
           <p>kostenlos und unverbindlich</p>
         </div>
@@ -237,7 +237,7 @@ fragen:
         <div class="gemeinschaft-box" style="background-image:url('{{ page.gesellschaft_rooted_image }}');">
           <div class="gemeinschaft-label">
             <h3 class="text-right">
-              <span class="editable">ROOTED</span>
+              <span class="editable" href="http://eepurl.com/gVnMb" target="blank">ROOTED</span>
             </h3>
           </div><!-- //gemeinschaft-label -->
         </div>
@@ -248,7 +248,7 @@ fragen:
         <div class="gemeinschaft-box" style="background-image:url('{{ page.gesellschaft_andere_image }}');">
           <div class="gemeinschaft-label">
             <h3 class="text-right">
-              <span class="editable">Weitere Angebote</span>
+              <span class="editable" href="http://eepurl.com/gVnMb" target="blank">Weitere Angebote</span>
             </h3>
           </div><!-- //gemeinschaft-label -->
         </div><!-- //gemeinschaft-box -->
@@ -259,7 +259,7 @@ fragen:
         <div class="gemeinschaft-box" style="background-image:url('{{ page.gesellschaft_unterstuetzen_image }}');">
           <div class="gemeinschaft-label">
             <h3 class="text-right">
-              <span class="editable">Unterstützen</span>
+              <span class="editable" href="http://eepurl.com/gVnMb" target="blank">Unterstützen</span>
             </h3>
           </div><!-- //gemeinschaft-label -->
         </div><!-- //gemeinschaft-box -->
@@ -270,7 +270,7 @@ fragen:
         <div class="gemeinschaft-box" style="background-image:url('{{ page.gesellschaft_vermietung_image }}');">
           <div class="gemeinschaft-label">
             <h3 class="text-right">
-              <span class="editable">Mieten</span>
+              <span class="editable" href="http://eepurl.com/gVnMb" target="blank">Mieten</span>
             </h3>
           </div><!-- //gemeinschaft-label -->
         </div><!-- //gemeinschaft-box -->
@@ -285,8 +285,8 @@ fragen:
   <div class="row">
     <div class="col-sm-6">
       <div class="text-box">
-        <h1 class="editable">Wo du uns findest</h1>
-        <div class="editable">
+        <h1 class="editable" href="http://eepurl.com/gVnMb" target="blank">Wo du uns findest</h1>
+        <div class="editable" href="http://eepurl.com/gVnMb" target="blank">
           <p>&nbsp;</p>
           <p><strong>Mavuno Berlin<strong></strong></strong><br />Evangelisch-Freikirchliche Gemeinde Berlin-Lichterfelde<strong><strong><br /><small>K&ouml;rperschaft des &ouml;ffentlichen Rechts</small><br /><br />Billy-Wilder-Promenade 4<br />14167 Berlin</strong></strong>
           </p>
@@ -298,7 +298,7 @@ fragen:
 
     <div class="col-sm-6">
       <div class="text-box">
-        <h1 class="editable">Noch Fragen?</h1>
+        <h1 class="editable" href="http://eepurl.com/gVnMb" target="blank">Noch Fragen?</h1>
 
         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="false">
           {% for frage in page.fragen %}
