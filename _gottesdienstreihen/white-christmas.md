@@ -21,7 +21,8 @@ predigten:
     date: 2018-12-16 00:00:00
     prediger: Daniel Flechsig
   - titel: Vergebung steckt an
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1545563980/predigten/White%20Christmas/20181223_Predigt_Gloeckner_White_Christmas_04.mp3
     date: 2018-12-23 00:00:00
     prediger: Ole Glöckner
   - titel: Heiligabend
