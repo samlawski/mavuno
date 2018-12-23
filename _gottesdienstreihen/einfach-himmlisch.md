@@ -8,19 +8,19 @@ predigten:
   - titel: Eine himmlische Stadt
     predigt:
     date: 2019-01-06 00:00:00
-    prediger: Ole Glöckner
+    prediger: Daniel Flechsig
   - titel: Eine himmlische Gemeinschaft
     predigt:
     date: 2019-01-13 00:00:00
-    prediger: Daniel Flechsig
+    prediger: Sebastian Trommer
   - titel: Ein himmlisches Leben
     predigt:
     date: 2019-01-20 00:00:00
-    prediger: Sebastian Trommer
+    prediger: Daniel Flechsig
   - titel: Eine himmlische Entscheidung
     predigt:
     date: 2019-01-27 00:00:00
-    prediger: Daniel Flechsig
+    prediger: Ole Glöckner
   - titel:
     predigt:
     date: 2019-01-27 00:00:00
