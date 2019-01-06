@@ -6,7 +6,8 @@ image: /uploads/flyer-jan19-vs.png
 aktiv: true
 predigten:
   - titel: Eine himmlische Stadt
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1546774716/predigten/Einfach%20himmlisch/20190106_Predigt_Flechsig_einfach_himmlisch_01.mp3
     date: 2019-01-06 00:00:00
     prediger: Daniel Flechsig
   - titel: Eine himmlische Gemeinschaft
@@ -27,4 +28,4 @@ predigten:
     prediger:
 ---
 
-Wie stellt Gott sich eine perfekte Welt f&uuml;r uns Menschen vor? Entdecke mit uns, was Gott uns in der Bibel schon dar&uuml;ber verr&auml;t. Wie hat Gott urspr&uuml;nglich die Erde erschaffen und wie wird es im Himmel sein?
+Wie stellt Gott sich eine perfekte Welt für uns Menschen vor? Entdecke mit uns, was Gott uns in der Bibel schon darüber verrät. Wie hat Gott ursprünglich die Erde erschaffen und wie wird es im Himmel sein?
