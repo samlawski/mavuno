@@ -8,7 +8,7 @@ predigten:
   - titel: Heiligabend Gottesdienst
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1546774646/predigten/White%20Christmas/20181224_Predigt_Flechsig_Heiligabend.mp3
-    date:
+    date: 2018-12-24 00:00:00
     prediger:
 ---
 
