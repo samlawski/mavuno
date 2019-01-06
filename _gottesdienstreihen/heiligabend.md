@@ -5,14 +5,11 @@ predigten_titel:
 image: /uploads/heiligabendgodi-1.jpg
 aktiv: true
 predigten:
-  - titel:
-    predigt:
+  - titel: Heiligabend Gottesdienst
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1546774646/predigten/White%20Christmas/20181224_Predigt_Flechsig_Heiligabend.mp3
     date:
     prediger:
 ---
 
-&nbsp;
-
-Herzliche Einladung zum Heiligabendgottesdienst f&uuml;r die ganze Familie.
-
-&nbsp;
+Herzliche Einladung zum Heiligabendgottesdienst für die ganze Familie.
