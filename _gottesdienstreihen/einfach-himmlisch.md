@@ -11,7 +11,8 @@ predigten:
     date: 2019-01-06 00:00:00
     prediger: Daniel Flechsig
   - titel: Eine himmlische Gemeinschaft
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1547496158/predigten/Einfach%20himmlisch/20190113_Predigt_Trommer_einfach_himmlisch_02.mp3
     date: 2019-01-13 00:00:00
     prediger: Sebastian Trommer
   - titel: Ein himmlisches Leben
