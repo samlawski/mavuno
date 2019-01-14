@@ -10,7 +10,7 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1546774716/predigten/Einfach%20himmlisch/20190106_Predigt_Flechsig_einfach_himmlisch_01.mp3
     date: 2019-01-06 00:00:00
     prediger: Daniel Flechsig
-  - titel: Eine himmlische Gemeinschaft
+  - titel: Eine  himmlische Gemeinschaft
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1547496158/predigten/Einfach%20himmlisch/20190113_Predigt_Trommer_einfach_himmlisch_02.mp3
     date: 2019-01-13 00:00:00
