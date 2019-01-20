@@ -16,7 +16,8 @@ predigten:
     date: 2019-01-13 00:00:00
     prediger: Sebastian Trommer
   - titel: Ein himmlisches Leben
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1547983667/predigten/Einfach%20himmlisch/20190120_Predigt_Flechsig_einfach_himmlisch_03.mp3
     date: 2019-01-20 00:00:00
     prediger: Daniel Flechsig
   - titel: Eine himmlische Entscheidung
