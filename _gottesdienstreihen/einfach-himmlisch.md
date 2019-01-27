@@ -21,7 +21,8 @@ predigten:
     date: 2019-01-20 00:00:00
     prediger: Daniel Flechsig
   - titel: Eine himmlische Entscheidung
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1548588663/predigten/Einfach%20himmlisch/20190127_Predigt_Gloeckner_einfach_himmlisch_04.mp3
     date: 2019-01-27 00:00:00
     prediger: Ole Glöckner
   - titel:
