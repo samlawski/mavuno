@@ -3,7 +3,7 @@ titel: Beziehungsweise stark
 start_date: 2019-01-28 00:00:00
 predigten_titel: FEBRUAR 2019
 image: /uploads/img-20190124-wa0001.jpg
-aktiv: false
+aktiv: true
 predigten:
   - titel: Über das Leben als Single
     predigt:
