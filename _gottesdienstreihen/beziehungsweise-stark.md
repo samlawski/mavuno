@@ -8,11 +8,11 @@ predigten:
   - titel: Über das Leben als Single
     predigt:
     date: 2019-02-03 00:00:00
-    prediger: Daniel Flechsig
+    prediger: Sebastian Trommer
   - titel: Über die Ehe
     predigt:
     date: 2019-02-10 00:00:00
-    prediger: Daniel Flechsig
+    prediger: Ole Glöckner
   - titel: Über die Liebe
     predigt:
     date: 2019-02-17 00:00:00
@@ -23,4 +23,4 @@ predigten:
     prediger: Muriithi Wanjau
 ---
 
-Entdecke alte Werte ganz neu und erlebe einen Gott, der das Beste f&uuml;r dich m&ouml;chte!
+Entdecke alte Werte ganz neu und erlebe einen Gott, der das Beste für dich möchte!
