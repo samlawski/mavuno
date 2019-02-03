@@ -6,7 +6,8 @@ image: /uploads/img-20190124-wa0001.jpg
 aktiv: true
 predigten:
   - titel: Über das Leben als Single
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1549194672/predigten/Beziehungsweise%20stark/20190203_Predigt_Trommer_Beziehungsweise_stark_01.mp3
     date: 2019-02-03 00:00:00
     prediger: Sebastian Trommer
   - titel: Über die Ehe
