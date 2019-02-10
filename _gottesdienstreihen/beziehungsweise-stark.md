@@ -12,7 +12,7 @@ predigten:
     prediger: Sebastian Trommer
   - titel: Über die Ehe
     predigt: >-
-      https://res.cloudinary.com/mavuno/video/upload/v1549798902/predigten/Beziehungsweise%20stark/20190210_Predigt_Gloeckner_Beziehunsweise_stark_02.mp3
+      https://res.cloudinary.com/mavuno/video/upload/v1549823598/predigten/Beziehungsweise%20stark/20190210_Predigt_Gloeckner_Beziehunsweise_stark_02.mp3
     date: 2019-02-10 00:00:00
     prediger: Ole Glöckner
   - titel: Über die Liebe
