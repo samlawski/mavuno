@@ -16,7 +16,8 @@ predigten:
     date: 2019-02-10 00:00:00
     prediger: Ole Glöckner
   - titel: Über die Liebe
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1550403487/predigten/Beziehungsweise%20stark/20190217_Predigt_Trommer_Beziehungsweise_stark_03.mp3
     date: 2019-02-17 00:00:00
     prediger: Sebastian Trommer
   - titel: Über Gott und die Welt
