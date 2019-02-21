@@ -25,6 +25,10 @@ predigten:
     predigt:
     date: 2019-03-31 00:00:00
     prediger: Christophe Domes
+  - titel: Geistliche Kämpfe - den Feind kennen
+    predigt:
+    date: 2019-04-07 00:00:00
+    prediger: Daniel Flechsig
 ---
 
 Abenteuer Gebet l&auml;dt dich ein, in den 6 Wochen der Fastenzeit die Kraft des Gebets neu zu entdecken. In den Predigten am Sonntag und in w&ouml;chentlichen Treffen der LifeGroups.
