@@ -29,6 +29,10 @@ predigten:
     predigt:
     date: 2019-04-07 00:00:00
     prediger: Daniel Flechsig
+  - titel: Wenn Gemeinden beten
+    predigt:
+    date: 2019-04-14 00:00:00
+    prediger: Sebastian Trommer
 ---
 
 Abenteuer Gebet l&auml;dt dich ein, in den 6 Wochen der Fastenzeit die Kraft des Gebets neu zu entdecken. In den Predigten am Sonntag und in w&ouml;chentlichen Treffen der LifeGroups.
