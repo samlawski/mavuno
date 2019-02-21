@@ -21,6 +21,10 @@ predigten:
     predigt:
     date: 2019-03-24 00:00:00
     prediger: Daniel Flechsig
+  - titel: Geistliche Kämpfe - die Waffenrüstung
+    predigt:
+    date: 2019-03-31 00:00:00
+    prediger: Christophe Domes
 ---
 
 Abenteuer Gebet l&auml;dt dich ein, in den 6 Wochen der Fastenzeit die Kraft des Gebets neu zu entdecken. In den Predigten am Sonntag und in w&ouml;chentlichen Treffen der LifeGroups.
