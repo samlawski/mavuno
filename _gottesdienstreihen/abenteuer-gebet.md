@@ -5,6 +5,10 @@ predigten_titel: März-April 2019
 image: /uploads/img-20190221-wa0002.jpg
 aktiv: false
 predigten:
+  - titel: Was ist Gebet?
+    predigt:
+    date: 2019-03-03 00:00:00
+    prediger: Ole Glöckner
   - titel:
     predigt:
     date:
