@@ -21,9 +21,10 @@ predigten:
     date: 2019-02-17 00:00:00
     prediger: Sebastian Trommer
   - titel: Über Gott und die Welt
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1551009236/predigten/Beziehungsweise%20stark/20190224_Predigt_Pastor_Kevin_Beziehungsweise_stark_04.mp3
     date: 2019-02-24 00:00:00
-    prediger: Muriithi Wanjau
+    prediger: Kevin Nderitu
 ---
 
 Entdecke alte Werte ganz neu und erlebe einen Gott, der das Beste für dich möchte!
