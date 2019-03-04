@@ -6,9 +6,10 @@ image: /uploads/img-20190221-wa0002.jpg
 aktiv: true
 predigten:
   - titel: Was ist Gebet?
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1551692387/predigten/Abenteuer%20Gebet/2019-03-03_Abenteuer_Gebet_1_-_DF.mp3
     date: 2019-03-03 00:00:00
-    prediger: Ole Glöckner
+    prediger: Daniel und Nancy Flechsig
   - titel: Die Freude des Fastens
     predigt:
     date: 2019-03-10 00:00:00
