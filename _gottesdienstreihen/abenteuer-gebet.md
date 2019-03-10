@@ -10,8 +10,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1551692387/predigten/Abenteuer%20Gebet/2019-03-03_Abenteuer_Gebet_1_-_DF.mp3
     date: 2019-03-03 00:00:00
     prediger: Daniel und Nancy Flechsig
-  - titel: Die Freude des Fastens
-    predigt:
+  - titel: Die Freude des Gebets
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1552218134/predigten/Abenteuer%20Gebet/20190310_Predigt_Mbevi_Abenteuer_Gebet_2.mp3
     date: 2019-03-10 00:00:00
     prediger: Pastor Simon
   - titel: Der Dienst der Fürbitte
