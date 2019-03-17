@@ -16,7 +16,8 @@ predigten:
     date: 2019-03-10 00:00:00
     prediger: Pastor Simon
   - titel: Der Dienst der Fürbitte
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1552824159/predigten/Abenteuer%20Gebet/20170317_Predigt_Nancy_Abenteuer_Gebet_03.mp3
     date: 2019-03-17 00:00:00
     prediger: Nancy Flechsig
   - titel: Fürbitte als Familie
