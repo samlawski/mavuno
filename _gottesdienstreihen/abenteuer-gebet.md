@@ -25,10 +25,11 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1553427366/predigten/Abenteuer%20Gebet/20190324_Predigt_Gloeckner_Abenteuer_Gebet_4.mp3
     date: 2019-03-24 00:00:00
     prediger: Ole Glöckner
-  - titel: Geistliche Kämpfe - die Waffenrüstung
-    predigt:
+  - titel: Gastvortrag Open Doors
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1554032285/predigten/Abenteuer%20Gebet/20190331_Predigt_Boguslawski_Abenteuer_Gebet_5.mp3
     date: 2019-03-31 00:00:00
-    prediger: Christophe Domes
+    prediger: Wolfgang Boguslawski
   - titel: Geistliche Kämpfe - den Feind kennen
     predigt:
     date: 2019-04-07 00:00:00
