@@ -31,7 +31,8 @@ predigten:
     date: 2019-03-31 00:00:00
     prediger: Wolfgang Boguslawski
   - titel: Geistliche Kämpfe - den Feind kennen
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1551692387/predigten/Abenteuer%20Gebet/2019-03-03_Abenteuer_Gebet_1_-_DF.mp3
     date: 2019-04-07 00:00:00
     prediger: Daniel Flechsig
   - titel: Wenn Gemeinden beten
