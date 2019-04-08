@@ -11,4 +11,4 @@ predigten:
     prediger: Daniel Flechsig
 ---
 
-Herzliche Einladung, gemeinsam mit einem Osterfr&uuml;hst&uuml;ck im Rahmen eines Familiengottesdienstes, die Auferstehung zu feiern. Bring einfach etwas Leckeres f&uuml;r unser Fr&uuml;hst&uuml;cksbuffet mit.
+Herzliche Einladung, gemeinsam mit einem Osterfr&uuml;hst&uuml;ck, im Rahmen eines Familiengottesdienstes, die Auferstehung zu feiern. Bring einfach etwas Leckeres f&uuml;r unser Fr&uuml;hst&uuml;cksbuffet mit.
