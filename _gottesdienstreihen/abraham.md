@@ -39,3 +39,4 @@ predigten:
     prediger: Sebastian Trommer
 ---
 
+Er verlie&szlig; seine Heimat, ohne zu wissen, wo er hingehen w&uuml;rde. Er lebte als Fremder unter Fremden. Er riskierte seine Zukunft und erlebte mehr Segen, als er sich jemals ertr&auml;umt h&auml;tte...alles, weil er Gott 100% vertraute
