@@ -12,7 +12,7 @@ predigten:
   - titel: Angst...
     predigt:
     date: 2019-05-05 00:00:00
-    prediger: Daniel Flechsig
+    prediger: Sebastian Trommer
   - titel: Getrennte Wege
     predigt:
     date: 2019-05-12 00:00:00
