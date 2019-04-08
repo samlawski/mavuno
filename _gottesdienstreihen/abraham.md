@@ -1,6 +1,6 @@
 ---
 titel: Abraham
-start_date: 2019-04-15 00:00:00
+start_date: 2019-04-22 00:00:00
 predigten_titel: Mai-Juni 2019
 image: /uploads/flyer-apr19-abraham-vs1e.png
 aktiv: false
@@ -15,8 +15,8 @@ predigten:
     prediger: Daniel Flechsig
   - titel: Getrennte Wege
     predigt:
-    date: 2019-05-13 00:00:00
-    prediger: Sebastian Trommer
+    date: 2019-05-12 00:00:00
+    prediger: Daniel Flechsig
   - titel: Für die Familie!
     predigt:
     date: 2019-05-19 00:00:00
@@ -39,4 +39,4 @@ predigten:
     prediger: Sebastian Trommer
 ---
 
-Er verlie&szlig; seine Heimat, ohne zu wissen, wo er hingehen w&uuml;rde. Er lebte als Fremder unter Fremden. Er riskierte seine Zukunft und erlebte mehr Segen, als er sich jemals ertr&auml;umt h&auml;tte...alles, weil er Gott 100% vertraute
+Er verließ seine Heimat, ohne zu wissen, wo er hingehen würde. Er lebte als Fremder unter Fremden. Er riskierte seine Zukunft und erlebte mehr Segen, als er sich jemals erträumt hätte…alles, weil er Gott 100% vertraute
