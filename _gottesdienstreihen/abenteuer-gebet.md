@@ -36,7 +36,8 @@ predigten:
     date: 2019-04-07 00:00:00
     prediger: Daniel Flechsig
   - titel: Wenn Gemeinden beten
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1555239882/predigten/Abenteuer%20Gebet/20190414_Predigt_Trommer_Abenteuer_Gebet_07.mp3
     date: 2019-04-14 00:00:00
     prediger: Sebastian Trommer
 ---
