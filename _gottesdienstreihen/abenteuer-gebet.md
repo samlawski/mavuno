@@ -40,6 +40,11 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1555239882/predigten/Abenteuer%20Gebet/20190414_Predigt_Trommer_Abenteuer_Gebet_07.mp3
     date: 2019-04-14 00:00:00
     prediger: Sebastian Trommer
+  - titel: Ostersonntag
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1555841608/predigten/Abenteuer%20Gebet/20190421_Predigt_Flechsig_Ostern.mp3
+    date: 2019-04-14 00:00:00
+    prediger: Daniel Flechsig
 ---
 
 Abenteuer Gebet lädt dich ein, in den 6 Wochen der Fastenzeit die Kraft des Gebets neu zu entdecken. In den Predigten am Sonntag und in wöchentlichen Treffen der LifeGroups.
