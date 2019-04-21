@@ -43,7 +43,7 @@ predigten:
   - titel: Ostersonntag
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1555841608/predigten/Abenteuer%20Gebet/20190421_Predigt_Flechsig_Ostern.mp3
-    date: 2019-04-14 00:00:00
+    date: 2019-04-21 00:00:00
     prediger: Daniel Flechsig
 ---
 
