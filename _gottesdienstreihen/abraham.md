@@ -6,7 +6,8 @@ image: /uploads/flyer-apr19-abraham-vs1e.png
 aktiv: true
 predigten:
   - titel: Geh!
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1556448444/predigten/Abraham/20190428_Predigt_Gloeckner_Abraham_01.mp3
     date: 2019-04-28 00:00:00
     prediger: Ole Glöckner
   - titel: Angst...
