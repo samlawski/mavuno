@@ -11,7 +11,8 @@ predigten:
     date: 2019-04-28 00:00:00
     prediger: Ole Glöckner
   - titel: Angst...
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1557053814/predigten/Abraham/05052019_Predigt_Trommer_Abraham_02.mp3
     date: 2019-05-05 00:00:00
     prediger: Sebastian Trommer
   - titel: Getrennte Wege
