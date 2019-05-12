@@ -17,7 +17,7 @@ predigten:
     prediger: Sebastian Trommer
   - titel: Getrennte Wege
     predigt: >-
-      https://res.cloudinary.com/mavuno/video/upload/v1556448444/predigten/Abraham/20190428_Predigt_Gloeckner_Abraham_01.mp3
+      https://res.cloudinary.com/mavuno/video/upload/v1557656852/predigten/Abraham/20190512_Predigt_Flechsig_Abraham_03.mp3
     date: 2019-05-12 00:00:00
     prediger: Daniel Flechsig
   - titel: Für die Familie!
