@@ -16,7 +16,8 @@ predigten:
     date: 2019-05-05 00:00:00
     prediger: Sebastian Trommer
   - titel: Getrennte Wege
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1556448444/predigten/Abraham/20190428_Predigt_Gloeckner_Abraham_01.mp3
     date: 2019-05-12 00:00:00
     prediger: Daniel Flechsig
   - titel: Für die Familie!
@@ -41,4 +42,4 @@ predigten:
     prediger: Sebastian Trommer
 ---
 
-Er verließ seine Heimat, ohne zu wissen, wo er hingehen würde. Er lebte als Fremder unter Fremden. Er riskierte seine Zukunft und erlebte mehr Segen, als er sich jemals erträumt hätte…alles, weil er Gott 100% vertraute.
+Er verlie&szlig; seine Heimat, ohne zu wissen, wo er hingehen w&uuml;rde. Er lebte als Fremder unter Fremden. Er riskierte seine Zukunft und erlebte mehr Segen, als er sich jemals ertr&auml;umt h&auml;tte…alles, weil er Gott 100% vertraute.
