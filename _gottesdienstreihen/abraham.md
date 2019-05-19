@@ -21,7 +21,8 @@ predigten:
     date: 2019-05-12 00:00:00
     prediger: Daniel Flechsig
   - titel: Für die Familie!
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1558262038/predigten/Abraham/20190519_Predigt_Flechsig_Abraham_04.mp3
     date: 2019-05-19 00:00:00
     prediger: Daniel Flechsig
   - titel: Versprochen!
