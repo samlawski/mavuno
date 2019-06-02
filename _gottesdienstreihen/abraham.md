@@ -26,7 +26,8 @@ predigten:
     date: 2019-05-19 00:00:00
     prediger: Daniel Flechsig
   - titel: Versprochen!
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1559471587/predigten/Abraham/20190602_Predigt_Flechsig_Abraham_05.mp3
     date: 2019-06-02 00:00:00
     prediger: Daniel Flechsig
   - titel: Verhandlungssache
@@ -42,5 +43,7 @@ predigten:
     date: 2019-06-23 00:00:00
     prediger: Sebastian Trommer
 ---
+
+&nbsp;
 
 Er verlie&szlig; seine Heimat, ohne zu wissen, wo er hingehen w&uuml;rde. Er lebte als Fremder unter Fremden. Er riskierte seine Zukunft und erlebte mehr Segen, als er sich jemals ertr&auml;umt h&auml;tte…alles, weil er Gott 100% vertraute.
