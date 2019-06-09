@@ -31,7 +31,8 @@ predigten:
     date: 2019-06-02 00:00:00
     prediger: Daniel Flechsig
   - titel: Verhandlungssache
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1560075776/predigten/Abraham/20190609_Predigt_Gloeckner_Abraham_06.mp3
     date: 2019-06-09 00:00:00
     prediger: Ole Glöckner
   - titel: Gerettet
