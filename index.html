@@ -8,7 +8,7 @@ header_button_text: Erfahre mehr...
 header_button_link: '#gottesdienste'
 background_image: /uploads/images/M1-1.jpg
 gottesdienst_image:
-neuigkeiten_image: /uploads/baby-ecke-01-2.jpg
+neuigkeiten_image: /uploads/keine-godis-juli.jpg
 gesellschaft_rooted_image: /uploads/images/rootedweb-min.jpg
 gesellschaft_andere_image: /uploads/images/Kinderbetreuung_01-min.jpg
 gesellschaft_unterstuetzen_image: /uploads/images/unterstuetzen-min.jpg
@@ -124,12 +124,16 @@ fragen:
   <div class="row">
     <div class="col-sm-6">
       <div class="text-box text-white">
-        <h1 class="editable" href="#">Willkommen</h1>
-        <p class="editable" href="#">Komm einfach vorbei und lerne uns kennen...</p>
+        <h1 class="editable" href="#">
+          Willkommen
+        </h1>
+        <p class="editable" href="#">
+          Komm einfach vorbei und lerne uns kennen...
+        </p>
         <hr />
         <div class="editable" href="#">
-          <p>Mavuno Berlin ist eine generationsübergreifende, multikulturelle Kirche, in der du Gott begegnest, die dir hilft, dein Potential zu entfalten und in der du gute Freunde findest.</p>
-          <p>Sei dabei und entdecke Gottes Ideen für dein Leben, für Berlin und die Welt!</p>
+          <p>Mavuno Berlin ist eine generations&uuml;bergreifende, multikulturelle Kirche, in der du Gott begegnest, die dir hilft, dein Potential zu entfalten und in der du gute Freunde findest.</p>
+          <p>Sei dabei und entdecke Gottes Ideen f&uuml;r dein Leben, f&uuml;r Berlin und die Welt!</p>
         </div>
       </div><!-- // text box -->
     </div><!-- // col 6 info -->
@@ -142,24 +146,36 @@ fragen:
     <a class="black-box neuhier-box" href="/neuhier/wer-wir-sind">
       <i class="fa fa-users fa-4x"></i>
       <div>
-        <h3 class="editable" href="#">Wer wir sind</h3>
-        <div class="hidden-xs editable" href="#">Wir stellen uns vor</div>
+        <h3 class="editable" href="#">
+          Wer wir sind
+        </h3>
+        <div class="hidden-xs editable" href="#">
+          <p>Wir stellen uns vor</p>
+        </div>
       </div>
     </a>
 
     <a class="black-box neuhier-box" href="/neuhier/was-uns-motiviert">
       <i class="fa fa-child fa-4x"></i>
       <div>
-        <h3 class="editable" href="#">Was uns motiviert</h3>
-        <div class="hidden-xs editable" href="#">Ein liebender Gott</div>
+        <h3 class="editable" href="#">
+          Was uns motiviert
+        </h3>
+        <div class="hidden-xs editable" href="#">
+          <p>Ein liebender Gott</p>
+        </div>
       </div>
     </a>
 
     <a class="black-box neuhier-box" href="/neuhier/was-uns-praegt">
       <i class="fa fa-book fa-4x"></i>
       <div>
-        <h3 class="editable" href="#">Was uns prägt</h3>
-        <div class="hidden-xs editable" href="#">Eine Kirche mit mehr als 100 Jahren Geschichte...</div>
+        <h3 class="editable" href="#">
+          Was uns pr&auml;gt
+        </h3>
+        <div class="hidden-xs editable" href="#">
+          <p>Eine Kirche mit mehr als 100 Jahren Geschichte...</p>
+        </div>
       </div>
     </a>
   </div><!-- //row -->
@@ -170,7 +186,9 @@ fragen:
 <section id="gottesdienste" class="container-fluid section-light no-height">
   <div class="row">
     <div class="col-sm-6 col-img-pad">
-      <h3 class="visible-xs text-center editable" href="#">Gottesdienst</h3>
+      <h3 class="visible-xs text-center editable" href="#">
+        Gottesdienst
+      </h3>
       {% assign godi_image_string_size = page.gottesdienst_image | size %}
       {% assign last_predigtreihe = site.gottesdienstreihen | where: "aktiv", true | sort: 'start_date' | last %}
       <img src="{% if godi_image_string_size > 1 %}{{ page.gottesdienst_image }}{% else %}{{ last_predigtreihe.image }}{% endif %}" class="img-responsive" />
@@ -213,7 +231,9 @@ fragen:
     <div class="col-sm-6 ">
       <!-- col-xs-12 -->
       <div class="text-box text-center text-white">
-        <h1 class="editable" href="/gottesdienste/predigten">Was geht?</h1>
+        <h1 class="editable" href="/gottesdienste/predigten">
+          Was geht?
+        </h1>
         <div class="text-center editable" href="/gottesdienste/predigten">
           <p>Mit unserem Newsletter bleibst du auf dem Laufenden.</p>
           <p>kostenlos und unverbindlich</p>
@@ -285,7 +305,9 @@ fragen:
   <div class="row">
     <div class="col-sm-6">
       <div class="text-box">
-        <h1 class="editable" href="http://eepurl.com/gVnMb" target="blank">Wo du uns findest</h1>
+        <h1 class="editable" href="http://eepurl.com/gVnMb" target="blank">
+          Wo du uns findest
+        </h1>
         <div class="editable" href="http://eepurl.com/gVnMb" target="blank">
           <p>&nbsp;</p>
           <p><strong>Mavuno Berlin<strong></strong></strong><br />Evangelisch-Freikirchliche Gemeinde Berlin-Lichterfelde<strong><strong><br /><small>K&ouml;rperschaft des &ouml;ffentlichen Rechts</small><br /><br />Billy-Wilder-Promenade 4<br />14167 Berlin</strong></strong>
@@ -298,7 +320,9 @@ fragen:
 
     <div class="col-sm-6">
       <div class="text-box">
-        <h1 class="editable" href="http://eepurl.com/gVnMb" target="blank">Noch Fragen?</h1>
+        <h1 class="editable" href="http://eepurl.com/gVnMb" target="blank">
+          Noch Fragen?
+        </h1>
 
         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="false">
           {% for frage in page.fragen %}
