@@ -36,7 +36,8 @@ predigten:
     date: 2019-06-09 00:00:00
     prediger: Ole Glöckner
   - titel: Gerettet
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1560682937/predigten/Abraham/20190616_Predigt_Flechsig_Abraham_07.mp3
     date: 2019-06-16 00:00:00
     prediger: Daniel Flechsig
   - titel: Gott ist anders
