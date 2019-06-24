@@ -41,8 +41,7 @@ predigten:
     date: 2019-06-16 00:00:00
     prediger: Daniel Flechsig
   - titel: Gott ist anders
-    predigt: >-
-      https://res.cloudinary.com/mavuno/video/upload/v1561300707/predigten/Abraham/20190623_Predigt_Trommer_Abraham_08.mp3
+    predigt:
     date: 2019-06-23 00:00:00
     prediger: Sebastian Trommer
 ---
