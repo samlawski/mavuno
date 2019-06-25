@@ -11,3 +11,8 @@ predigten:
     prediger: Daniel Flechsig
 ---
 
+Schau mit uns auf das letzte Jahr zur&uuml;ck.
+
+Dies ist der letzte Gottesdienst vor unserer kleinen Sommerpause. Im Juli wird es in unseren R&auml;umen keinen Gottesdienst geben.
+
+Am 4.August starten wir wieder mit regelm&auml;&szlig;igen Gottesdiensten in ein neues Gemeindejahr.
