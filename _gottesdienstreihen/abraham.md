@@ -42,7 +42,7 @@ predigten:
     prediger: Daniel Flechsig
   - titel: Gott ist anders
     predigt: >-
-      https://res.cloudinary.com/mavuno/video/upload/v1561482100/predigten/Abraham/predigten_Abraham_20190623_Predigt_Trommer_Abraham_08-Original.mp3
+      https://res.cloudinary.com/mavuno/video/upload/v1561482607/predigten/Abraham/neu_0190623_Predigt_Trommer_Abraham_08.mp3
     date: 2019-06-23 00:00:00
     prediger: Sebastian Trommer
   - titel: Jahresabschluss 2018/19
