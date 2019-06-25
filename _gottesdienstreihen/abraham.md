@@ -45,6 +45,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1561482100/predigten/Abraham/predigten_Abraham_20190623_Predigt_Trommer_Abraham_08-Original.mp3
     date: 2019-06-23 00:00:00
     prediger: Sebastian Trommer
+  - titel: Jahresabschluss 2018/19
+    predigt:
+    date: 2019-06-30 00:00:00
+    prediger: Daniel Flechsig
 ---
 
 &nbsp;
