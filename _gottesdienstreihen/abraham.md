@@ -46,7 +46,8 @@ predigten:
     date: 2019-06-23 00:00:00
     prediger: Sebastian Trommer
   - titel: Jahresabschluss 2018/19
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1561895717/predigten/Abraham/20190630_Predigt_Flechsig_ohne_Simeon.mp3
     date: 2019-06-30 00:00:00
     prediger: Daniel Flechsig
 ---
