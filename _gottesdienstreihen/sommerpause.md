@@ -2,7 +2,7 @@
 titel: Keine Gottesdienste im Juli
 start_date: 2019-06-30 00:00:00
 predigten_titel: Sommerpause
-image: /uploads/keine-godis-juli-1.jpg
+image: /uploads/sommerpause-1.jpg
 aktiv: true
 predigten:
   - titel:
