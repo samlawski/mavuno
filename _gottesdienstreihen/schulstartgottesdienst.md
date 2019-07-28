@@ -1,6 +1,6 @@
 ---
 titel:
-start_date: 2018-08-19 00:00:00
+start_date: 2019-07-28 00:00:00
 predigten_titel: Familiengottesdienst zum Schulstart
 image: /uploads/schulstart.jpg
 aktiv: true
