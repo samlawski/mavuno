@@ -11,9 +11,9 @@ predigten:
     date: 2019-08-04 00:00:00
     prediger: Daniel Flechsig
   - titel:
-    predigt: Daniel Flechsig
+    predigt:
     date: 2019-08-11 00:00:00
-    prediger:
+    prediger: Daniel Flechsig
   - titel:
     predigt:
     date: 2019-08-18 00:00:00
