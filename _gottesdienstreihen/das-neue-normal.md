@@ -10,6 +10,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1564915042/predigten/Das%20neue%20normal/20190804_Predigt_Flechsig_Das_neue_normal_01.mp3
     date: 2019-08-04 00:00:00
     prediger: Daniel Flechsig
+  - titel:
+    predigt: Daniel Flechsig
+    date: 2019-08-11 00:00:00
+    prediger:
 ---
 
 Was ist f&uuml;r mich normal? Und was ist f&uuml;r Gott normal? Was ist normal, wenn man mit Gott rechnet?
