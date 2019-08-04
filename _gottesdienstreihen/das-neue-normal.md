@@ -14,10 +14,10 @@ predigten:
     predigt:
     date: 2019-08-11 00:00:00
     prediger: Daniel Flechsig
-  - titel:
+  - titel: Multiplikation mit Jesus
     predigt:
     date: 2019-08-18 00:00:00
-    prediger:
+    prediger: Ole Glöckner
   - titel:
     predigt:
     date: 2019-08-25 00:00:00
