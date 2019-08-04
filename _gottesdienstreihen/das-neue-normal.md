@@ -26,4 +26,4 @@ predigten:
 
 Was ist f&uuml;r mich normal? Und was ist f&uuml;r Gott normal? Was ist normal, wenn man mit Gott rechnet?
 
-Du bist herzlich eingeladen, in unseren Gottesdiensten mit uns auf Entdeckungstour durch die Bibel zu gehen, um herauszufinden, wie das neue normal mit Gott aussehen kann.
+Du bist herzlich eingeladen, in unseren Gottesdiensten mit uns auf Entdeckungstour durch die Bibel zu gehen, um herauszufinden, wie das "neue normal" mit Gott aussehen kann.
