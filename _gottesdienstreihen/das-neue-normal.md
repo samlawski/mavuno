@@ -3,7 +3,7 @@ titel: Das neue normal
 start_date: 2019-08-04 00:00:00
 predigten_titel: August 2019
 image: /uploads/img-20190704-wa0002.jpg
-aktiv: false
+aktiv: true
 predigten:
   - titel: Schulstartgottesdienst
     predigt: >-
