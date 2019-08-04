@@ -18,6 +18,10 @@ predigten:
     predigt:
     date: 2019-08-18 00:00:00
     prediger:
+  - titel:
+    predigt:
+    date: 2019-08-25 00:00:00
+    prediger:
 ---
 
 Was ist f&uuml;r mich normal? Und was ist f&uuml;r Gott normal? Was ist normal, wenn man mit Gott rechnet?
