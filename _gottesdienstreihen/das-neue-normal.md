@@ -11,7 +11,8 @@ predigten:
     date: 2019-08-04 00:00:00
     prediger: Daniel Flechsig
   - titel: Das neue normal
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1565519732/predigten/Das%20neue%20normal/20190811_Predigt_Flechsig_Das_neue_normal_01.mp3
     date: 2019-08-11 00:00:00
     prediger: Daniel Flechsig
   - titel: Multiplikation mit Jesus
