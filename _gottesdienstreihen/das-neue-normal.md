@@ -16,7 +16,8 @@ predigten:
     date: 2019-08-11 00:00:00
     prediger: Daniel Flechsig
   - titel: Multiplikation mit Jesus
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1566123769/predigten/Das%20neue%20normal/20190818_Predigt_Gloeckner_Das_neue_normal_02.mp3
     date: 2019-08-18 00:00:00
     prediger: Ole Glöckner
   - titel: Finde dein neues Normal
