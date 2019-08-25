@@ -21,7 +21,8 @@ predigten:
     date: 2019-08-18 00:00:00
     prediger: Ole Glöckner
   - titel: Finde dein neues Normal
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1566729316/predigten/Das%20neue%20normal/20180825_Predigt_Trommer_Das_neue_normal_03.mp3
     date: 2019-08-25 00:00:00
     prediger: Sebastian Trommer
 ---
