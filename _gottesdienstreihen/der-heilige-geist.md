@@ -6,7 +6,8 @@ image: /uploads/flyer-sep-2019-heiligegeist-vs2a.png
 aktiv: true
 predigten:
   - titel: Wer ist der Heilige Geist?
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1567334744/predigten/Heiliger%20Geist/20190901_Predigt_Flechsig_Heiliger_Geist_01.mp3
     date: 2019-09-01 00:00:00
     prediger: Daniel Flechsig
   - titel: Habe ich den Heiligen Geist?
