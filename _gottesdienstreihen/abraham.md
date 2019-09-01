@@ -3,7 +3,7 @@ titel: Abraham
 start_date: 2019-04-22 00:00:00
 predigten_titel: Mai-Juni 2019
 image: /uploads/flyer-apr19-abraham-vs1e.png
-aktiv: true
+aktiv: false
 predigten:
   - titel: Geh!
     predigt: >-
