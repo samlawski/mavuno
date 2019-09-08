@@ -11,7 +11,8 @@ predigten:
     date: 2019-09-01 00:00:00
     prediger: Daniel Flechsig
   - titel: Habe ich den Heiligen Geist?
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1567939476/predigten/Heiliger%20Geist/20190908_Predigt_Haensch_Heiliger_Geist_02.mp3
     date: 2019-09-08 00:00:00
     prediger: Stefan Hänsch
   - titel: Die Gaben des Heiligen Geistes im Epheserbrief
