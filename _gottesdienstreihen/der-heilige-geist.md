@@ -16,7 +16,8 @@ predigten:
     date: 2019-09-08 00:00:00
     prediger: Stefan Hänsch
   - titel: Die Gaben des Heiligen Geistes im Epheserbrief
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1568582277/predigten/Heiliger%20Geist/2019-09-15_Predigt_Mavuno_Berlin_-_Heiliger_Geist_3_-_Audio.mp3
     date: 2019-09-15 00:00:00
     prediger: Nancy Flechsig
   - titel: Die Gaben des Heiligen Geistes im Römerbrief
