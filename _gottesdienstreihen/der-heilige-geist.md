@@ -21,9 +21,10 @@ predigten:
     date: 2019-09-15 00:00:00
     prediger: Nancy Flechsig
   - titel: Die Gaben des Heiligen Geistes im Römerbrief
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1569152491/predigten/Heiliger%20Geist/20190922_Predigt_Flechsig_Heiliger_Geist_04.mp3
     date: 2019-09-22 00:00:00
-    prediger: nn
+    prediger: Anthony Njoroge
   - titel: Die Gaben des Heiligen Geistes im Korintherbrief
     predigt:
     date: 2019-09-29 00:00:00
