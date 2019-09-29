@@ -27,7 +27,7 @@ predigten:
     prediger: Anthony Njoroge
   - titel: Die Gaben des Heiligen Geistes im Korintherbrief
     predigt: >-
-      https://res.cloudinary.com/mavuno/video/upload/v1567334744/predigten/Heiliger%20Geist/20190901_Predigt_Flechsig_Heiliger_Geist_01.mp3
+      https://res.cloudinary.com/mavuno/video/upload/v1569753438/predigten/Heiliger%20Geist/20190929_Predigt_Trommer_Heiliger_Geist_05.mp3
     date: 2019-09-29 00:00:00
     prediger: Sebastian Trommer
 ---
