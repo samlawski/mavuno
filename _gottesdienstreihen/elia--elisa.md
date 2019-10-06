@@ -6,7 +6,8 @@ image: /uploads/flyer-okt-2019-eliaelisa-2-vs.jpg
 aktiv: true
 predigten:
   - titel: In der Höhle des Löwen
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1570362333/predigten/Elia/2019_10_06_Predigt_DF_Elia_01.mp3
     date: 2019-10-06 00:00:00
     prediger: Daniel Flechsig
   - titel: Ungewöhnliche Köche
