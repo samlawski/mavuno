@@ -12,7 +12,7 @@ predigten:
     prediger: Daniel Flechsig
   - titel: Ungewöhnliche Köche
     predigt: >-
-      https://res.cloudinary.com/mavuno/video/upload/v1570362333/predigten/Elia/2019_10_06_Predigt_DF_Elia_01.mp3
+      https://res.cloudinary.com/mavuno/video/upload/v1570963184/predigten/Elia/20191013_Predigt_Gloeckner_Elia_und_Elisa_02.mp3
     date: 2019-10-13 00:00:00
     prediger: Ole Glöckner
   - titel: Kann Wasser brennen?
