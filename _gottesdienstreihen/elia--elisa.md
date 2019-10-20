@@ -16,7 +16,8 @@ predigten:
     date: 2019-10-13 00:00:00
     prediger: Ole Glöckner
   - titel: Kann Wasser brennen?
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1571568696/predigten/Elia/20191020_Predigt_Flechsig_Elia_und_Elisa_3.mp3
     date: 2019-10-20 00:00:00
     prediger: Daniel Flechsig
   - titel: Für gutes Wetter beten
