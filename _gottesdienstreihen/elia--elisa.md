@@ -26,7 +26,8 @@ predigten:
     date: 2019-10-27 00:00:00
     prediger: Sebastian Trommer
   - titel: Ausgebrannt
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1572782895/predigten/Elia/20191103_Predigt_Flechsig_Elia_und_Elisa_5.mp3
     date: 2019-11-03 00:00:00
     prediger: Daniel Flechsig
   - titel: Elisas Berufung
