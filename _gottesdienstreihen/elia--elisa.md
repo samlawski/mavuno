@@ -35,7 +35,8 @@ predigten:
     date: 2019-11-10 00:00:00
     prediger: Ole Glöckner
   - titel: Gottes Wunder kommt anders als erwartet
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1573990216/predigten/Elia/20191117_Predigt_Warrington_Elia_und_Elisa_6.mp3
     date: 2019-11-17 00:00:00
     prediger: Keith Warrington
   - titel: Gib was du hast.
