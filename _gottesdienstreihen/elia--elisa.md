@@ -40,7 +40,8 @@ predigten:
     date: 2019-11-17 00:00:00
     prediger: Keith Warrington
   - titel: Gib was du hast.
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1574596061/predigten/Elia/20191124_Predigt_Trommer_Elija_und_Elisa_7.mp3
     date: 2019-11-24 00:00:00
     prediger: Sebastian Trommer
 ---
