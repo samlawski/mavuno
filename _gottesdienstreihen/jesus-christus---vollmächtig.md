@@ -11,7 +11,8 @@ predigten:
     date: 2019-12-01 00:00:00
     prediger: Ole Glöckner
   - titel: vollmächtige Wunder
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1575822739/predigten/Jesus%20Christus%20-%20Vollm%C3%A4chtig/2019_12_08_Predigt_Klatt.mp3
     date: 2019-12-08 00:00:00
     prediger: Gerald Klatt
   - titel: vollmächtige Befreiung
