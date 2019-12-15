@@ -16,7 +16,8 @@ predigten:
     date: 2019-12-08 00:00:00
     prediger: Gerald Klatt
   - titel: vollmächtige Befreiung
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1576410418/predigten/Jesus%20Christus%20-%20Vollm%C3%A4chtig/20191215_Predigt_Flechsig_Vollmaechtig_03.mp3
     date: 2019-12-15 00:00:00
     prediger: Daniel Flechsig
   - titel: vollmächtige Heilung
