@@ -21,7 +21,8 @@ predigten:
     date: 2019-12-15 00:00:00
     prediger: Daniel Flechsig
   - titel: vollmächtige Heilung
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1577014260/predigten/Jesus%20Christus%20-%20Vollm%C3%A4chtig/20191222_Predigt_Trommer_Vollmaechtig_04.mp3
     date: 2019-12-22 00:00:00
     prediger: Sebastian Trommer
 ---
