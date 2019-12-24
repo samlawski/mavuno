@@ -25,6 +25,11 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1577014260/predigten/Jesus%20Christus%20-%20Vollm%C3%A4chtig/20191222_Predigt_Trommer_Vollmaechtig_04.mp3
     date: 2019-12-22 00:00:00
     prediger: Sebastian Trommer
+  - titel: Heiligabend - Vollmächtige Liebe
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1577203944/predigten/Jesus%20Christus%20-%20Vollm%C3%A4chtig/20191224_Predigt_Flechsig_Heiligabend_Vollmaechtige_Liebe.mp3
+    date: 2019-12-24 00:00:00
+    prediger: Daniel Flechsig
 ---
 
 Wer war Jesus Christus? Was macht ihn so besonders?&nbsp;
