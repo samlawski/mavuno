@@ -6,7 +6,8 @@ image: /uploads/flyer-dez-2019-gottessohn-vs-v2big.png
 aktiv: true
 predigten:
   - titel: Jesu Taufe
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1578224775/predigten/Das%20volle%20Leben/20200105_Predigt_Flechsig_Das_volle_Leben_01.mp3
     date: 2020-01-05 00:00:00
     prediger: Daniel Flechsig
   - titel: Nachfolger Jesu
