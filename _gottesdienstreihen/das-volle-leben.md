@@ -11,7 +11,8 @@ predigten:
     date: 2020-01-05 00:00:00
     prediger: Daniel Flechsig
   - titel: Nachfolger Jesu
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1578828658/predigten/Das%20volle%20Leben/20200112_Predigt_Trommer_Das_volle_Leben_02.mp3
     date: 2020-01-12 00:00:00
     prediger: Sebastian Trommer
   - titel: Die Bergpredigt
