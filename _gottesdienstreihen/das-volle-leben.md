@@ -16,7 +16,8 @@ predigten:
     date: 2020-01-12 00:00:00
     prediger: Sebastian Trommer
   - titel: Die Bergpredigt
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1579433607/predigten/Das%20volle%20Leben/20200119_Predigt_Flechsig_Das_volle_Leben_03.mp3
     date: 2020-01-19 00:00:00
     prediger: Daniel Flechsig
   - titel: Jesus zeigt wofür er steht
