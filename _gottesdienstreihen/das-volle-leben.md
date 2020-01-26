@@ -21,7 +21,8 @@ predigten:
     date: 2020-01-19 00:00:00
     prediger: Daniel Flechsig
   - titel: Jesus zeigt wofür er steht
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1580037897/predigten/Das%20volle%20Leben/20200126_Predigt_Gloeckner_Das_volle_Leben_04.mp3
     date: 2020-01-26 00:00:00
     prediger: Ole Glöckner
   - titel: Aussendung der 12
