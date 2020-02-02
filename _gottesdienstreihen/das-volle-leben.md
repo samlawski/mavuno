@@ -26,9 +26,10 @@ predigten:
     date: 2020-01-26 00:00:00
     prediger: Ole Glöckner
   - titel: Aussendung der 12
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1580642544/predigten/Das%20volle%20Leben/20200202_Predigt_Flechsig_Das_volle_Leben_05.mp3
     date: 2020-02-02 00:00:00
-    prediger: Sebastian Trommer
+    prediger: Daniel Flechsig
   - titel: Jesus bildet seine Jünger aus
     predigt:
     date: 2020-02-09 00:00:00
