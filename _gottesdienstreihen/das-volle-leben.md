@@ -31,9 +31,10 @@ predigten:
     date: 2020-02-02 00:00:00
     prediger: Daniel Flechsig
   - titel: Jesus bildet seine Jünger aus
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1581247466/predigten/Das%20volle%20Leben/20200209_Predigt_Trommer_Das_volle_Leben_06.mp3
     date: 2020-02-09 00:00:00
-    prediger: Christophe Domes
+    prediger: Sebastian Trommer
   - titel: 'Jesu Mission: Menschen retten'
     predigt:
     date: 2020-02-16 00:00:00
