@@ -36,9 +36,10 @@ predigten:
     date: 2020-02-09 00:00:00
     prediger: Sebastian Trommer
   - titel: 'Jesu Mission: Menschen retten'
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1581852843/predigten/Das%20volle%20Leben/20200216_Predigt_Wenzel_Das_volle_Leben_07.mp3
     date: 2020-02-16 00:00:00
-    prediger: Daniel Flechsig
+    prediger: Dorothée Wenzel
   - titel: Wachsamkeit
     predigt:
     date: 2020-02-23 00:00:00
