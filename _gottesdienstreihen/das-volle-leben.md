@@ -41,11 +41,12 @@ predigten:
     date: 2020-02-16 00:00:00
     prediger: Dorothée Wenzel
   - titel: Wachsamkeit
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1582458237/predigten/Das%20volle%20Leben/20200223_Predigt_Flechsigs_Das_volle_Leben_08.mp3
     date: 2020-02-23 00:00:00
     prediger: Daniel Flechsig
 ---
 
 Gottes Sohn wird Mensch und bietet uns: das volle Leben\!
 
-Eine Gottesdienstreihe &uuml;ber das Leben Jesu.
+Eine Gottesdienstreihe über das Leben Jesu.
