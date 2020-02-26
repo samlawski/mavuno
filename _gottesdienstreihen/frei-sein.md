@@ -27,4 +27,6 @@ predigten:
     prediger: Daniel Flechsig
 ---
 
-Freiheit... ist möglich\! Jesus möchte, dass du ein Leben in Freiheit führen kannst\! Sei gespannt auf herausfordernde Gottesdienste mit einer befreienden Botschaft.
+Freiheit… ist möglich\! Jesus möchte, dass du ein Leben in Freiheit führen kannst\!
+
+Sei gespannt auf herausfordernde Gottesdienste mit einer befreienden Botschaft.
