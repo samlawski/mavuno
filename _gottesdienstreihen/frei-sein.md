@@ -6,7 +6,8 @@ image: /uploads/flyer-mär-2020-frei3-1.png
 aktiv: true
 predigten:
   - titel: frei um du selbst zu sein
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1583062596/predigten/Frei%20sein/20200301_Predigt_Flechsig_Frei_sein_01.mp3
     date: 2020-03-01 00:00:00
     prediger: Daniel Flechsig
   - titel: frei von geistlichen Bindungen
