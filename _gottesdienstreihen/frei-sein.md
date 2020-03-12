@@ -32,3 +32,7 @@ predigten:
 Freiheit… ist möglich\! Jesus möchte, dass du ein Leben in Freiheit führen kannst\!
 
 Sei gespannt auf herausfordernde Gottesdienste mit einer befreienden Botschaft.
+
+Wir haben uns entschlossen, zur Zeit keine Gottesdienste vor Ort durchzuführen, um einen Beitrag dazu zu leisten, die Verbreitung des Coronavirus zu verlangsamen. Trotzdem könnt ihr die Predigten weiterhin online hören. &nbsp;&nbsp;&nbsp;
+
+&nbsp;
