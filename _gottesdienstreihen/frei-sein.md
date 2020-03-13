@@ -2,7 +2,7 @@
 titel: Frei sein
 start_date: 2020-02-25 00:00:00
 predigten_titel: März 2020
-image: /uploads/flyer-mär-2020-frei3-1.png
+image: /uploads/flyer-mär-2020-frei3-1-min.jpg
 aktiv: true
 predigten:
   - titel: frei um du selbst zu sein
