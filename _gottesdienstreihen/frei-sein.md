@@ -16,9 +16,10 @@ predigten:
     date: 2020-03-08 00:00:00
     prediger: Christophe Domes
   - titel: frei von Verletzungen
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1584562592/predigten/Frei%20sein/2020-03-15_FREI_SEIN_-_von_Verletzungen_-_Ole_Glockner.mp3
     date: 2020-03-15 00:00:00
-    prediger: Daniel Flechsig
+    prediger: Ole Glöckner
   - titel: frei von Versuchungen
     predigt:
     date: 2020-03-22 00:00:00
