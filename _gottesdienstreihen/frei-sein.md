@@ -21,9 +21,10 @@ predigten:
     date: 2020-03-15 00:00:00
     prediger: Ole Glöckner
   - titel: frei von Versuchungen
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1585173970/predigten/Frei%20sein/2020-03-22_GoDi_Mavuno_Berlin_-_Frei_sein_-_Von_Versuchungen.mp3
     date: 2020-03-22 00:00:00
-    prediger: Ole Glöckner
+    prediger: Joe Hartung
   - titel: frei von Lebenslügen
     predigt:
     date: 2020-03-29 00:00:00
