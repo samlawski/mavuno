@@ -25,8 +25,8 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1585173970/predigten/Frei%20sein/2020-03-22_GoDi_Mavuno_Berlin_-_Frei_sein_-_Von_Versuchungen.mp3
     date: 2020-03-22 00:00:00
     prediger: Joe Hartung
-  - titel: frei von Lebenslügen
-    predigt:
+  - titel: frei für deine Berufung
+    predigt: 'https://youtu.be/El_HW78jnAk'
     date: 2020-03-29 00:00:00
     prediger: Daniel Flechsig
 ---
