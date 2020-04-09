@@ -5,9 +5,9 @@ predigten_titel: April 2020
 image: /uploads/flyer-apr-2020-hoffnung-ohnegodi.png
 aktiv: true
 predigten:
-  - titel: Predigten ab jetzt auf unserem Youtube-Kanal "Mavuno Berlin"
-    predigt:
-    date:
-    prediger:
+  - titel: 'Wähle: Hoffnung'
+    predigt: 'https://youtu.be/6XqsjefClqg'
+    date: 2020-04-05 11:00:00
+    prediger: Daniel Flechsig
 ---
 
