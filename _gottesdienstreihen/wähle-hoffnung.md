@@ -6,7 +6,8 @@ image: /uploads/flyer-apr-2020-hoffnung-ohnegodi.png
 aktiv: true
 predigten:
   - titel: 'Wähle: Hoffnung'
-    predigt: 'https://youtu.be/6XqsjefClqg'
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1589196342/predigten/W%C3%A4hle%20Hoffnung/2020-04-05_GoDi_Mavuno_Berlin_-_W%C3%A4hle_Hoffnung.mp3
     date: 2020-04-05 11:00:00
     prediger: Daniel Flechsig
   - titel: Wähle Hoffnung - und gib sie weiter
@@ -33,6 +34,10 @@ predigten:
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1589195665/predigten/W%C3%A4hle%20Hoffnung/2020-04-12_GoDi_Mavuno_Berlin_-_W%C3%A4hle_Hoffnung_2_-_Weil_Jesus_auferstand_Ostersonntag.mp3
     date: 2020-04-12 00:00:00
+    prediger: Daniel Flechsig
+  - titel: 'Wähle: Hoffnung'
+    predigt:
+    date: 2020-04-05 00:00:00
     prediger: Daniel Flechsig
 ---
 
