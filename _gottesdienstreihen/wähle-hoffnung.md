@@ -29,5 +29,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1589195070/predigten/W%C3%A4hle%20Hoffnung/2020-04-19_GoDi_Mavuno_Berlin_-_W%C3%A4hle_Hoffnung_3_-_Weil_Jesus_sich_zeigt.mp3
     date: 2020-04-19 00:00:00
     prediger: Daniel Flechsig
+  - titel: Wähle Hoffnung - weil Jesus auferstand
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1589195665/predigten/W%C3%A4hle%20Hoffnung/2020-04-12_GoDi_Mavuno_Berlin_-_W%C3%A4hle_Hoffnung_2_-_Weil_Jesus_auferstand_Ostersonntag.mp3
+    date: 2020-04-12 00:00:00
+    prediger: Daniel Flechsig
 ---
 
