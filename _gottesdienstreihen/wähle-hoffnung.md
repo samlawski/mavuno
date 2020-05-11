@@ -19,5 +19,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1589191409/predigten/W%C3%A4hle%20Hoffnung/2020-05-03_GoDi_Mavuno_Berlin_-_W%C3%A4hle_Hoffnung_6_-_Weil_Jesus_neu_beruft.mp3
     date: 2020-05-03 00:00:00
     prediger: Daniel Flechsig
+  - titel: Wähle Hoffnung - Weil Jesus da ist
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1589193402/predigten/W%C3%A4hle%20Hoffnung/2020-04-26_GoDi_Mavuno_Berlin_-_W%C3%A4hle_Hoffnung_4_-_Weil_Jesus_da_ist.mp3
+    date: 2020-04-26 00:00:00
+    prediger: Sebastian Trommer
 ---
 
