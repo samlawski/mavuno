@@ -24,5 +24,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1589193402/predigten/W%C3%A4hle%20Hoffnung/2020-04-26_GoDi_Mavuno_Berlin_-_W%C3%A4hle_Hoffnung_4_-_Weil_Jesus_da_ist.mp3
     date: 2020-04-26 00:00:00
     prediger: Sebastian Trommer
+  - titel: Wähle Hoffnung - Weil Jesus sich zeigt
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1589195070/predigten/W%C3%A4hle%20Hoffnung/2020-04-19_GoDi_Mavuno_Berlin_-_W%C3%A4hle_Hoffnung_3_-_Weil_Jesus_sich_zeigt.mp3
+    date: 2020-04-19 00:00:00
+    prediger: Daniel Flechsig
 ---
 
