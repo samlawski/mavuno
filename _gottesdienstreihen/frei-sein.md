@@ -26,7 +26,8 @@ predigten:
     date: 2020-03-22 00:00:00
     prediger: Joe Hartung
   - titel: frei für deine Berufung
-    predigt: 'https://youtu.be/El_HW78jnAk'
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1589197052/predigten/Frei%20sein/2020-03-28_GoDi_Mavuno_Berlin_-_Frei_sein_-_F%C3%BCr_deine_Berufung.mp3
     date: 2020-03-29 00:00:00
     prediger: Daniel Flechsig
 ---
