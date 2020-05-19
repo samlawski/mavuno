@@ -39,5 +39,10 @@ predigten:
     predigt:
     date: 2020-04-05 00:00:00
     prediger: Daniel Flechsig
+  - titel: Wähle Hoffnung - Weil Jesus Kraft schenkt
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1589886377/predigten/W%C3%A4hle%20Hoffnung/2020-05-17_Mavuno_Berlin_-_W%C3%A4hle_Hoffnung_7_-_Weil_Jesus_Kraft_schenkt.mp3
+    date: 2020-05-17 00:00:00
+    prediger: Daniel Flechsig
 ---
 
