@@ -44,5 +44,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1589886377/predigten/W%C3%A4hle%20Hoffnung/2020-05-17_Mavuno_Berlin_-_W%C3%A4hle_Hoffnung_7_-_Weil_Jesus_Kraft_schenkt.mp3
     date: 2020-05-17 00:00:00
     prediger: Daniel Flechsig
+  - titel: Wähle Hoffnung - weil Jesus zur Rechten Gottes sitzt
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1590745603/predigten/W%C3%A4hle%20Hoffnung/2020-05-24_GoDi_Mavuno_Berlin_-_W%C3%A4hle_Hoffnung_8_-_Weil_Jesus_zur_Rechten_Gottes_sitzt.mp3
+    date: 2020-05-24 00:00:00
+    prediger: Daniel Flechsig
 ---
 
