@@ -49,5 +49,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1590745603/predigten/W%C3%A4hle%20Hoffnung/2020-05-24_GoDi_Mavuno_Berlin_-_W%C3%A4hle_Hoffnung_8_-_Weil_Jesus_zur_Rechten_Gottes_sitzt.mp3
     date: 2020-05-24 00:00:00
     prediger: Daniel Flechsig
+  - titel: Wähle Hoffnung - weil der Heilige Geist der Motor ist
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1591101340/predigten/W%C3%A4hle%20Hoffnung/2020-05-31_GoDi_Mavuno_Berlin_-_W%C3%A4hle_Hoffnung_-_Heiliger_Geist.mp3
+    date: 2020-05-31 00:00:00
+    prediger: Sebastian Trommer
 ---
 
