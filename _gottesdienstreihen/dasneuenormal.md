@@ -2,7 +2,7 @@
 titel: DasNeueNormal
 start_date: 2020-06-01 00:00:00
 predigten_titel: Juni 2020
-image: /uploads/ohne-titel-002.jpeg
+image: /uploads/grafik.png
 aktiv: true
 predigten:
   - titel:
