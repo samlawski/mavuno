@@ -19,5 +19,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1592125886/predigten/Das%20Neue%20Normal%202/2020-06-14_GoDi_Mavuno_Berlin_-_DasNeueNormal_-_Mauern_sind_kein_Hindernis.mp3
     date: 2020-06-14 11:00:00
     prediger: Sebastian Trommer
+  - titel: DasNeueNormal - Distanzen sind kein Hindernis
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1592660846/predigten/Das%20Neue%20Normal%202/2020-06-21_GoDi_Mavuno_Berlin_-_DasNeueNormal_-_Distanzen_sind_kein_Hindernis.mp3
+    date: 2020-06-21 11:00:00
+    prediger: Sebastian Trommer
 ---
 
