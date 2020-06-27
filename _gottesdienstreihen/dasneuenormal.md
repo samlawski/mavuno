@@ -24,5 +24,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1592660846/predigten/Das%20Neue%20Normal%202/2020-06-21_GoDi_Mavuno_Berlin_-_DasNeueNormal_-_Distanzen_sind_kein_Hindernis.mp3
     date: 2020-06-21 11:00:00
     prediger: Sebastian Trommer
+  - titel: DasNeueNormal - Biografien sind kein Hindernis
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1593288019/predigten/Das%20Neue%20Normal%202/2020-06-28_GoDi_Mavuno_Berlin.mp3
+    date: 2020-06-28 11:00:00
+    prediger: Daniel Flechsig
 ---
 
