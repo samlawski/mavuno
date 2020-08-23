@@ -14,5 +14,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1598012867/predigten/2020-08%20Be%20The%20Spark/2020-08-16_GoDi_Mavuno_Berlin_-_Be_the_Spark_1_-_Salz_und_Licht.mp3
     date: 2020-08-16 00:00:00
     prediger: Daniel Flechsig
+  - titel: Be the Spark - Feuer fangen
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1598180466/predigten/2020-08%20Be%20The%20Spark/2020-08-23_GoDi_Mavuno_Berlin_-_Be_The_Spark_2_-_Feuer_fangen.mp3
+    date: 2020-08-23 11:00:00
+    prediger: Daniel Flechsig
 ---
 
