@@ -19,5 +19,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1598180466/predigten/2020-08%20Be%20The%20Spark/2020-08-23_GoDi_Mavuno_Berlin_-_Be_The_Spark_2_-_Feuer_fangen.mp3
     date: 2020-08-23 11:00:00
     prediger: Daniel Flechsig
+  - titel: Be The Spark - Ausgebrannt
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1598770703/predigten/2020-08%20Be%20The%20Spark/2020-08-30_GoDi_Mavuno_Berlin_-_Be_The_Spark_3_-_Ausgebrannt.mp3
+    date: 2020-08-30 00:00:00
+    prediger: Daniel Flechsig
 ---
 
