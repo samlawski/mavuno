@@ -22,7 +22,7 @@ predigten:
   - titel: Be The Spark - Ausgebrannt
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1598770703/predigten/2020-08%20Be%20The%20Spark/2020-08-30_GoDi_Mavuno_Berlin_-_Be_The_Spark_3_-_Ausgebrannt.mp3
-    date: 2020-08-30 11:45:00
+    date: 2020-08-30 11:00:00
     prediger: Daniel Flechsig
 ---
 
