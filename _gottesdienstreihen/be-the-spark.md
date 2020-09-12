@@ -29,5 +29,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1599317147/predigten/2020-08%20Be%20The%20Spark/2020-09-06_GoDi_Mavuno_Berlin_-_Be_The_Spark_4_-_Neuentfacht.mp3
     date: 2020-09-06 11:00:00
     prediger: Sebastian Trommer
+  - titel: Be The Spark - Märchen und Mythen entlarven
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1599917282/predigten/2020-08%20Be%20The%20Spark/2020-09-13_GoDi_Mavuno_Berlin_-_Be_The_Spark_5_-_M%C3%A4rchen_und_Mythen_entlarven.mp3
+    date: 2020-09-13 11:00:00
+    prediger: Sebastian Trommer
 ---
 
