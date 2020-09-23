@@ -2,7 +2,7 @@
 titel: Aug 2020
 start_date: 2020-08-01 00:00:00
 predigten_titel: Be The Spark
-image: /uploads/spark.jpg
+image: /uploads/2020-08-355-be-the-spark-small.jpg
 aktiv: true
 predigten:
   - titel:
