@@ -39,5 +39,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1600591504/predigten/2020-08%20Be%20The%20Spark/2020-09-20_GoDi_Mavuno_Berlin_-_Be_The_Spark_6_-_Influencer.mp3
     date: 2020-09-20 11:00:00
     prediger: Daniel Flechsig
+  - titel: Be The Spark - Einfluss beginnt jetzt
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1601190157/predigten/2020-08%20Be%20The%20Spark/2020-09-27_GoDi_Mavuno_Berlin_-_Be_The_Spark_7_-_Einfluss_beginnt_jetzt.mp3
+    date: 2020-09-27 11:00:00
+    prediger: Sebastian Trommer
 ---
 
