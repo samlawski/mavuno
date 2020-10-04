@@ -1,5 +1,5 @@
 ---
-titel: Offenbarung
+titel: Oktober 2020
 start_date: 2020-10-04 00:00:00
 predigten_titel: Offenbarung
 image: /2020-10 Offenbarung_501.jpeg
