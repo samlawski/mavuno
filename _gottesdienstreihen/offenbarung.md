@@ -6,7 +6,8 @@ image: /2020-10 Offenbarung_501.jpeg
 aktiv: false
 predigten:
   - titel: 'Offenbarung #1'
-    predigt:
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1601797249/predigten/2020-10%20Offenbarung/2020-10-04_GoDi_Mavuno_Berlin_-_Offenbarung_1.mp3
     date: 2020-10-04 10:45:00
     prediger: Daniel Flechsig
 ---
