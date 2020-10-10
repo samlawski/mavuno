@@ -13,7 +13,7 @@ predigten:
   - titel: 'Offenbarung #2 - Rolle der Gemeinde'
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1602311477/predigten/2020-10%20Offenbarung/2020-10-11_GoDi_Mavuno_Berlin_-_Offenbarung_2_-_Gemeinde.mp3
-    date: 2020-10-04 10:45:00
+    date: 2020-10-11 10:45:00
     prediger: Sebastian Trommer
 ---
 
