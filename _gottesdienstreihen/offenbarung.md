@@ -18,12 +18,16 @@ predigten:
   - titel: 'Offenbarung #3 Vor dem Thron (4-5)'
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1603009630/predigten/2020-10%20Offenbarung/2020-10-18_GoDi_Mavuno_Berlin_-_Offenbarung_3_Kap_4-5_Thron_Gottes.mp3
-    date: 2020-10-11 10:45:00
+    date: 2020-10-18 10:45:00
     prediger: Daniel Flechsig
   - titel: 'Offenbarung #4 - 7 Siegel'
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1603614871/predigten/2020-10%20Offenbarung/2020-10-25_GoDi_Mavuno_Berlin_-_Offenbarung_4_6-8_7_Siegel.mp3
     date: 2020-10-25 10:45:00
     prediger: Sebastian Trommer
+  - titel:
+    predigt:
+    date: 2020-10-25 10:45:00
+    prediger:
 ---
 
