@@ -34,7 +34,7 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1604405130/predigten/2020-10%20Offenbarung/2020-11-01_GoDi_Mavuno_Berlin_-_Offenbarung_5_8-11.mp3
     date: 2020-11-01 10:45:00
     prediger: Daniel Flechsig
-  - titel: 'Offenbarung #6 - Kap 12 - Der Teufel ist los'
+  - titel: 'Offenbarung #6 - Der Teufel ist los (Kap 12)'
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1605007099/predigten/2020-10%20Offenbarung/2020-11-08_GoDi_Mavuno_Berlin_Offenbarung_6_12.mp3
     date: 2020-11-08 10:45:00
