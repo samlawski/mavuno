@@ -44,5 +44,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1605262039/predigten/2020-10%20Offenbarung/2020-11-15_GoDi_Mavuno_Offenbarung_13_Die_gro%C3%9Fe_T%C3%A4uschung.mp3
     date: 2020-11-15 10:45:00
     prediger: Sebastian Trommer
+  - titel: 'Offenbarung #8 - Blick in die realen Verhältnisse (14-15,4)'
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1606035446/predigten/2020-10%20Offenbarung/2020-11-22_GoDia_Mavuno_Berlin_-_Offenbarung_8_Kap_14-15_4.mp3
+    date: 2020-11-22 10:45:00
+    prediger: Daniel Flechsig
 ---
 
