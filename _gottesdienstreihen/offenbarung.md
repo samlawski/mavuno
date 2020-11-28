@@ -49,5 +49,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1606035446/predigten/2020-10%20Offenbarung/2020-11-22_GoDia_Mavuno_Berlin_-_Offenbarung_8_Kap_14-15_4.mp3
     date: 2020-11-22 10:45:00
     prediger: Daniel Flechsig
+  - titel: 'Offenbarung #9 Schalen (Kap 15-16)'
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1606587384/predigten/2020-10%20Offenbarung/2020-11-29_GoDi_Mavuno_Berlin_-_Offenbarun_9_Kap_15-16.mp3
+    date: 2020-11-29 10:45:00
+    prediger: Sebastian Trommer
 ---
 
