@@ -54,5 +54,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1606587384/predigten/2020-10%20Offenbarung/2020-11-29_GoDi_Mavuno_Berlin_-_Offenbarun_9_Kap_15-16.mp3
     date: 2020-11-29 10:45:00
     prediger: Sebastian Trommer
+  - titel: 'Offenbarung #10 - Babylon ist gefallen (Kap 17-19)'
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1607246301/predigten/2020-10%20Offenbarung/2020-12-06_GoDi_Mavuno_Berlin_-_Offenbarung_10_-.mp3
+    date: 2020-12-06 10:45:00
+    prediger: Daniel Flechsig
 ---
 
