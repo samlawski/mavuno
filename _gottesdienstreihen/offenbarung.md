@@ -39,7 +39,7 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1605007099/predigten/2020-10%20Offenbarung/2020-11-08_GoDi_Mavuno_Berlin_Offenbarung_6_12.mp3
     date: 2020-11-08 10:45:00
     prediger: Daniel Flechsig
-  - titel: 'Offenbarung #7 - Die große Täuschung Kapitel 13'
+  - titel: 'Offenbarung #7 - Die große Täuschung (Kap 13)'
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1605262039/predigten/2020-10%20Offenbarung/2020-11-15_GoDi_Mavuno_Offenbarung_13_Die_gro%C3%9Fe_T%C3%A4uschung.mp3
     date: 2020-11-15 10:45:00
