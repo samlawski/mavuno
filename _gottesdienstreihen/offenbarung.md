@@ -29,7 +29,7 @@ predigten:
     predigt:
     date: 2020-10-25 10:45:00
     prediger:
-  - titel: 'Offenbarung #5 - 7 Posaunen (8-11)'
+  - titel: 'Offenbarung #5 - 7 Posaunen (Kap 8-11)'
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1604405130/predigten/2020-10%20Offenbarung/2020-11-01_GoDi_Mavuno_Berlin_-_Offenbarung_5_8-11.mp3
     date: 2020-11-01 10:45:00
