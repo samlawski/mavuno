@@ -1,7 +1,7 @@
 ---
 titel: Offenbarung
 start_date: 2020-10-04 00:00:00
-predigten_titel: Oktober 2020
+predigten_titel: Okt-Dez 2020
 image: /2020-10 Offenbarung_501.jpeg
 aktiv: true
 predigten:
@@ -58,6 +58,11 @@ predigten:
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1607246301/predigten/2020-10%20Offenbarung/2020-12-06_GoDi_Mavuno_Berlin_-_Offenbarung_10_-.mp3
     date: 2020-12-06 10:45:00
+    prediger: Daniel Flechsig
+  - titel: 'Offenbarung #11 - Tausendjähriges Reich (Kap 20)'
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1607809987/predigten/2020-10%20Offenbarung/2020-12-13_GoDi_Mavuno_Berlin_-_Offenbarung_11_Kap_20_-_Tausenj%C3%A4hriges_Reich.mp3
+    date: 2020-12-13 10:00:00
     prediger: Daniel Flechsig
 ---
 
