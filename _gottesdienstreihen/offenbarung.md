@@ -64,5 +64,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1607809987/predigten/2020-10%20Offenbarung/2020-12-13_GoDi_Mavuno_Berlin_-_Offenbarung_11_Kap_20_-_Tausenj%C3%A4hriges_Reich.mp3
     date: 2020-12-13 10:00:00
     prediger: Daniel Flechsig
+  - titel: 'Offenbarung #12 Kap 21+22 - Alles Neu'
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1608307594/predigten/2020-10%20Offenbarung/2020-12-13_GoDi_Mavuno_Berlin_-Offenbarung_12_Kap%2021_%2B22.mp3
+    date: 2020-12-20 10:45:00
+    prediger: Sebastian Trommer
 ---
 
