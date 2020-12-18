@@ -66,8 +66,12 @@ predigten:
     prediger: Daniel Flechsig
   - titel: 'Offenbarung #12 - Alles Neu - Kap 21+22'
     predigt: >-
-      https://res.cloudinary.com/mavuno/video/upload/v1608307594/predigten/2020-10%20Offenbarung/2020-12-13_GoDi_Mavuno_Berlin_-Offenbarung_12_Kap%2021_%2B22.mp3
+      https://res.cloudinary.com/mavuno/video/upload/v1608319886/predigten/2020-10%20Offenbarung/2020-12-13_GoDi_Mavuno_Berlin_-_Offenbarung_12_Kap_21_22.mp3
     date: 2020-12-20 10:45:00
     prediger: Sebastian Trommer
+  - titel:
+    predigt:
+    date: 2020-12-20 10:45:00
+    prediger:
 ---
 
