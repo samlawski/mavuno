@@ -21,3 +21,4 @@ predigten:
     prediger: Sebastian Trommer
 ---
 
+Nach unserem Saisonbeginn im August, nehmen wir im Januar erneut unser Jahresmotto in den Fokus. Lass' dich mitnehmen und be the Spark\!&nbsp;
