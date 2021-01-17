@@ -19,6 +19,11 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1610219699/predigten/2021%20Be%20The%20Spark/2020-01-10_GoDi_Mavuno_Berlin_-_Be_The_Spark_2_-_Fokussiert_Glauben_Leben.mp3
     date: 2021-01-10 10:45:00
     prediger: Sebastian Trommer
+  - titel: Fokus Bibel
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1610884913/predigten/2021%20Be%20The%20Spark/2020-01-17_GoDi_Mavuno_Berlin_-_Be_the_Spark_3_-_Fokus_Bibel.mp3
+    date: 2021-01-17 10:45:00
+    prediger: Daniel Flechsig
 ---
 
 Nach unserem Saisonbeginn im August, nehmen wir im Januar erneut unser Jahresmotto in den Fokus. Lass' dich mitnehmen und be the Spark\!&nbsp;
