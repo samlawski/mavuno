@@ -33,9 +33,9 @@ predigten:
     predigt:
     date: 2021-01-24 10:45:00
     prediger:
-  - titel: Andere entzünden
+  - titel: Andere entzünden_31.01.2021___Sebastian_Trommer.
     predigt: >-
-      https://res.cloudinary.com/mavuno/video/upload/v1612081353/predigten/2021%20Be%20The%20Spark/Predigt_31.1.21.mp3.mp4
+      https://res.cloudinary.com/mavuno/video/upload/v1612381338/predigten/2021%20Be%20The%20Spark/Be_The_Spark_2021_Teil_5___Andere_entz%C3%BCnden___31.01.2021___Sebastian_Trommer.mp4
     date: 2021-01-31 10:45:00
     prediger: Sebastian Trommer
 ---
