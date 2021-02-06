@@ -1,7 +1,7 @@
 ---
 titel: Die Kunst der guten Worte
-start_date:
-predigten_titel:
+start_date: 2021-02-07 00:00:00
+predigten_titel: Die Kunst der guten Worte
 image:
 aktiv: false
 predigten:
