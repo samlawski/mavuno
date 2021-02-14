@@ -14,5 +14,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1612649735/predigten/Die%20Kunst%20der%20guten%20Worte/Mein_Film_Audio.mp4
     date: 2021-02-07 10:45:00
     prediger: Sebastian Trommer
+  - titel: Die Kunst des Zuhörens
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1613291255/predigten/Die%20Kunst%20der%20guten%20Worte/2021-02-14_GoDi_Mavuno_Berlin_-_Die_Kunst_der_guten_Worte_2.mp3
+    date: 2021-02-07 10:45:00
+    prediger: Daniel & Nancy Flechsig
 ---
 
