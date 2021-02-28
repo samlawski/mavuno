@@ -24,5 +24,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1613925293/predigten/Die%20Kunst%20der%20guten%20Worte/Die_Kunst_der_guten_Worte_Teil_3_21.02.21.mp4
     date: 2021-02-21 10:45:00
     prediger: Sebastian Trommer
+  - titel: Worte haben Macht
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1614500193/predigten/Die%20Kunst%20der%20guten%20Worte/2021-02-28_GoDi_Mavuno_Berlin_-_Kunst_der_guten_Worte_4_-_Worte_haben_Macht_1.mp3
+    date: 2021-02-21 10:45:00
+    prediger: Daniel Flechsig
 ---
 
