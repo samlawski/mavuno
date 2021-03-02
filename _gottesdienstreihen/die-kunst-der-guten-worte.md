@@ -23,7 +23,7 @@ predigten:
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1614675786/predigten/Die%20Kunst%20der%20guten%20Worte/Die_Kunst_der_guten_Worte_Teil_1_07.02.2021_Sebastian_Trommer.mp3
     date: 2021-02-07 10:45:00
-    prediger: Sebastian Trommer
+    prediger: Tamara und Sebastian Trommer
   - titel: Die 5 Sprachen der Liebe
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1614675787/predigten/Die%20Kunst%20der%20guten%20Worte/Die_Kunst_der_guten_Worte___Teil_3___Die_5_Sprachen_der_Liebe___21.02.2021___Sebastian_Trommer.mp3
