@@ -19,5 +19,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1616355041/predigten/2021-03%20Hoffnung%20in%20der%20Dunkelheit/Hoffnung_in_der_Dunkelheit_3___21.03.2021___Sebastian_Trommer.mp3
     date: 2021-03-21 10:45:00
     prediger: Sebastian Trommer
+  - titel: Hoffnung trotz Leid
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1616356351/predigten/2021-03%20Hoffnung%20in%20der%20Dunkelheit/Hoffnung_in_der_Dunkelheit_2___14.03.2021___Sebastian_Trommer.mp3
+    date: 2021-03-14 10:45:00
+    prediger: Sebastian Trommer
 ---
 
