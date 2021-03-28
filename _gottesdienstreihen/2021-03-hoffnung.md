@@ -24,5 +24,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1616356351/predigten/2021-03%20Hoffnung%20in%20der%20Dunkelheit/Hoffnung_in_der_Dunkelheit_2___14.03.2021___Sebastian_Trommer.mp3
     date: 2021-03-14 10:45:00
     prediger: Sebastian Trommer
+  - titel: Hoffnung Dann - und Jetzt
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1616932834/predigten/2021-03%20Hoffnung%20in%20der%20Dunkelheit/2021-03-28_GoDi_Mavuno_Berlin_-_Hoffnung_4a.mov
+    date: 2021-03-28 10:45:00
+    prediger: Daniel Flechsig
 ---
 
