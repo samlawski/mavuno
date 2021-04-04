@@ -3,7 +3,7 @@ titel: 2021 04 Macht Christsein Sinn?
 start_date: 2021-04-04 00:00:00
 predigten_titel: Macht Christsein Sinn?
 image: /uploads/2021-04MachtChristseinSinnquer.jpeg
-aktiv: false
+aktiv: true
 predigten:
   - titel:
     predigt:
@@ -15,3 +15,4 @@ predigten:
     date: 2021-04-04 10:45:00
     prediger: Daniel Flechsig
 ---
+
