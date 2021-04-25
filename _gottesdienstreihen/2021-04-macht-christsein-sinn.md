@@ -24,5 +24,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1618732363/predigten/2021-04%20Macht%20Christsein%20Sinn/Der_gute_Vater_und_das_Leid_in_der_Welt_11.04.2021.mp3
     date: 2021-04-11 10:45:00
     prediger: Sebastian Trommer
+  - titel: Macht Christsein Sinn? Wozu Kirche?
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1619373943/predigten/2021-04%20Macht%20Christsein%20Sinn/Macht_Christsein_Sinn_wozu_Kirche.mp3
+    date: 2021-04-25 10:45:00
+    prediger: Sebastian Trommer
 ---
 
