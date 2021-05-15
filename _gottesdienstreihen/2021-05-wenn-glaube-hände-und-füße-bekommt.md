@@ -15,5 +15,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1620619583/predigten/2021-05%20Wenn%20Glaube%20Haende%20und%20Fuesse%20bekommt/Jakobus_2_09.05.21_Sebastian_Trommer.mp3
     date: 2021-05-09 10:45:00
     prediger: Sebastian Trommer
+  - titel: Jakobus 3
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1621094259/predigten/2021-05%20Wenn%20Glaube%20Haende%20und%20Fuesse%20bekommt/2021-05-16_Godi_Mavuno_Berlin_-_Jakobus_3_-_Leeres_Gerede_oder_Weisheit_von_oben_1.mp3
+    date: 2021-05-16 10:00:00
+    prediger: Daniel Flechsig
 ---
 
