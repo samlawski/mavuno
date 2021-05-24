@@ -20,5 +20,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1621094259/predigten/2021-05%20Wenn%20Glaube%20Haende%20und%20Fuesse%20bekommt/2021-05-16_Godi_Mavuno_Berlin_-_Jakobus_3_-_Leeres_Gerede_oder_Weisheit_von_oben_1.mp3
     date: 2021-05-16 10:00:00
     prediger: Daniel Flechsig
+  - titel: Jakobus 4
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1621874830/predigten/2021-05%20Wenn%20Glaube%20Haende%20und%20Fuesse%20bekommt/2021-05-23_GoDi_Mavuno_Berlin_-_Jakobs_4.mp3
+    date: 2021-05-23 10:00:00
+    prediger: Daniel Flechsig
 ---
 
