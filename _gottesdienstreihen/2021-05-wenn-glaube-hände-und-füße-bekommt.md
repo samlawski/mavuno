@@ -25,5 +25,14 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1621874830/predigten/2021-05%20Wenn%20Glaube%20Haende%20und%20Fuesse%20bekommt/2021-05-23_GoDi_Mavuno_Berlin_-_Jakobs_4.mp3
     date: 2021-05-23 10:00:00
     prediger: Daniel Flechsig
+  - titel:
+    predigt:
+    date: 2021-05-23 10:00:00
+    prediger:
+  - titel: Jakobus 5
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1623234406/predigten/2021-05%20Wenn%20Glaube%20Haende%20und%20Fuesse%20bekommt/R_20210530-101001.mp3
+    date: 2021-05-30 10:45:00
+    prediger: Sebastian Trommer
 ---
 
