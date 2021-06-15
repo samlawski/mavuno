@@ -10,4 +10,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1622928526/predigten/2021-06%20Summer%20Messages/2021-06-06_GoDi_Mavuno_Berlin_-_SummerMessages_1_-_Kraft_des_Heiligen_Geistes.mp3
     date: 2021-06-06 10:45:00
     prediger: Daniel Flechsig
+  - titel: Be Fearless - Fürchte dich nicht
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1623787901/predigten/2021-06%20Summer%20Messages/SummerMessage_2_-_Be_Fearless_-_F%C3%BCrchte_dich_nicht_13.06.2021_Daniel_Flechsig.mp3
+    date: 2021-06-13 10:45:00
+    prediger: Daniel Flechsig
 ---
+
