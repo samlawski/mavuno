@@ -15,5 +15,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1623787901/predigten/2021-06%20Summer%20Messages/SummerMessage_2_-_Be_Fearless_-_F%C3%BCrchte_dich_nicht_13.06.2021_Daniel_Flechsig.mp3
     date: 2021-06-13 10:45:00
     prediger: Daniel Flechsig
+  - titel: Be The Spark
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1624087411/predigten/2021-06%20Summer%20Messages/2021-06-20_GoDi_Mavuno_Berlin_-_Summer_Messages_3_-_Be_The_Spark.mp3
+    date: 2021-06-20 10:45:00
+    prediger: Daniel Flechsig
 ---
 
