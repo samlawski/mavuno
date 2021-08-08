@@ -20,5 +20,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1624087411/predigten/2021-06%20Summer%20Messages/2021-06-20_GoDi_Mavuno_Berlin_-_Summer_Messages_3_-_Be_The_Spark.mp3
     date: 2021-06-20 10:45:00
     prediger: Daniel Flechsig
+  - titel: Worte haben Macht
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1628419427/predigten/2021-06%20Summer%20Messages/2021-08-08_GoDi_Mavuno_Berlin_-_Summer_Messages_3_-Worte_haben_Macht.mp3
+    date: 2021-08-08 10:45:00
+    prediger: Daniel Flechsig
 ---
 
