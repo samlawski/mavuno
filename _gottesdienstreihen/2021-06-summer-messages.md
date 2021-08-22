@@ -25,5 +25,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1628419427/predigten/2021-06%20Summer%20Messages/2021-08-08_GoDi_Mavuno_Berlin_-_Summer_Messages_3_-Worte_haben_Macht.mp3
     date: 2021-08-08 10:45:00
     prediger: Daniel Flechsig
+  - titel: Vaterherz Gottes
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1629648872/predigten/2021-06%20Summer%20Messages/2021-08-22_GoDi_Mauvno_Berlin_-_Summer_Messages_05_-_Vaterherz_Gottes.mp3
+    date: 2021-08-22 10:45:00
+    prediger: Daniel Flechsig
 ---
 
