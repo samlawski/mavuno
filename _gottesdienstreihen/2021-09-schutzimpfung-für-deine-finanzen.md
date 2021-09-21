@@ -14,5 +14,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1630847668/predigten/2021-09%20Schutzimpfung/2021-09-05_GoDi_Mavuno_Berlin_-_Schutzimpfung_f%C3%BCr_deine_Finanzen_1.mp3
     date: 2021-09-05 11:00:00
     prediger: Daniel Flechsig
+  - titel: 'Schutzimpfung für deine Finanzen #2'
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1632231562/predigten/2021-09%20Schutzimpfung/2021-09-19_GoDi_Mavuno_Berlin_-_Schutzimpfung_f%C3%BCr_deine_Finanzen_2.mp3
+    date: 2021-09-05 11:00:00
+    prediger: Daniel Flechsig
 ---
 
