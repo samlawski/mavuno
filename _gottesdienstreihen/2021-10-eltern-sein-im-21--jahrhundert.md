@@ -12,7 +12,9 @@ predigten:
         prediger:
     -
         titel: Eltern-Sein 1 - Das Eltern-Mandat
-        predigt:
+        predigt: >-
+            https://res.cloudinary.com/mavuno/video/upload/v1634475253/predigten/2021-10%20Eltern-Sein/2021-10-17_GoDi_Mavuno_Berlin_-_Parenting_1_-_Eltern-Mandat.mp3
         date:
         prediger: Daniel Flechsig
 ---
+
