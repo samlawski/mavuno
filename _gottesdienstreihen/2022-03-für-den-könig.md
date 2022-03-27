@@ -14,5 +14,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1647193158/predigten/2022-03%20F%C3%BCr%20den%20K%C3%B6nig/2022-03-13_GoDi_Mavuno_Berlin_-_F%C3%BCr_den_K%C3%B6nig_1_1.mp3
     date: 2022-03-13 11:00:00
     prediger: Danie Flechsig
+  - titel: Göttliche Wendepunkte
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1647193158/predigten/2022-03%20F%C3%BCr%20den%20K%C3%B6nig/2022-03-13_GoDi_Mavuno_Berlin_-_F%C3%BCr_den_K%C3%B6nig_1_1.mp3
+    date: 2022-03-27 11:00:00
+    prediger: Daniel Flechsig
 ---
 
