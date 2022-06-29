@@ -10,7 +10,7 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1652170806/predigten/2022-05%20No%20Offence/2022-05-08_Godi_Mavuno_Berlin_-_No_Offence_1.mp3
     date: 2022-05-08 11:00:00
     prediger: Daniel Flechsig
-  - titel: No Offence 2
+  - titel: No Offence 2 - Kein Mensch, keine Macht
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1653237481/predigten/2022-05%20No%20Offence/2022-05-22_GoDi_Mavuno_Berlin_-_No_Offence_2_1.mp3
     date: 2022-05-22 11:00:00
