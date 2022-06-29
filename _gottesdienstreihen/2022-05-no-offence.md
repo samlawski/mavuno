@@ -15,7 +15,7 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1653237481/predigten/2022-05%20No%20Offence/2022-05-22_GoDi_Mavuno_Berlin_-_No_Offence_2_1.mp3
     date: 2022-05-22 11:00:00
     prediger: Daniel Flechsig
-  - titel: No Offence 3
+  - titel: No Offence 3 - Vom Fluchen zum Segnen
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1654584675/predigten/2022-05%20No%20Offence/2022-05-06_GoDi_Mavuno_Berlin_-_No_Offence_3_-_Vom_Fluchen_zum_Segnen.mp3
     date: 2022-06-05 11:00:00
