@@ -1,7 +1,7 @@
 ---
 titel: 2022-07 Summer Message
 start_date: 2022-07-03 00:00:00
-predigten_titel: 2022-07 Summer Message
+predigten_titel: Summer Message
 image: /uploads/2021-06-mavuno-summer-messages-500.jpg
 aktiv: true
 predigten:
@@ -11,4 +11,3 @@ predigten:
     date: 2022-07-03 11:00:00
     prediger: Daniel Flechsig
 ---
-
