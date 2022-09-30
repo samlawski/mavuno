@@ -15,4 +15,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1662474585/predigten/2022-08%20Gebet/2022-09-06_GoDi_Mavuno_Berlin_-_Gebet_3.mp3
     date: 2022-09-04 11:00:00
     prediger: Nancy & Daniel Flechsig
+  - titel: Gebet als Beziehung
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1664523279/predigten/2022-08%20Gebet/2022-09-18_GoDi_Mavuno_Berlin_-_Gebet_als_Beziehung_zu_Gott.mp3
+    date: 2022-09-18 11:00:00
+    prediger: Daniel Flechsig
 ---
