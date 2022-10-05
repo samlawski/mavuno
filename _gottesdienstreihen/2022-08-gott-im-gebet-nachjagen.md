@@ -20,4 +20,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1664523279/predigten/2022-08%20Gebet/2022-09-18_GoDi_Mavuno_Berlin_-_Gebet_als_Beziehung_zu_Gott.mp3
     date: 2022-09-18 11:00:00
     prediger: Daniel Flechsig
+  - titel: Betet ohne Unterlass!?!
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1664981364/predigten/2022-08%20Gebet/2022-10-02_GoDi_Mavuno_Berlin_-_Gebet_IV_-_Pst_M.mp3
+    date: 2022-10-02 11:00:00
+    prediger: Muriithi Wanjau
 ---
