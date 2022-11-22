@@ -19,5 +19,5 @@ predigten:
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1668577600/predigten/2022-10%20Wie%20geht%20es%20dir%20-%20wirklich/2022-11-13_GoDi_Mavuno_Berlin_-_Wie_gehts_dir_wirklich_-_Arbeit.mp3
     date: 2022-11-13 11:00:00
-    prediger: Ole Glöckner
+    prediger: Ole Gloeckner
 ---
