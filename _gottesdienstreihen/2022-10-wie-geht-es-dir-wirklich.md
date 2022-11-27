@@ -23,6 +23,6 @@ predigten:
   - titel: ...im Advent
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1669554757/predigten/2022-10%20Wie%20geht%20es%20dir%20-%20wirklich/2022-11-27_GoDi_Mavuno_Berlin_-_Wie_gehts_dir_wirklich_4.mp3
-    date: 2022-11-13 11:00:00
+    date: 2022-11-27 11:00:00
     prediger: Daniel Flechsig
 ---
