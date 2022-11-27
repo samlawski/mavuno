@@ -10,7 +10,7 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1665945527/predigten/2022-10%20Wie%20geht%20es%20dir%20-%20wirklich/2022-10-16_GoDi_Mavuno_Berlin_-_Wie_geht_es_dir_wirklich_-_1.mp3
     date: 2022-10-16 11:00:00
     prediger: Daniel Flechsig
-  - titel: Auf dem Weg zur emotional gesunden Familie
+  - titel: Emotional gesunde Familie
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1667281487/predigten/2022-10%20Wie%20geht%20es%20dir%20-%20wirklich/2022-10-30_GoDi_Mavuno_Berlin_-_Wie_gehts_dir_wiklich_2_-_Familie.mp3
     date: 2022-10-30 11:00:00
