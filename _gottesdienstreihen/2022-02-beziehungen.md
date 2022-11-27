@@ -3,7 +3,7 @@ titel: 2022-02 Beziehungen
 start_date: 2022-02-06 00:00:00
 predigten_titel: 2022-02 Beziehungen
 image: /uploads/2022-02-beziehungen-quer-800.jpeg
-aktiv: true
+aktiv: false
 predigten:
   - titel:
     predigt:
@@ -20,4 +20,3 @@ predigten:
     date: 2022-02-27 11:00:00
     prediger: Daniel Flechsig
 ---
-
