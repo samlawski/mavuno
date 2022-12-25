@@ -5,6 +5,10 @@ predigten_titel: Weihnachten - schon wieder?
 image: /uploads/2022-12a-600.jpg
 aktiv: true
 predigten:
+  - titel: Advent
+    predigt:
+    date:
+    prediger:
   - titel:
     predigt:
     date:
