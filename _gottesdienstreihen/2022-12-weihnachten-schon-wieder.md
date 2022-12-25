@@ -9,8 +9,9 @@ predigten:
     predigt:
     date:
     prediger:
-  - titel:
-    predigt:
-    date:
-    prediger:
+  - titel: Heiligabend 2022
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1671988022/predigten/2022-12%20Schon%20wieder%20Weihnachten/2022-12-24_GoDi_Mavuno_Berlin_-_Heiligabend_1.mp3
+    date: 2022-12-24 15:30:00
+    prediger: Daniel Flechsig
 ---
