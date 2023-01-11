@@ -3,7 +3,7 @@ titel: 2023-01 Champions League
 start_date: 2023-01-08 00:00:00
 predigten_titel: Champions League
 image: /uploads/2023-01-flyer-quer.jpeg
-aktiv: false
+aktiv: true
 predigten:
   - titel: 'Die verborgene Kraft des Fastens '
     predigt: >-
