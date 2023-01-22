@@ -10,4 +10,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1673426303/predigten/2023-01%20Champions%20League/2023-01-08_Predigt_Champions_League_1_-_Die_verborgene_Kraft_des_Fastens.mp3
     date: 2023-01-08 11:00:00
     prediger: Pst M / Daniel Flechsig
+  - titel: Erfolg durch Bibel lesen
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1674373014/predigten/2023-01%20Champions%20League/2023-01-15_Predigt_Champions_League_2_-_Bibel_lesen.mp3
+    date: 2023-01-15 11:00:00
+    prediger: Daniel Flechsig
 ---
