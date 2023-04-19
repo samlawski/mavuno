@@ -3,7 +3,7 @@ titel: 2022-08 Gott im Gebet nachjagen
 start_date: 2022-08-21 00:00:00
 predigten_titel: Gott im Gebet nachjagen
 image: /uploads/2022-08-600.jpg
-aktiv: true
+aktiv: false
 predigten:
   - titel: Um Ergebnisse beten
     predigt: >-
