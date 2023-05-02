@@ -20,4 +20,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1681907485/predigten/2023-04%20Ostern%20%C3%A4ndert%20alles/2023-04-16_GoDi_Mavuno_Berlin_-_Ostern_%C3%A4ndert_alles_2_-_Falle_der_Gesetzlichkeit.mp3
     date: 2023-04-16 11:00:00
     prediger: Daniel Flechsig
+  - titel: Weg zur wahren Freiheit
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1683027140/predigten/2023-04%20Ostern%20%C3%A4ndert%20alles/2023-04-30_GoDi_Mavuno_Berlin_-_Ostern_%C3%A4ndert_alles_4_-_Weg_zur_wahren_Freiheit.mp3
+    date: 2023-04-30 11:00:00
+    prediger: Daniel Flechsig
 ---
