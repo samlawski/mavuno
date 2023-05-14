@@ -1,7 +1,7 @@
 ---
 titel: 2023-05 Den Gürtel enger schnallen?
 start_date: 2023-05-14 00:00:00
-predigten_titel:
+predigten_titel: Den Gürtel enger schnallen
 image: /uploads/2023-05.jpg
 aktiv: true
 predigten:
