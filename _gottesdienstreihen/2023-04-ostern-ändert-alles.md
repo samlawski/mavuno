@@ -1,6 +1,6 @@
 ---
 titel: 2023-04 Ostern ändert alles
-start_date:
+start_date: 2023-04-01 00:00:00
 predigten_titel: 'Ostern ändert alles '
 image: /uploads/whatsapp-image-2023-04-01-at-20-23-26-kopie.jpg
 aktiv: true
