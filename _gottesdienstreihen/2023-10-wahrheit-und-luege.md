@@ -10,4 +10,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1696180556/predigten/2023-10%20Wahrheit%20und%20Luege/2023-10-01_GoDi_Mavuno_Berlin_-_Wahrheit_und_L%C3%BCge_1.mp3
     date: 2023-10-01 11:00:00
     prediger: Daniel Flechsig
+  - titel: Wahrheit und Lüge 2 - YOLO
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1697395214/predigten/2023-10%20Wahrheit%20und%20Luege/2023-10-15_GoDi_Mavuno_Berlin_-_2_Wahrheiten_2_-_YOLO.mp3
+    date: 2023-10-15 11:00:00
+    prediger: Ole Glöckner
 ---
