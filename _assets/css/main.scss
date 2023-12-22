@@ -1,4 +1,12 @@
-@import url(https://fonts.googleapis.com/css?family=Quicksand);
+@font-face {
+	font-family: "Quicksand";
+	src: url("/uploads/layout/Quicksand-Regular.ttf");
+}
+@font-face {
+	font-family: "Quicksand";
+	src: url("/uploads/layout/Quicksand-Bold.ttf");
+	font-weight: bold;
+}
 
 /* --- OPENING --------------------------- */
 
