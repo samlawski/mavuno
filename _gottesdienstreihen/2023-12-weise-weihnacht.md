@@ -1,7 +1,7 @@
 ---
 titel: 2023-12 Weise Weihnacht
 start_date: 2023-12-03 00:00:00
-predigten_titel: 2023-12 Weise Weihnacht
+predigten_titel: Weise Weihnacht
 image: /uploads/2023-12_800.jpg
 aktiv: true
 predigten:
