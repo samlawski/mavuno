@@ -1,7 +1,7 @@
 ---
 titel: 2023-10 Wahrheit und Luege
 start_date: 2023-10-01 00:00:00
-predigten_titel: 2023-10 Wahrheit und Luege
+predigten_titel: Wahrheit und Luege
 image: /uploads/2023-10-wahrheit-und-luege.jpg
 aktiv: true
 predigten:
