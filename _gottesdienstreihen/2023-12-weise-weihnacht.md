@@ -5,9 +5,9 @@ predigten_titel: 2023-12 Weise Weihnacht
 image: /uploads/2023-12_800.jpg
 aktiv: true
 predigten:
-  - titel: Weise Weihnacht 1
+  - titel: Erwartet und doch unerwartet
     predigt: >-
-      
-    date: 2023-12-10 11:00:00
-    prediger: Daniel Flechsig
+      https://res.cloudinary.com/mavuno/video/upload/v1704039407/predigten/2023-12%20Weise%20Weihnacht/2023-12-24_GoDi_Mavuno_Berlin_-_Heiligabend_-_Erwartet_und_doch_unerwartet.mp3      
+    date: 2023-12-24 16:00:00
+    prediger: Ole Glöckner
 ---
