@@ -2,7 +2,7 @@
 titel: 2024-03 Zweifelhafte Kandidaten
 start_date: 2024-03-17 00:00:00
 predigten_titel: Zweifelhafte Kandidaten
-image: /uploads/2024-02_Unter_einer_Decke_800.jpg
+image: /uploads/2024-03 Zweifelhafte Kandidaten_800.jpg
 aktiv: true
 predigten:
   - titel: Zweifelhafte Kandidaten
