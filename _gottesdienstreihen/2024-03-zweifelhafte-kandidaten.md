@@ -10,4 +10,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1710839895/predigten/2024-03%20Zweifelhafte%20Kandidaten/2024-03-17_GoDi_Mavuno_Berlin_-_Zweifelhafte_Kandidaten_1.mp3      
     date: 2024-03-17 11:00:00
     prediger: Daniel Flechsig
+  - titel: Hoffnung der Auferstehung - Ostersonntag
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1711885707/predigten/2024-03%20Zweifelhafte%20Kandidaten/2024-03-31_GoDi_Mavuno_Berlin.mp3      
+    date: 2024-03-31 11:00:00
+    prediger: Daniel Flechsig
 ---
