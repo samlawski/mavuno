@@ -20,7 +20,7 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1713155663/predigten/2024-03%20Zweifelhafte%20Kandidaten/2024-04-14_GoDi_Mavuno_Berlin.mp3      
     date: 2024-04-14 11:00:00
     prediger: Ole Glöckner
-    titel: Zweifelhafte Kandidaten 4
+  - titel: Zweifelhafte Kandidaten 4
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1714377314/predigten/2024-03%20Zweifelhafte%20Kandidaten/2024-04-28_GoDi_Mavuno_Berlin.mp3      
     date: 2024-04-28 11:00:00
