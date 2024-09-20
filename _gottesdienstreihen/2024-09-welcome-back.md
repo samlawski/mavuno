@@ -2,7 +2,7 @@
 titel: 2024-09 Welcome Back
 start_date: 2024-09-01 00:00:00
 predigten_titel: Summer Inspiration
-image: /uploads/2024-07%20Sommer.jpg
+image: /uploads/2024-09-welcomeback.jpg
 aktiv: true
 predigten:
   - titel: Willkommen zurück
