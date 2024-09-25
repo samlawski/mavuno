@@ -15,4 +15,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1725897369/predigten/2024-09%20Welcome%20back/20240908_GoDi_Mavuno_Berlin_Schulstart.mp3
     date: 2024-09-08 11:00:00
     prediger: Jasmine Krause
+      - titel: Vergebung macht frei
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1725897369/predigten/2024-09%20Welcome%20back/20240908_GoDi_Mavuno_Berlin_Schulstart.mp3
+    date: 2024-09-22 11:00:00
+    prediger: 
 ---
