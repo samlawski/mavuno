@@ -25,4 +25,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1727605676/predigten/20240929_GoDi_Mavuno_Berlin_Vergebung_macht_frei.mp3
     date: 2024-09-29 11:00:00
     prediger:  Dorotée Wenzel
+  - titel: Vergebung macht frei
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1728818152/predigten/2024-10%20Folge%20mir%20nach/20241013_GoDi_Mavuno_Berlin_Mutig_und_Stark.mp3
+    date: 2024-13-10 11:00:00
+    prediger:  Stefanie Schwarze
 ---
