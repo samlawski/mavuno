@@ -20,7 +20,7 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1727002251/predigten/2024-09%20Welcome%20back/2024-09-22_GoDi_Mavuno_Berlin_Vergebung_macht_frei.mp3
     date: 2024-09-22 11:00:00
     prediger:  Friedhild Moldmann
-  - titel: Vergebung macht frei
+  - titel: Sturm
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1727605676/predigten/20240929_GoDi_Mavuno_Berlin_Vergebung_macht_frei.mp3
     date: 2024-09-29 11:00:00
