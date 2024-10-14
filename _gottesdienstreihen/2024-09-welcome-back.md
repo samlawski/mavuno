@@ -24,5 +24,5 @@ predigten:
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1727605676/predigten/20240929_GoDi_Mavuno_Berlin_Vergebung_macht_frei.mp3
     date: 2024-09-29 11:00:00
-    prediger:  Dorotée Wenzel
+    prediger:  Dorothée Wenzel
 ---
