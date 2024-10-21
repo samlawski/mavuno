@@ -10,4 +10,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1728818152/predigten/2024-10%20Folge%20mir%20nach/20241013_GoDi_Mavuno_Berlin_Mutig_und_Stark.mp3
     date: 2024-10-13 11:00:00
     prediger:  Stefanie Schwarze
+  - titel: Folge mir nach
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1729420304/predigten/2024-10%20Folge%20mir%20nach/20241020_GoDi_Mavuno_Berlin_Folge_mir_nach.mp3
+    date: 2024-10-20 11:00:00
+    prediger:  Ole Glöckner
 ---
