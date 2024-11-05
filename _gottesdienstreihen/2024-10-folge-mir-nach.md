@@ -15,4 +15,14 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1729420304/predigten/2024-10%20Folge%20mir%20nach/20241020_GoDi_Mavuno_Berlin_Folge_mir_nach.mp3
     date: 2024-10-20 11:00:00
     prediger:  Ole Glöckner
+  - titel: Ende der Rastlosigkeit
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1730633560/predigten/2024-10%20Folge%20mir%20nach/20241027_GoDi_Mavuno_Berlin_Ende_der_Rastlosigkeit.mp3
+    date: 2024-10-27 11:00:00
+    prediger:  Dorothée Wenzel
+  - titel: Verbunden mit Gottes Liebe
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1730633387/predigten/2024-10%20Folge%20mir%20nach/20241103_GoDi_Mavuno_Berlin_Verbunden_mit_Gottes_Liebe.mp3
+    date: 2024-11-03 11:00:00
+    prediger:  Dorothée Wenzel
 ---
