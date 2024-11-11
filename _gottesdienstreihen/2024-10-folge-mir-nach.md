@@ -25,4 +25,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1730633387/predigten/2024-10%20Folge%20mir%20nach/20241103_GoDi_Mavuno_Berlin_Verbunden_mit_Gottes_Liebe.mp3
     date: 2024-11-03 11:00:00
     prediger:  Dorothée Wenzel
+  - titel: Israel
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1731238976/predigten/2024-10%20Folge%20mir%20nach/20241110_GoDi_Mavuno_Berlin_Israel.mp3
+    date: 2024-11-10 11:00:00
+    prediger:  
 ---
