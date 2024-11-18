@@ -29,5 +29,10 @@ predigten:
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1731238976/predigten/2024-10%20Folge%20mir%20nach/20241110_GoDi_Mavuno_Berlin_Israel.mp3
     date: 2024-11-10 11:00:00
-    prediger:  
+    prediger:  Jürgen Pelz
+  - titel: 
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1731858586/predigten/2024-10%20Folge%20mir%20nach/20241117_GoDi_Mavuno.mp3
+    date: 2024-11-17 11:00:00
+    prediger:  Christian Göttemann
 ---
