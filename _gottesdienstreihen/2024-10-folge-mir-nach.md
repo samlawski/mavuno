@@ -35,8 +35,8 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1731858586/predigten/2024-10%20Folge%20mir%20nach/20241117_GoDi_Mavuno.mp3
     date: 2024-11-17 11:00:00
     prediger:  Christian Göttemann
-  - titel: 
-    predigt: >
+  - titel: Jesus ähnlicher werden ohne Druck
+    predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1732447559/predigten/2024-10%20Folge%20mir%20nach/20241124_GoDi_Mavuno_Jesus_%C3%A4hnlicher_ohne_Druck.mp3
     date: 2024-11-24 11:00:00
     prediger:  Dorothée Wenzel
