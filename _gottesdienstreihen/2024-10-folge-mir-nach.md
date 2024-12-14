@@ -40,4 +40,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1732447559/predigten/2024-10%20Folge%20mir%20nach/20241124_GoDi_Mavuno_Jesus_%C3%A4hnlicher_ohne_Druck.mp3
     date: 2024-11-24 11:00:00
     prediger:  Dorothée Wenzel
+  - titel: 1. Advent
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1733658759/predigten/2024-10%20Folge%20mir%20nach/20241201_GoDi_Mavuno_Berlin_1.Advent.mp3
+    date: 2024-12-01 11:00:00
+    prediger:  
 ---
