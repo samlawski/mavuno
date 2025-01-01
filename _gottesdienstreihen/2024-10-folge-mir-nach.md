@@ -44,5 +44,10 @@ predigten:
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1733658759/predigten/2024-10%20Folge%20mir%20nach/20241201_GoDi_Mavuno_Berlin_1.Advent.mp3
     date: 2024-12-01 11:00:00
+    prediger:
+  - titel: Chanukka Weihnachten Jesus
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1734262501/predigten/2024-10%20Folge%20mir%20nach/20241215_Chanukka_Weihnachten_Jesus.mp3
+    date: 2024-12-15 11:00:00
     prediger:  
 ---
