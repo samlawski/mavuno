@@ -49,5 +49,10 @@ predigten:
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1734262501/predigten/2024-10%20Folge%20mir%20nach/20241215_Chanukka_Weihnachten_Jesus.mp3
     date: 2024-12-15 11:00:00
-    prediger:  
+    prediger:
+  - titel: Freude
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1736081649/predigten/2024-10%20Folge%20mir%20nach/20241224_GoDi_Mavunoa_Berlin_Freude.mp3
+    date: 2024-12-24 15:00:00
+    prediger:  Ole Glöckner
 ---
