@@ -8,6 +8,6 @@ predigten:
   - titel: Missionsbefehl-Evangelisation
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1736081592/predigten/2025-01/20250105_GoDi_Mavuno_Berlin_Missionsbefehl-Evangelisation.mp3  
-    date: 2023-10-01 11:00:00
+    date: 2025-01-05 11:00:00
     prediger: Yannick Masanell
 ---
