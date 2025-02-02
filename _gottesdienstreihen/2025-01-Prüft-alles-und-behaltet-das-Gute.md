@@ -20,7 +20,7 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1737285244/predigten/2025-01/20250119__Reise_ins_Land_der_Sehnsucht.mp3
     date: 2025-01-19 11:00:00
     prediger: Joe Hartung
-  - titel: Missionsbefehl-Evangelisation
+  - titel: Vom Meister lernen - Gemeinschaft leben
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1737890309/predigten/2025-01/20250126_Handel_wie_Jesus_gehandelt_hat_Gemeinschaft.mp3
     date: 2025-01-26 11:00:00
