@@ -25,4 +25,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1737890309/predigten/2025-01/20250126_Handel_wie_Jesus_gehandelt_hat_Gemeinschaft.mp3
     date: 2025-01-26 11:00:00
     prediger: Ole Glöckner
+  - titel: 
+    predigt: >-
+      https://res.cloudinary.com/mavuno/video/upload/v1738513236/predigten/2025-02/2025-02-02.mp3
+    date: 2025-02-02 11:00:00
+    prediger:     
 ---
