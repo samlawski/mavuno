@@ -26,8 +26,8 @@ predigten:
     date: 2025-01-26 11:00:00
     prediger: Ole Glöckner
   - titel: 
-    predigt: >-
+    predigt: >- Hoffnung für Verwundete
       https://res.cloudinary.com/mavuno/video/upload/v1738513236/predigten/2025-02/2025-02-02.mp3
     date: 2025-02-02 11:00:00
-    prediger:     
+    prediger: Jörg Ahlbrecht
 ---
