@@ -30,4 +30,14 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1738513236/predigten/2025-02/2025-02-02.mp3
     date: 2025-02-02 11:00:00
     prediger: Jörg Ahlbrecht
+  - titel: Lernen von Jesus Großzügigkeit
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1739707371/predigten/2025-02/20250209_Lernen_von_Jesus_Gro%C3%9Fz%C3%BCgigkeit_Ole.mp3
+    date: 2025-02-09 11:00:00
+    prediger: Ole Glöckner
+  - titel: Lebenszeugnisse 
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1739707318/predigten/2025-02/20250216_Lebenszeugnisse_von_Judith_und_Sven.mp3
+    date: 2025-02-16 11:00:00
+    prediger: Judith und Sven   
 ---
