@@ -39,5 +39,10 @@ predigten:
     predigt: >- 
       https://res.cloudinary.com/mavuno/video/upload/v1739707318/predigten/2025-02/20250216_Lebenszeugnisse_von_Judith_und_Sven.mp3
     date: 2025-02-16 11:00:00
-    prediger: Judith und Sven   
+    prediger: Judith und Sven
+  - titel: Interview Daniel - 4 Phasen des Sabbaticals 
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1740312869/predigten/2025-02/20250223_Interview_Daniel_4_Phasen_des_Sabbaticals.mp3
+    date: 2025-02-23 11:00:00
+    prediger: Daniel Flechsig    
 ---
