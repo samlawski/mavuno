@@ -2,7 +2,7 @@
 titel: 2025-03-Verwurzelt-&-befluegelt
 start_date: 2025-03-01 00:00:00
 predigten_titel: Verwurzelt & beflügelt
-image: /uploads/2025_01_prueft_aber_alles_und_das_gute_behaltet_800.png
+image: /uploads/2025_03_Verwurzelt_und_Beflügelt.png
 aktiv: true
 predigten:
   - titel: Gott liebt. Mich.
