@@ -42,7 +42,7 @@ predigten:
     prediger: Judith und Sven
   - titel: Interview Daniel - 4 Phasen des Sabbaticals 
     predigt: >- 
-      https://res.cloudinary.com/mavuno/video/upload/v1740915147/predigten/2025-03/20250302_Gott_liebt_dich_wirklich.mp3
+      https://res.cloudinary.com/mavuno/video/upload/v1740312869/predigten/2025-02/20250223_Interview_Daniel_4_Phasen_des_Sabbaticals.mp3
     date: 2025-02-23 11:00:00
     prediger: Daniel Flechsig
 ---
