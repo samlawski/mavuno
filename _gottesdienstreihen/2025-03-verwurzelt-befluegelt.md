@@ -1,6 +1,6 @@
 ---
 titel: 2025-03-Verwurzelt-&-befluegelt
-start_date: 2025-03-01 00:00:00
+start_date: 2025-03-02 00:00:00
 predigten_titel: Verwurzelt & beflügelt
 image: /uploads/2025_03_Verwurzelt_und_Beflügelt.png
 aktiv: true
