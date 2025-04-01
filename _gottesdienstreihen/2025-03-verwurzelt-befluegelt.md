@@ -15,4 +15,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1741524289/predigten/2025-03/2025-03-09_verwurzelt%20und%20befl%C3%BCgelt_Mein%20innerer%20Garten.mp3
     date: 2025-03-09 11:00:00
     prediger: Ole Glöckner
+  - titel: Lesung Kunst des reifen Handelns
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1742731241/predigten/2025-03/20250323_Lesung_Kunst_des_reifen_Handelns.mp3
+    date: 2025-03-23 11:00:00
+    prediger: Dorothée Wenzel
 ---
