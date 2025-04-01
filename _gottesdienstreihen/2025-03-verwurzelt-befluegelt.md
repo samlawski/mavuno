@@ -20,4 +20,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1742731241/predigten/2025-03/20250323_Lesung_Kunst_des_reifen_Handelns.mp3
     date: 2025-03-23 11:00:00
     prediger: Dorothée Wenzel
+  - titel: Ranger Gottesdienst
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1743333060/predigten/2025-03/20250330_Rangergottesdienst_Phillip_Schuld.mp3
+    date: 2025-03-23 11:00:00
+    prediger: Phillip Schuld
 ---
