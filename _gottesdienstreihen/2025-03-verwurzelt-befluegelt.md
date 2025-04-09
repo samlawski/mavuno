@@ -23,7 +23,7 @@ predigten:
   - titel: Ranger Gottesdienst
     predigt: >- 
       https://res.cloudinary.com/mavuno/video/upload/v1743333060/predigten/2025-03/20250330_Rangergottesdienst_Phillip_Schuld.mp3
-    date: 2025-03-23 11:00:00
+    date: 2025-03-30 11:00:00
     prediger: Phillip Firsching
   - titel: Eisen schleift Eisen
     predigt: >- 
