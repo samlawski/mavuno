@@ -30,4 +30,14 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1743935154/predigten/2025-04/20250406_Eisen_schleift_Eisen.mp3
     date: 2025-04-06 11:00:00
     prediger: Verschiedene
+  - titel: Phasen geistlichen Wachstums
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1744541447/predigten/2025-04/20250413_Phasen_im_Leben_des_Glauben_Daniel_Flechsig.mp3
+    date: 2025-04-13 11:00:00
+    prediger: Daniel Flechsig
+  - titel: Ostersonntag - An den Auferstandenen glauben!
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1745149005/predigten/2025-04/20250420_Ostersonntag_dem_auferstandenen_glauben.mp3
+    date: 2025-04-20 11:00:00
+    prediger: Daniel Flechsig  
 ---
