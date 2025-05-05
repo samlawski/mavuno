@@ -39,5 +39,10 @@ predigten:
     predigt: >- 
       https://res.cloudinary.com/mavuno/video/upload/v1745149005/predigten/2025-04/20250420_Ostersonntag_dem_auferstandenen_glauben.mp3
     date: 2025-04-20 11:00:00
+    prediger: Daniel Flechsig
+  - titel: Reifen durch Herausforderungen
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1746354426/predigten/2025-05/20250504_Reifen_durch_Herausforderungen.mp3
+    date: 2025-05-04 11:00:00
     prediger: Daniel Flechsig  
 ---
