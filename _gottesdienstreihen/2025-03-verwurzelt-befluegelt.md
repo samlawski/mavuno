@@ -44,5 +44,10 @@ predigten:
     predigt: >- 
       https://res.cloudinary.com/mavuno/video/upload/v1746354426/predigten/2025-05/20250504_Reifen_durch_Herausforderungen.mp3
     date: 2025-05-04 11:00:00
+    prediger: Daniel Flechsig
+  - titel: Verwurzelt und Beflügelt Fest verwurzelt
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1746959586/predigten/2025-05/20250511_Verwurzelt_und_Befl%C3%BCgelt_Fest_verwurzelt.mp3
+    date: 2025-05-11 11:00:00
     prediger: Daniel Flechsig  
 ---
