@@ -49,5 +49,11 @@ predigten:
     predigt: >- 
       https://res.cloudinary.com/mavuno/video/upload/v1746959586/predigten/2025-05/20250511_Verwurzelt_und_Befl%C3%BCgelt_Fest_verwurzelt.mp3
     date: 2025-05-11 11:00:00
-    prediger: Daniel Flechsig  
+    prediger: Daniel Flechsig
+  - titel: Jesus Christus ganz Mensch und ganz Gott
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1747565674/predigten/2025-05/20250518_Jesus_Christus_ganz_Mensch_und_ganz_Gott.mp3
+    date: 2025-05-18 11:00:00
+    prediger: Matthias Burhenne
+
 ---
