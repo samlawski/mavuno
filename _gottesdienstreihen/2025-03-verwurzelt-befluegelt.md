@@ -55,5 +55,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1747565674/predigten/2025-05/20250518_Jesus_Christus_ganz_Mensch_und_ganz_Gott.mp3
     date: 2025-05-18 11:00:00
     prediger: Matthias Burhenne
-
+  - titel: Christus in uns
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1748775278/predigten/2025-06/20250601_Christus_in_uns.mp3
+    date: 2025-06-01 11:00:00
+    prediger: Friedhild Moldmann
 ---
