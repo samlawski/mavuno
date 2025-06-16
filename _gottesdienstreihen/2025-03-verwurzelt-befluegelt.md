@@ -65,4 +65,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1749379088/predigten/2025-06/20250608_Heiliger_Geist.mp3
     date: 2025-06-08 11:00:00
     prediger: Daniel Flechsig
+  - titel: Gott will es
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1749983253/predigten/2025-06/20250615_Gott_will_es_Esther_F%C3%BCrstenberg.mp3
+    date: 2025-06-08 11:00:00
+    prediger: Esther Fürstenberg
 ---
