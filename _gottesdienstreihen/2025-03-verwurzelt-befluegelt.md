@@ -68,6 +68,16 @@ predigten:
   - titel: Gott will es
     predigt: >- 
       https://res.cloudinary.com/mavuno/video/upload/v1749983253/predigten/2025-06/20250615_Gott_will_es_Esther_F%C3%BCrstenberg.mp3
-    date: 2025-06-08 11:00:00
+    date: 2025-06-15 11:00:00
     prediger: Esther Fürstenberg
+  - titel: Zeugnisse von Christiane Schneider und Nancy Flechsig
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1751199926/predigten/2025-06/20250622_Zeugnisse_von_Christiane_Schneider_und_Nancy_Flechsig.mp3
+    date: 2025-06-22 11:00:00
+    prediger: Christiane Schneider und Nancy Flechsig
+  - titel: Jesus nachfolgen Input zur Taufe
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1751199359/predigten/2025-06/20250629_Jesus_nachfolgen_Input_zur_Taufe.mp3
+    date: 2025-06-29 11:00:00
+    prediger: Daniel Flechsig
 ---
