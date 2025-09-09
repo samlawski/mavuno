@@ -80,4 +80,14 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1751199359/predigten/2025-06/20250629_Jesus_nachfolgen_Input_zur_Taufe.mp3
     date: 2025-06-29 11:00:00
     prediger: Daniel Flechsig
+  - titel: Gemeinde als ein Leib
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1751798606/predigten/2025-07/20250706_Gemeinde_als_ein_Leib.mp3
+    date: 2025-07-06 11:00:00
+    prediger: Daniel Flechig
+  - titel: Sehnsucht nach Mehr
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1753006137/predigten/2025-07/20250720_Sehnsucht_nach-Mehr_Moritz_Stefanie_RangerGottesdienst.mp3
+    date: 2025-07-20 10:00:00
+    prediger: Moritz Glöckner und Stefanie Schwarze
 ---
