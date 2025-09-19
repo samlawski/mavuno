@@ -90,9 +90,4 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1753006137/predigten/2025-07/20250720_Sehnsucht_nach-Mehr_Moritz_Stefanie_RangerGottesdienst.mp3
     date: 2025-07-20 10:00:00
     prediger: Moritz Glöckner und Stefanie Schwarze
-  - titel: Einschulung trifft Sommerfest
-    predigt: >- 
-      https://res.cloudinary.com/mavuno/video/upload/v1757847522/20250914_Einschulung_trifft_Sommerfest_q3tkp9.mp3
-    date: 2025-09-14 11:00:00
-    prediger: Jasmin Krause
 ---
