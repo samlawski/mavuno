@@ -1,7 +1,7 @@
 ---
 titel: 2025-09-back-to-eden
-start_date: 2025-10-01 00:00:00
-predigten_titel: Verwurzelt & beflügelt
+start_date: 2025-09-01 00:00:00
+predigten_titel: Back to Eden
 image: /uploads/2025-09-back-to-eden.png
 aktiv: true
 predigten:
