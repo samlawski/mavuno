@@ -13,6 +13,6 @@ predigten:
   - titel: Gottes Vision über Gemeinde
     predigt: >- 
       https://res.cloudinary.com/mavuno/video/upload/v1758450669/predigten/2025-09/20250921_Gottes_Vision_f%C3%BCr_Gemeinde.mp3
-    date: 2025-09-14 11:00:00
+    date: 2025-09-21 11:00:00
     prediger: Daniel Flechsig
 ---
