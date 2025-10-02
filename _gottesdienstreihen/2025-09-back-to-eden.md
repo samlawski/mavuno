@@ -15,4 +15,9 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1758450669/predigten/2025-09/20250921_Gottes_Vision_f%C3%BCr_Gemeinde.mp3
     date: 2025-09-21 11:00:00
     prediger: Daniel Flechsig
+  - titel: Gottes Vision über Gemeinde 2
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1759055997/predigten/2025-09/20250928_Back_to_Eden_Gottes_Vision_f%C3%BCr_Gemeinde.mp3
+    date: 2025-09-28 11:00:00
+    prediger: Ole Glöckner
 ---
