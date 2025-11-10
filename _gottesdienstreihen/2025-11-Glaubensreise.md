@@ -10,5 +10,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1762088823/predigten/2025-11/20251102_Gott_erkennen_Glaubensreise_I.mp3
     date: 2025-11-02 11:00:00
     prediger: Daniel Flechsig
+  - titel: In der Nachfolge leben
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1762690260/predigten/2025-11/20251109_Die_Glaubensreise_2_In_der_Nachfolge_leben.mp3
+    date: 2025-11-09 11:00:00
+    prediger: Nancy Flechsig
 
 ---
