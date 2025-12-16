@@ -40,5 +40,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1765107810/predigten/2025-12/20251207_Ich_habe_deinen_Namen_gerufen.mp3
     date: 2025-12-07 11:00:00
     prediger: Ole Glöckner
+  - titel: Bereit für Weihnachten
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1765713041/predigten/2025-12/20251214_Bereit_f%C3%BCr_Weihnachten.mp3
+    date: 2025-12-14 11:00:00
+    prediger: Johannes Kretschmar und Daniel Flechsig
 
 ---
