@@ -30,20 +30,5 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1763899575/predigten/2025-11/20251123_Die_Glaubensreise_Teil_2_Die_Wand.mp3
     date: 2025-11-23 11:00:00
     prediger: Daniel Flechsig
-  - titel: Ein Tag für Vater Martin
-    predigt: >- 
-      https://res.cloudinary.com/mavuno/video/upload/v1764502761/predigten/2025-11/20251130_Ein_Tag_f%C3%BCr_Vater_Martin_1._Advent.mp3
-    date: 2025-11-30 11:00:00
-    prediger: Jasmin Krause
-  - titel: Ich habe deinen Namen gerufen
-    predigt: >- 
-      https://res.cloudinary.com/mavuno/video/upload/v1765107810/predigten/2025-12/20251207_Ich_habe_deinen_Namen_gerufen.mp3
-    date: 2025-12-07 11:00:00
-    prediger: Ole Glöckner
-  - titel: Bereit für Weihnachten
-    predigt: >- 
-      https://res.cloudinary.com/mavuno/video/upload/v1765713041/predigten/2025-12/20251214_Bereit_f%C3%BCr_Weihnachten.mp3
-    date: 2025-12-14 11:00:00
-    prediger: Johannes Kretschmar und Daniel Flechsig
 
 ---
