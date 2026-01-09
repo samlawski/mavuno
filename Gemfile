@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 # ruby RUBY_VERSION
-gem "jekyll", "3.8.1"
+gem "jekyll", "3.8.4"
 
 gem "theme-mavuno", path: "theme-mavuno"
 gem "mini_magick"
