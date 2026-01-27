@@ -18,6 +18,6 @@ predigten:
   - titel: Alles neu Beziehungen
     predigt: >- 
       https://res.cloudinary.com/mavuno/video/upload/v1769339652/predigten/2026-01/20260125_Alles_neu_Beziehungen.mp3
-    date: 2026-01-11 11:00:00
+    date: 2026-01-25 11:00:00
     prediger: Daniel Flechsig
 ---
