@@ -15,7 +15,7 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1768737655/predigten/2026-01/20260118_Gastprediger_Siggi_Eyke.mp3
     date: 2026-01-25 11:00:00
     prediger: Siggi Eyke
-  - titel: Alles neu Beziehungen
+  - titel: Alles Neu - Beziehungen
     predigt: >- 
       https://res.cloudinary.com/mavuno/video/upload/v1769339652/predigten/2026-01/20260125_Alles_neu_Beziehungen.mp3
     date: 2026-01-25 11:00:00
