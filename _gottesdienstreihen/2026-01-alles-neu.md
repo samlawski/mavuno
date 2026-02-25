@@ -35,4 +35,5 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1771760629/predigten/2026-02/20260222_The_Chosen_Jesus_liebt_alle_Kinder.mp3
     date: 2026-02-22 11:00:00
     prediger: Daniel Flechsig
+    
 ---
