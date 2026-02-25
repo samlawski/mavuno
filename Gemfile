@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-# ruby RUBY_VERSION
+ruby "2.7.8"
 gem "jekyll", "3.8.1"
 
 gem "theme-mavuno", path: "theme-mavuno"
