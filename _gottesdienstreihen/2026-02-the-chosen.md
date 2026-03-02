@@ -15,5 +15,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1771760629/predigten/2026-02/20260222_The_Chosen_Jesus_liebt_alle_Kinder.mp3
     date: 2026-02-22 11:00:00
     prediger: Daniel Flechsig
+  - titel: The Chosen #4: Jesus hilft und beruft
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1772364166/predigten/2026-03/20260301_The_Chosen_Jesus_hilft_und_beruft_Esther_Fuerstenberg.mp3
+    date: 2026-03-01 11:00:00
+    prediger: Esther Fuerstenberg
     
 ---
