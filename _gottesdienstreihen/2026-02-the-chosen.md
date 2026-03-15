@@ -20,5 +20,15 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1772364166/predigten/2026-03/20260301_The_Chosen_Jesus_hilft_und_beruft_Esther_Fuerstenberg.mp3
     date: 2026-03-01 11:00:00
     prediger: Esther Fuerstenberg
+  - titel: The Chosen #5: Hochzeit zu Kana
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1772970492/predigten/2026-03/20260308_The_Chosen_Hochzeit_zu_Kana_Ole_Gloeckner.mp3
+    date: 2026-03-08 11:00:00
+    prediger: Ole Glöckner
+  - titel: The Chosen #6: Grenzenloses Mitgefühl
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1773576183/predigten/2026-03/20260315_The_Chosen_Grenzenloses_Mitgefuehl.mp3
+    date: 2026-03-08 11:00:00
+    prediger: Daniel Flechsig
     
 ---
