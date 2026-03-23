@@ -28,7 +28,12 @@ predigten:
   - titel: The Chosen #6: Grenzenloses Mitgefühl
     predigt: >- 
       https://res.cloudinary.com/mavuno/video/upload/v1773576183/predigten/2026-03/20260315_The_Chosen_Grenzenloses_Mitgefuehl.mp3
-    date: 2026-03-08 11:00:00
+    date: 2026-03-16 11:00:00
     prediger: Daniel Flechsig
+  - titel: The Chosen #7: Einladungen
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1774178779/predigten/2026-03/20260322_The_Chosen_Einladungen_Friedhild_Moldmann.mp3
+    date: 2026-03-22 11:00:00
+    prediger: Friedhild Moldmann
     
 ---
