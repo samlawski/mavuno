@@ -35,5 +35,10 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1774178779/predigten/2026-03/20260322_The_Chosen_Einladungen_Friedhild_Moldmann.mp3
     date: 2026-03-22 11:00:00
     prediger: Friedhild Moldmann
+  - titel: The Chosen #8: Ich bin es
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1774780602/predigten/2026-03/20260329_The_Chosen_Ich_bin_es_Daniel_Flechsig.mp3
+    date: 2026-03-29 11:00:00
+    prediger: Daniel Flechsig
     
 ---
