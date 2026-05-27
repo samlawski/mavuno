@@ -25,8 +25,8 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1778410033/predigten/2026-05/20260510_Wenn_Gott_Geschichte_schreibt_Die_Vollmacht.mp3
     date: 2026-045-10 11:00:00
     prediger: Daniel Flechsig
-  - titel: 
-    predigt: >- Nachfolge im globalen Kontext
+  - titel: Nachfolge im globalen Kontext
+    predigt: >- 
       https://res.cloudinary.com/mavuno/video/upload/v1779619533/predigten/2026-05/20260524_Christian_Mungai_Nachfolge_im_globalen_Kontext.mp3
     date: 2026-05-24 11:00:00
     prediger: Christian Mungai
