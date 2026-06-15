@@ -25,6 +25,11 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1778410033/predigten/2026-05/20260510_Wenn_Gott_Geschichte_schreibt_Die_Vollmacht.mp3
     date: 2026-05-10 11:00:00
     prediger: Daniel Flechsig
+  - titel: Wenn Gott Geschichte schreibt Die Vollmacht
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1778410033/predigten/2026-05/20260510_Wenn_Gott_Geschichte_schreibt_Die_Vollmacht.mp3
+    date: 2026-05-10 11:00:00
+    prediger: Daniel Flechsig
   - titel: Nachfolge im globalen Kontext
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1780226861/predigten/2026-05/20260531_Ole_Gl%C3%B6ckner_Auftakt_Nachbarschaftsfest.mp3
