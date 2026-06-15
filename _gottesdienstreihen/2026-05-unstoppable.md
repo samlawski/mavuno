@@ -26,15 +26,15 @@ predigten:
     date: 2026-05-10 11:00:00
     prediger: Daniel Flechsig
   - titel: Nachfolge im globalen Kontext
-    predigt: >- 
-      https://res.cloudinary.com/mavuno/video/upload/v1779619533/predigten/2026-05/20260524_Christian_Mungai_Nachfolge_im_globalen_Kontext.mp3
-    date: 2026-05-24 11:00:00
-    prediger: Christian Mungai
-      - titel: Nachfolge im globalen Kontext
     predigt: >-
       https://res.cloudinary.com/mavuno/video/upload/v1780226861/predigten/2026-05/20260531_Ole_Gl%C3%B6ckner_Auftakt_Nachbarschaftsfest.mp3
     date: 2026-05-31 11:00:00
     prediger: Ole Glöckner
+  - titel: Ruhe jetzt
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1781433465/predigten/2026-06/20260614_Ruhe_jetzt___Joe_Hartung.mp3
+    date: 2026-06-15 11:00:00
+    prediger: Joe Hartung
 
     
     
