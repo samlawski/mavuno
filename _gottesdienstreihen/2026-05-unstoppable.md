@@ -40,6 +40,11 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1781433465/predigten/2026-06/20260614_Ruhe_jetzt___Joe_Hartung.mp3
     date: 2026-06-15 11:00:00
     prediger: Joe Hartung
+  - titel: Unstoppable - Finale - Die Helden der zweiten Reihe
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1783177719/predigten/2026-06/20260621_Unstoppable_Finale.mp3
+    date: 2026-06-21 11:00:00
+    prediger: Daniel Flechsig
 
     
     
