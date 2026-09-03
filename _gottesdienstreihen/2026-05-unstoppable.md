@@ -45,6 +45,16 @@ predigten:
       https://res.cloudinary.com/mavuno/video/upload/v1783177719/predigten/2026-06/20260621_Unstoppable_Finale.mp3
     date: 2026-06-21 11:00:00
     prediger: Daniel Flechsig
+  - titel: Römer 12 2
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1787481234/predigten/2026-08/20260823_R%C3%B6mer_12_2_Ole_Gloeckner.mp3
+    date: 2026-08-23 11:00:00
+    prediger: Ole Gloeckner
+  - titel: Die Waffenrüstung Gottes
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1788087626/predigten/2026-08/20260830_Die_Waffenr%C3%BCstung_Gottes_Jasmine_Haury-Krause.mp3
+    date: 2026-08-30 11:00:00
+    prediger: Jasmine Haury-Krause
 
     
     
