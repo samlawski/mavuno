@@ -1,10 +1,20 @@
 ---
 titel: 2026-09-Fokus-Jeaus
-start_date: 2026-09-06 00:00:00
+start_date: 2026-08-23 00:00:00
 predigten_titel: Fokus Jesus
 image: /uploads/2026-09_Fokus_Jesus_800.jpg
 aktiv: true
 predigten:
+  - titel: Welcome Back!
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1787481234/predigten/2026-08/20260823_R%C3%B6mer_12_2_Ole_Gloeckner.mp3
+    date: 2026-08-23 11:00:00
+    prediger: Ole Gloeckner
+  - titel: Schulstart-Gottesdienst - Gut gerüstet!
+    predigt: >- 
+      https://res.cloudinary.com/mavuno/video/upload/v1788087626/predigten/2026-08/20260830_Die_Waffenr%C3%BCstung_Gottes_Jasmine_Haury-Krause.mp3
+    date: 2026-08-30 11:00:00
+    prediger: Jasmine Haury-Krause
   - titel: Glaube für den Montag
     predigt: >- 
       https://res.cloudinary.com/mavuno/video/upload/v1789900788/predigten/2026-09/20260906_Fokus_Jesus_Glaube_im_Alltag_Daniel_Flechsig_Nancy_Flechsig.mp3
