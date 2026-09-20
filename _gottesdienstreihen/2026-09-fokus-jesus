@@ -7,7 +7,7 @@ aktiv: true
 predigten:
   - titel: Glaube für den Montag
     predigt: >- 
-      https://asset.cloudinary.com/mavuno/e55edc9b74c1f5548934c6d4c73ecb50.mp3
+      https://res.cloudinary.com/mavuno/video/upload/v1789900788/predigten/2026-09/20260906_Fokus_Jesus_Glaube_im_Alltag_Daniel_Flechsig_Nancy_Flechsig.mp3
     date: 2026-09-06 11:00:00
     prediger: Daniel Flechsig
   - titel: Wenn Gott Geschichte schreibt Daniel Flechsig
